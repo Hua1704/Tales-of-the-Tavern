@@ -1,0 +1,71 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "maze.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "D:/APCS/Y3/S3/GAME/midterm game/tavern/tavern1.tmx": {
+            "scale": 1.6921875,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 0,
+                "y": -0.29547553093260603
+            }
+        },
+        "D:/APCS/Y3/S3/GAME/midterm game/tavern/tavern1.tmx#Doors_windows_animation": {
+            "scaleInDock": 1
+        },
+        "D:/APCS/Y3/S3/GAME/midterm game/tavern/tavern1.tmx#Interior": {
+            "scaleInDock": 1
+        },
+        "D:/APCS/Y3/S3/GAME/midterm game/tavern/tavern1.tmx#atlas_16x": {
+            "scaleInDock": 1
+        },
+        "D:/APCS/Y3/S3/GAME/midterm game/tavern/tavern1.tmx#bangthongbao": {
+            "scaleInDock": 1
+        },
+        "D:/APCS/Y3/S3/GAME/midterm game/tavern/tavern1.tmx#walls_floor": {
+            "scaleInDock": 1
+        },
+        "alldungeon.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maze.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 467.5,
+                "y": 304.5
+            }
+        },
+        "tileset.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "D:/APCS/Y3/S3/GAME/midterm game/map3",
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 50,
+    "openFiles": [
+        "maze.tmx"
+    ],
+    "project": "map3.tiled-project",
+    "recentFiles": [
+        "maze.tmx",
+        "alldungeon.tsx",
+        "tileset.tsx",
+        "D:/APCS/Y3/S3/GAME/midterm game/tavern/tavern1.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

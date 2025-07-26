@@ -1,0 +1,5475 @@
+fileFormatVersion: 2
+guid: 6384269c88ded694685c96a8709685ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3793238158612042282
+    second: Mainlvl3_0
+  - first:
+      213: 5802083871783865803
+    second: Mainlvl3_1
+  - first:
+      213: 4573640682988709217
+    second: Mainlvl3_2
+  - first:
+      213: 7854969696875746928
+    second: Mainlvl3_3
+  - first:
+      213: 8295856046458309131
+    second: Mainlvl3_4
+  - first:
+      213: 4068507396942876363
+    second: Mainlvl3_5
+  - first:
+      213: 2324916286928981035
+    second: Mainlvl3_6
+  - first:
+      213: 2603937303845125904
+    second: Mainlvl3_7
+  - first:
+      213: 5168790737584693020
+    second: Mainlvl3_8
+  - first:
+      213: -2085022464146821563
+    second: Mainlvl3_9
+  - first:
+      213: 5035158628331568270
+    second: Mainlvl3_10
+  - first:
+      213: 8955571310271960859
+    second: Mainlvl3_11
+  - first:
+      213: -9055503641478791667
+    second: Mainlvl3_12
+  - first:
+      213: -6312339264470277446
+    second: Mainlvl3_13
+  - first:
+      213: 250365280007395527
+    second: Mainlvl3_14
+  - first:
+      213: 6055564015403795926
+    second: Mainlvl3_15
+  - first:
+      213: 2301601852516887956
+    second: Mainlvl3_16
+  - first:
+      213: -3145310338227693003
+    second: Mainlvl3_17
+  - first:
+      213: -2947813675430935438
+    second: Mainlvl3_18
+  - first:
+      213: -5648101896460102013
+    second: Mainlvl3_19
+  - first:
+      213: -106042841706058207
+    second: Mainlvl3_20
+  - first:
+      213: -8542952470635254554
+    second: Mainlvl3_21
+  - first:
+      213: -2932048066540344868
+    second: Mainlvl3_22
+  - first:
+      213: 4671293612736831300
+    second: Mainlvl3_23
+  - first:
+      213: -6818620742363282441
+    second: Mainlvl3_24
+  - first:
+      213: 816219713122426086
+    second: Mainlvl3_25
+  - first:
+      213: -5979411564193817894
+    second: Mainlvl3_26
+  - first:
+      213: -3906976659072572159
+    second: Mainlvl3_27
+  - first:
+      213: 2575425088972210492
+    second: Mainlvl3_28
+  - first:
+      213: -5361782668613504778
+    second: Mainlvl3_29
+  - first:
+      213: 8751511451711789212
+    second: Mainlvl3_30
+  - first:
+      213: -6017688089961319619
+    second: Mainlvl3_31
+  - first:
+      213: 4456965634237685714
+    second: Mainlvl3_32
+  - first:
+      213: -8499471914426122137
+    second: Mainlvl3_33
+  - first:
+      213: -4170620333327723833
+    second: Mainlvl3_34
+  - first:
+      213: 4075633055780818543
+    second: Mainlvl3_35
+  - first:
+      213: 4772906233020796760
+    second: Mainlvl3_36
+  - first:
+      213: 1756922270538796995
+    second: Mainlvl3_37
+  - first:
+      213: -7687283782146032701
+    second: Mainlvl3_38
+  - first:
+      213: 8013971353461668088
+    second: Mainlvl3_39
+  - first:
+      213: -135946431919834834
+    second: Mainlvl3_40
+  - first:
+      213: 1562580448711078426
+    second: Mainlvl3_41
+  - first:
+      213: 5761984734777656398
+    second: Mainlvl3_42
+  - first:
+      213: 1859931197239889816
+    second: Mainlvl3_43
+  - first:
+      213: -8787619894202677272
+    second: Mainlvl3_44
+  - first:
+      213: -1598633061583409240
+    second: Mainlvl3_45
+  - first:
+      213: -2682854887400408183
+    second: Mainlvl3_46
+  - first:
+      213: -6031201282516974916
+    second: Mainlvl3_47
+  - first:
+      213: 8317398253681760076
+    second: Mainlvl3_48
+  - first:
+      213: -1950068558584226858
+    second: Mainlvl3_49
+  - first:
+      213: 3370106809910913378
+    second: Mainlvl3_50
+  - first:
+      213: -747632300793883575
+    second: Mainlvl3_51
+  - first:
+      213: 1409638752553135920
+    second: Mainlvl3_52
+  - first:
+      213: 505496312638644301
+    second: Mainlvl3_53
+  - first:
+      213: 6653216548227148358
+    second: Mainlvl3_54
+  - first:
+      213: -7065042944358795420
+    second: Mainlvl3_55
+  - first:
+      213: -7948441771346513381
+    second: Mainlvl3_56
+  - first:
+      213: -6182378651518675741
+    second: Mainlvl3_57
+  - first:
+      213: 8448606518949711792
+    second: Mainlvl3_58
+  - first:
+      213: 18141115991779816
+    second: Mainlvl3_59
+  - first:
+      213: -1859513879128714339
+    second: Mainlvl3_60
+  - first:
+      213: -6916847979298440713
+    second: Mainlvl3_61
+  - first:
+      213: 6185827629209110689
+    second: Mainlvl3_62
+  - first:
+      213: 2752765199308913273
+    second: Mainlvl3_63
+  - first:
+      213: 4580499974760774825
+    second: Mainlvl3_64
+  - first:
+      213: 7346410079742679469
+    second: Mainlvl3_65
+  - first:
+      213: 7484398737338849182
+    second: Mainlvl3_66
+  - first:
+      213: -5122666932488103161
+    second: Mainlvl3_67
+  - first:
+      213: -8275652643131594143
+    second: Mainlvl3_68
+  - first:
+      213: -2293995063870212347
+    second: Mainlvl3_69
+  - first:
+      213: 3628252260891784459
+    second: Mainlvl3_70
+  - first:
+      213: 4843799052836627933
+    second: Mainlvl3_71
+  - first:
+      213: -6278380575263771891
+    second: Mainlvl3_72
+  - first:
+      213: -3864158859270809108
+    second: Mainlvl3_73
+  - first:
+      213: -3401215218326741470
+    second: Mainlvl3_74
+  - first:
+      213: -1274409088996620482
+    second: Mainlvl3_75
+  - first:
+      213: 7761934165248093754
+    second: Mainlvl3_76
+  - first:
+      213: 634523829996074167
+    second: Mainlvl3_77
+  - first:
+      213: -4393010254648170850
+    second: Mainlvl3_78
+  - first:
+      213: 4783355458650434598
+    second: Mainlvl3_79
+  - first:
+      213: 3135572150506252584
+    second: Mainlvl3_80
+  - first:
+      213: -4927771489971930240
+    second: Mainlvl3_81
+  - first:
+      213: -3208007374605716539
+    second: Mainlvl3_82
+  - first:
+      213: -235754176321527977
+    second: Mainlvl3_83
+  - first:
+      213: -6958360963475147906
+    second: Mainlvl3_84
+  - first:
+      213: -1445011919708592812
+    second: Mainlvl3_85
+  - first:
+      213: 5599883467906400286
+    second: Mainlvl3_86
+  - first:
+      213: 3602910573018298023
+    second: Mainlvl3_87
+  - first:
+      213: -6359317679185651836
+    second: Mainlvl3_88
+  - first:
+      213: -7825069495096621208
+    second: Mainlvl3_89
+  - first:
+      213: -2634343729585376105
+    second: Mainlvl3_90
+  - first:
+      213: -6327433265574224019
+    second: Mainlvl3_91
+  - first:
+      213: 1419621355489704136
+    second: Mainlvl3_92
+  - first:
+      213: -5874591580634738391
+    second: Mainlvl3_93
+  - first:
+      213: 8515180461034478967
+    second: Mainlvl3_94
+  - first:
+      213: -7383159166936386980
+    second: Mainlvl3_95
+  - first:
+      213: 3983667117743802037
+    second: Mainlvl3_96
+  - first:
+      213: -3039770796824168309
+    second: Mainlvl3_97
+  - first:
+      213: -8128044837554310975
+    second: Mainlvl3_98
+  - first:
+      213: -6167855087663450360
+    second: Mainlvl3_99
+  - first:
+      213: -7181423550580664656
+    second: Mainlvl3_100
+  - first:
+      213: 5320707175219923418
+    second: Mainlvl3_101
+  - first:
+      213: 9091101400251939807
+    second: Mainlvl3_102
+  - first:
+      213: 2868496658483962018
+    second: Mainlvl3_103
+  - first:
+      213: 6674060142105701241
+    second: Mainlvl3_104
+  - first:
+      213: -7158643994452024559
+    second: Mainlvl3_105
+  - first:
+      213: -240104980299510690
+    second: Mainlvl3_106
+  - first:
+      213: 1810186415798691995
+    second: Mainlvl3_107
+  - first:
+      213: 8048823702450780073
+    second: Mainlvl3_108
+  - first:
+      213: -1069219801617831468
+    second: Mainlvl3_109
+  - first:
+      213: 7829743683482591393
+    second: Mainlvl3_110
+  - first:
+      213: -628983130080343457
+    second: Mainlvl3_111
+  - first:
+      213: -2834615298586003897
+    second: Mainlvl3_112
+  - first:
+      213: 8080361591241826703
+    second: Mainlvl3_113
+  - first:
+      213: -124892266997523892
+    second: Mainlvl3_114
+  - first:
+      213: -7569951063450501222
+    second: Mainlvl3_115
+  - first:
+      213: -8394728774080135119
+    second: Mainlvl3_116
+  - first:
+      213: -6590470790361337498
+    second: Mainlvl3_117
+  - first:
+      213: -6323855981282630401
+    second: Mainlvl3_118
+  - first:
+      213: -6807949831750504367
+    second: Mainlvl3_119
+  - first:
+      213: -7292166061423160064
+    second: Mainlvl3_120
+  - first:
+      213: -1554909367818843338
+    second: Mainlvl3_121
+  - first:
+      213: -20373675654896254
+    second: Mainlvl3_122
+  - first:
+      213: -4728374603616599980
+    second: Mainlvl3_123
+  - first:
+      213: 1313513450518114094
+    second: Mainlvl3_124
+  - first:
+      213: -957284766427079550
+    second: Mainlvl3_125
+  - first:
+      213: -2298945095714017376
+    second: Mainlvl3_126
+  - first:
+      213: -7276939050709748518
+    second: Mainlvl3_127
+  - first:
+      213: 756845247448366736
+    second: Mainlvl3_128
+  - first:
+      213: -5786594474136879660
+    second: Mainlvl3_129
+  - first:
+      213: 6508051457722017243
+    second: Mainlvl3_130
+  - first:
+      213: -4417711771196076131
+    second: Mainlvl3_131
+  - first:
+      213: 2675886718685816306
+    second: Mainlvl3_132
+  - first:
+      213: -8370963642501073226
+    second: Mainlvl3_133
+  - first:
+      213: -1468189599027801574
+    second: Mainlvl3_134
+  - first:
+      213: -3020967307183037219
+    second: Mainlvl3_135
+  - first:
+      213: -3044539231770398192
+    second: Mainlvl3_136
+  - first:
+      213: -7339693044936817174
+    second: Mainlvl3_137
+  - first:
+      213: 8914175374427027664
+    second: Mainlvl3_138
+  - first:
+      213: 5252873271454166743
+    second: Mainlvl3_139
+  - first:
+      213: -6710815598899926516
+    second: Mainlvl3_140
+  - first:
+      213: 4108149315512119183
+    second: Mainlvl3_141
+  - first:
+      213: -5388406624172131151
+    second: Mainlvl3_142
+  - first:
+      213: 2320427295947744586
+    second: Mainlvl3_143
+  - first:
+      213: 4905113229677274594
+    second: Mainlvl3_144
+  - first:
+      213: 2332532954676959100
+    second: Mainlvl3_145
+  - first:
+      213: 2645098985688365250
+    second: Mainlvl3_146
+  - first:
+      213: -769381387426513340
+    second: Mainlvl3_147
+  - first:
+      213: -7612192354692271665
+    second: Mainlvl3_148
+  - first:
+      213: 8565482317475317128
+    second: Mainlvl3_149
+  - first:
+      213: 1747432431488325291
+    second: Mainlvl3_150
+  - first:
+      213: 6331031235924968419
+    second: Mainlvl3_151
+  - first:
+      213: 1803417134856757641
+    second: Mainlvl3_152
+  - first:
+      213: -1650436702781634392
+    second: Mainlvl3_153
+  - first:
+      213: 6560756375705455501
+    second: Mainlvl3_154
+  - first:
+      213: 6927776231722880670
+    second: Mainlvl3_155
+  - first:
+      213: -3635088135344851000
+    second: Mainlvl3_156
+  - first:
+      213: 8867170455646667683
+    second: Mainlvl3_157
+  - first:
+      213: 7706316282476378779
+    second: Mainlvl3_158
+  - first:
+      213: 2426705155603024797
+    second: Mainlvl3_159
+  - first:
+      213: 3834626302835665570
+    second: Mainlvl3_160
+  - first:
+      213: 560286864059930705
+    second: Mainlvl3_161
+  - first:
+      213: 8921588536252469801
+    second: Mainlvl3_162
+  - first:
+      213: 7213528576641410266
+    second: Mainlvl3_163
+  - first:
+      213: -8228591490373522854
+    second: Mainlvl3_164
+  - first:
+      213: 959416214347647617
+    second: Mainlvl3_165
+  - first:
+      213: 9098545990258783602
+    second: Mainlvl3_166
+  - first:
+      213: 4341779674958797996
+    second: Mainlvl3_167
+  - first:
+      213: 7906437217055223860
+    second: Mainlvl3_168
+  - first:
+      213: -4978360568522626696
+    second: Mainlvl3_169
+  - first:
+      213: 8557197318235721701
+    second: Mainlvl3_170
+  - first:
+      213: -2455964652433663765
+    second: Mainlvl3_171
+  - first:
+      213: -712147316734218173
+    second: Mainlvl3_172
+  - first:
+      213: -8423267479583605056
+    second: Mainlvl3_173
+  - first:
+      213: -6654687310965874339
+    second: Mainlvl3_174
+  - first:
+      213: 2784842425381610723
+    second: Mainlvl3_175
+  - first:
+      213: -7602894879137789767
+    second: Mainlvl3_176
+  - first:
+      213: 5580350075189526451
+    second: Mainlvl3_177
+  - first:
+      213: 6664691732243991887
+    second: Mainlvl3_178
+  - first:
+      213: -7580920491540391685
+    second: Mainlvl3_179
+  - first:
+      213: -9017413806379915487
+    second: Mainlvl3_180
+  - first:
+      213: -5937859881812283169
+    second: Mainlvl3_181
+  - first:
+      213: 475201152371212631
+    second: Mainlvl3_182
+  - first:
+      213: -1890411922721398560
+    second: Mainlvl3_183
+  - first:
+      213: 4190185731035323905
+    second: Mainlvl3_184
+  - first:
+      213: -527722703055084003
+    second: Mainlvl3_185
+  - first:
+      213: -8113151489346586540
+    second: Mainlvl3_186
+  - first:
+      213: 7068578854002922617
+    second: Mainlvl3_187
+  - first:
+      213: -7902756297990573672
+    second: Mainlvl3_188
+  - first:
+      213: 4569969896517584157
+    second: Mainlvl3_189
+  - first:
+      213: 8442111097347100135
+    second: Mainlvl3_190
+  - first:
+      213: 6809924341195963139
+    second: Mainlvl3_191
+  - first:
+      213: -8924481714763394444
+    second: Mainlvl3_192
+  - first:
+      213: 3817019716645045222
+    second: Mainlvl3_193
+  - first:
+      213: 5580997411041066106
+    second: Mainlvl3_194
+  - first:
+      213: -5706217820116170468
+    second: Mainlvl3_195
+  - first:
+      213: 2404044105786067583
+    second: Mainlvl3_196
+  - first:
+      213: 3497126394434580735
+    second: Mainlvl3_197
+  - first:
+      213: 5416796361606786347
+    second: Mainlvl3_198
+  - first:
+      213: 3961738666489092317
+    second: Mainlvl3_199
+  - first:
+      213: 5531503087431726396
+    second: Mainlvl3_200
+  - first:
+      213: -3503174872752897754
+    second: Mainlvl3_201
+  - first:
+      213: 1011972761932728263
+    second: Mainlvl3_202
+  - first:
+      213: 441528307587390700
+    second: Mainlvl3_203
+  - first:
+      213: -1853478446858461337
+    second: Mainlvl3_204
+  - first:
+      213: 503188024709359415
+    second: Mainlvl3_205
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mainlvl3_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2049
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cdaee202bb9a948a9fd616b45a5908
+      internalID: 515719747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2049
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b6396e38ffd744585e68f96e238dff
+      internalID: 633038655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2049
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2eb1b42e29cdf3428c981343c87f5ca
+      internalID: 2123735057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2049
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d1de4dcf125f34cb02970b1419fb13
+      internalID: -1880600825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2049
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00572df1d04b28f49b944f86547a7739
+      internalID: -1146377195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2049
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8253d86e0651e43a6ff4d906c5af80
+      internalID: -1380173522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2049
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c5331e3b012fe42a34d763c57347cb
+      internalID: -1667473878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1984
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8de30ad353ed941b6565414ccde981
+      internalID: 577995716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1984
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aed4185bc3d094691d46163136d412
+      internalID: -529722886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1984
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8ab847a64b0494aafb93cbe43a32bf
+      internalID: 86285985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1984
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7c320cb2f40484393b0fe19bd49c21
+      internalID: 1203528565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1984
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21ebb99c4d46c84bad5fc66b92c5430
+      internalID: -584149895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1984
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f931e1840d4224f9de2df21610d490
+      internalID: -2129122997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1984
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9663cc36dbe9e7641aa3a025bb1098bb
+      internalID: 455181294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1919
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df8595adb3d68945bcb317297cd80c0
+      internalID: -263439512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1919
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bf14eebff8d924bb686c8c243f7928
+      internalID: 2030392249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1919
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f769b5b0163425247ba0bcaa0f0addde
+      internalID: -1779452087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1919
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def19bef4333962448d77c0bffd36b7e
+      internalID: 772930438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1919
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f301acbb55add2d458acb4b588dcdadb
+      internalID: 1181403687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1919
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1cd2ba668f63f4d9cfecfe46a1ebd6
+      internalID: -1143379474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1919
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8f737a384c26e43a9e2978b477a03e
+      internalID: 2005745886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1856
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fefd891900ff8245bd8f42ac5cef76f
+      internalID: -1481837450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1856
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc78b891c767c1844b35629efb059fba
+      internalID: -1435269794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1856
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104ccf9707bb65245afc4045db264d41
+      internalID: -1485086351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1856
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4b11cb53ce6754db1044f32dd7ac19
+      internalID: 801202451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1856
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6e7cc9ed96d8547ae2568231f2a525
+      internalID: -1019547979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1856
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329624b5c377130479e400d356359e04
+      internalID: 344711533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1856
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229efebd64a80d84bb772b395d7202ab
+      internalID: -1205047970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1793
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebbc8c51e92cdb49822748fed2894af
+      internalID: 840611140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1791
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7e00e9a4fef9449a63feed8cda126c
+      internalID: -458745308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1791
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9dd0a617b07f24fbaff6f7d003ea85
+      internalID: -15141579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1791
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c21606c504331147ba4732b76676ef8
+      internalID: -1490594880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1791
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa54692492712fc4fbb5561bfd0e687f
+      internalID: 551364527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1791
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa352adcc1fb6d4419e923bb29f40e76
+      internalID: 761982312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1791
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dad44435a5422468c308328441dadc
+      internalID: 1349339820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1791
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec12e33b9bd36f4da280bb514e9821d
+      internalID: -1084202764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1728
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b09b96ba2729fc43806ffc9de3ab3fb
+      internalID: 1015717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1728
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b8aba9ce9228f4bacb619dfcf2cf1e
+      internalID: -1181985552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1728
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684aae2e515cd5640b4280c418dee082
+      internalID: 1457865826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1727
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b11bd2ddac57ab448dec4bf8128436b
+      internalID: -1264176917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1727
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e27ad5aa703824449d6589a09013dd0
+      internalID: 301618719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1727
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa8988d4cafc0947886615ab4f18365
+      internalID: 735769751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1727
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fce76c75fcd5814196ca5f940497a71
+      internalID: 462439141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1727
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565f7c13a2e8c4b42a68968ca6b2bfce
+      internalID: 1829959331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1663
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9646d36b3d3079043ac1f334ffeecf1b
+      internalID: -56741002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1664
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae116ad4ce6878458ce2eb263e68000
+      internalID: 1860335060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1664
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282e790054a02384f83825ca373d357d
+      internalID: 1151296735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1664
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be253c431294f3847acc5ec48a84c13d
+      internalID: 1635815477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1664
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe0d7932b944274abeb1edec7068618
+      internalID: -2050748661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1664
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fc97f3f2d30394db26b3b3ccb02957
+      internalID: -949360695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1664
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c486c4e5a01dd4097e12ccbbfe374c
+      internalID: -568112049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1664
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abbb35a48afb8f47a974b39bd3948eb
+      internalID: 1027517708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1600
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf31682ddd3d0074e9460cde37f3924a
+      internalID: -786301465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1600
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3c288cf0b7a7a4baf970cc85d2e0e3
+      internalID: 834833606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1600
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c6d91008d457f4c86467006c46596b
+      internalID: -1606948440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1599
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d2b68d7287a804e9bbe4e662f697cc
+      internalID: 747719706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1599
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b962809e086c3f478835776dcf19f9e
+      internalID: -614765496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1599
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cac62315f67ea418d0e8878535cc16
+      internalID: 2119351471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1599
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e26e2f477826f44499722a2fa70cb04
+      internalID: -153157895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1599
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49c63c522638c44fbf8fdc085d28187
+      internalID: -1790670453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1538
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cda667bfbb525f46bede71aabce77fc
+      internalID: -1219701130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1538
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d80e9f59816668458330b1e1b8b5bd1
+      internalID: -397022937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1537
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92692c0a667d6eb4c814efd6a8a86edc
+      internalID: 1016202901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1536
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6aed513cf161c41916984e0e17f966
+      internalID: -2101074636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1537
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1a415d3b182604e9c133c8a648e850
+      internalID: -1047286234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1538
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a913ad082999e741ac4475ff618302c
+      internalID: -1681351028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1537
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39151d0829e3ea1489756bedf631ad30
+      internalID: 820836874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1536
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d1bfab705525a4c8408b57db8be309
+      internalID: 1939460337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1537
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40f3aba3294d2542a10a0d40702f787
+      internalID: -584313177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_69
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1472
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad429cd9d7ffa440a14bcae6a0cafcd
+      internalID: -871723882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_70
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1473
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20d509361262d04487cbc11c8d0feca
+      internalID: 683269164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_71
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1474
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d532c5b3a8816d04d8365ef3fccc9795
+      internalID: 521939869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_72
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1474
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f91e788345341489904c1c71799da0
+      internalID: 482895427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_73
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1473
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca1461326ac11c4fb065931be5cccf2
+      internalID: 1324433729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_74
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1473
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6b5b5264dd9eb49b996618e3aac7d4
+      internalID: -880046031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_75
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1473
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cf1a9dab22bf2409e80621e6a3fa98
+      internalID: -1382806404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_76
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1473
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad65030ffb9fd74bb9ec92ecc229e84
+      internalID: -1555562434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_77
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1473
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948ccce529e54cd4e87e895d4119c806
+      internalID: 1178629733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_78
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1407
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02008a1566c88a4eb15c6e9a9042770
+      internalID: -1436678437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1407
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cb0d3df79451c498e383e445c91dcf
+      internalID: 1459056541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1408
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dc4a580037416458b9763dd8d95554
+      internalID: 566947170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1407
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d69221d5b83f084ca7a8b6569a20825
+      internalID: -649373580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_82
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1407
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb471321bccb41b4b9bca0f57daf9543
+      internalID: -1752314281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1407
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccd244603fbbfd4cbd37a5eea20a9e2
+      internalID: -786802107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1408
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3be1a4f824d0a942bebee58983dadc9
+      internalID: 734315914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1408
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2122c38a6ea44004a8bc8b20d540c1a2
+      internalID: 1363721283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1407
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33852873515a924da32d6449b3bc8fc
+      internalID: 148608863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1344
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2c93b4cd3322b478c928b0225d4b88
+      internalID: -1867785893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1345
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fcb284ece9e074b963e43d4327e5bd
+      internalID: -408770929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1346
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0605a7577a109a44846d4ca3870ed2c
+      internalID: -1589634580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1346
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a0b11891a5cd244b83b15b21c109a6
+      internalID: -704895040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1345
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26880a3963051d49bb101c21525440d
+      internalID: -786910695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1345
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bef5db391fae024a939eefad575f3a7
+      internalID: -487447549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1345
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5aada447c8a4b4380f3ae453b0f51d
+      internalID: -239486796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1345
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7639469d00ec4a643ba8c9aaf9f39e0f
+      internalID: 1104925507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1345
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d741e3675c55c4683cd38e8180ea2b
+      internalID: -1113613900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1281
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54fd1aed1cfe9746a3d87d7e6af4b02
+      internalID: -183497265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1280
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b99a42138ca8349a6de657f78cb616
+      internalID: 1063009923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1280
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b887dfcb452d13a49912e470719f28b1
+      internalID: 1353321305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_99
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1280
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1e126904787c04fab8a6400c02f033
+      internalID: -1734857552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1280
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c377e78af7958b241bfa7ed7c9609a33
+      internalID: 744284722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1280
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfec9f4bbec4aa44b9016402f0ff414f
+      internalID: -1832359470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1215
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe43496b36acda944b48c22eda7bc5f4
+      internalID: 1458923337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1215
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2190bc074ddb14086dd76b488c3d57
+      internalID: 1546686565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1215
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eab220f26dafea4c9d762fa3fab88fa
+      internalID: 1700351283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1215
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b84dc869b6e22340990e3d074a39b40
+      internalID: 289218470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1215
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3512bb63b2c302b49883bfbead4e0d88
+      internalID: -482410885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1215
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa4b301a4d2f91459285a21da3b9dca
+      internalID: 1859963657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1150
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2f28182ce82fd4283f374e56f4c45b
+      internalID: -2008426756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1150
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596a566973cbfe9459ac71604828e8ce
+      internalID: 1981496635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1150
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b81f7441f82a84ea91574d19527882
+      internalID: -56475615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1151
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac98013e49945834695dbd9dbe92d49d
+      internalID: 98570051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1151
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55498f79ef4d274f805ad89fd66d60d
+      internalID: 1822302562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1151
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422f207f9e5dac047bf86833684186cd
+      internalID: 1604912336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1087
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83852fbd485cf84ca7c10ccde55504c
+      internalID: 403330613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1086
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8d43480eb6bd34cb84d3935848a184
+      internalID: 1961756807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1086
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df1e5c1be36ab045b656fb5b7e42803
+      internalID: 748727247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1086
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec8837d7552f1f4d907f61b0dd667c9
+      internalID: -2012612216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1086
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b423c00ec4b8a314ba87213d79b5337b
+      internalID: -2050400245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1086
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa507132c3ea0a54785a5f5e7024451d
+      internalID: 629396490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1025
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e25cb00e23c93479f572a9d929f639
+      internalID: 1729909612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_121
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1023
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92089a8f15f44814ea0fcaf07ded6778
+      internalID: 1666527301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_122
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1023
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5749b3d6c436c3e4cb74a485825607c7
+      internalID: -1134665399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_123
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1023
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234776c940300a9498f1b63420121615
+      internalID: 919596081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1023
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c124c0332ef5644b2298e2e41db6b1
+      internalID: 1266370654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1023
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd10bfb042e0ed64d85689548328f542
+      internalID: 178739442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1023
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491735d68467ce54b857545684ff4833
+      internalID: 502055203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_127
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1023
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ec47796a1285a47b7f316e5d1ef5a9
+      internalID: 1305043453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_128
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1023
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843527380c2335145855032ca8982069
+      internalID: -1087183773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_129
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1023
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342767168dc8a5c4283d2e7735bbba45
+      internalID: -775824466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_130
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1023
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf3f615d9a93c1468dca571b015d6b8
+      internalID: -70684099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_131
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1023
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e075126545bb7d8428de847f74fcdcef
+      internalID: -650002465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_132
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1023
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0332844fd93ab4088332e51af4cca2
+      internalID: -953677309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_133
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 960
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be08faf7fe32ce44081039019936d6df
+      internalID: 1410288537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 960
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61be3679efdc81147875e36c03d05aaa
+      internalID: 1936685835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_135
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 960
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f732e03a0ece45942be607548c5615c0
+      internalID: 864193097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 959
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa549dc2c6f1b3c419c5665e9cc3f7f2
+      internalID: -490557597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 959
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874d4ee095059604698a2fd1fa3a40a5
+      internalID: 224777392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 959
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff7b7bf489a4ce4093a440ef92c5f53
+      internalID: -1711410830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 959
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967471d976065364493cad04925afa8d
+      internalID: 501485103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 959
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a41cd3fa146394091e50acff858cc8
+      internalID: 544848942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 959
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd07cab05c243b849a0257d1cfa9ebe4
+      internalID: 1979523639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 959
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ff2dbadde9dcc46b93f14274cdc5df
+      internalID: -195117394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_143
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 959
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5e86d89042e6b42a887cd210af8cce
+      internalID: -529774548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_144
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 959
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd796829a21e2c4eafddd02785c8443
+      internalID: -2115439674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_145
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 959
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cea86018a4be744b48a1fd269e42ef
+      internalID: 415989516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 895
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb78dc3d2fd7f3646add28cb4ca1db64
+      internalID: -273599737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 896
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0138ce05779254fa86f0b289348999
+      internalID: 629056027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 897
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf1d50ae7db0a74f8773ec0c3e1d102
+      internalID: -1446461246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 895
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6489bc6ac170d4aab911f4aec59f5f
+      internalID: 1519615813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 895
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445a11202c184d3449bbf9a2c16b0e41
+      internalID: 2055440318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 895
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4761fd91231e0324bbb7c980f355a998
+      internalID: 1201670558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 895
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0ca5dc61791e041aa883a71aa8a9e9
+      internalID: 2108603231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 895
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbbea3445ffedf41b36dbfcbddbdae8
+      internalID: -1212441341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 895
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df93b621c14278143920d0b0d94236ca
+      internalID: 999340279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 895
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b82c7611901f6c4aa62b574bc001417
+      internalID: 1264847379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 895
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872ab339754603c4ca029c6aaa405627
+      internalID: 819342921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 895
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f702937d762712418531ab8fe59f76f
+      internalID: 1634114076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 895
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778ff9bca07daa9489e405cd61d239e8
+      internalID: -987570937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 832
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7796011479c3034da109eb990eeaf03
+      internalID: -2068906888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_160
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 832
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab45f67d88b133e4fa0e6de20ba7faa2
+      internalID: -153440183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 832
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70bb161e2a5c5a4bb197ba71ef86d80
+      internalID: -2042928746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 831
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eb61a7499dc8e4cbced61b99da53d9
+      internalID: 965525040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 831
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd262db2b945b64d8ae5ba94a8fec73
+      internalID: -2069053301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 831
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b986b9ed38ab24c878f31adecd5dc8
+      internalID: 1926553665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 831
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed60664d7d3c2f94a99d3349c2d3e2c4
+      internalID: -156574921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 831
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8a0cb330672804cb57f13bf8488f02
+      internalID: -652850274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 831
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee15378c9c1b464bb681d866b25fd54
+      internalID: -1681402029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 831
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcba9662acd11f24093453c021e73328
+      internalID: 596165497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 831
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db4b085dc46c6d44ba12fb65348aa4a
+      internalID: 2000604920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_170
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 831
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c688525b11a105459c02187e0a201cb
+      internalID: -744818954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 831
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd913d25e2406da4f8e8f17fcf3a9c48
+      internalID: -120453962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 767
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170a744ec53ea8841a7ceb9956c8c31e
+      internalID: -682606279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 767
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d4f2aae7757fe489c32ff4ebb7f325
+      internalID: -2100418310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 767
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a1ac1601b677641a8f3e5809b07758
+      internalID: 286823682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 767
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d75b7d59d82604597e250e3016b606
+      internalID: -769802700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 767
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ea5b2302e8b4a48b29529d336a9c46
+      internalID: 403523497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 767
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3887e2b9ed25b274db19dfa0c55d693d
+      internalID: 962090212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_178
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 767
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4288537b8af80489749d9f153c32fd
+      internalID: -1869291436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_179
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 768
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028a0382c11077742a304402d965f4df
+      internalID: -1601697333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_180
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 767
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a117c67da8f41f4a84e465ed1ec5b69
+      internalID: 1871071636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_181
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 767
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b667fefee31e99a49982088ca427b88e
+      internalID: -1936033538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_182
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 641
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f22fa99766ce224baa09d6b67b6204f
+      internalID: -532038602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_183
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 640
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32845b311b78ace4ebc20b466a1b7edd
+      internalID: 1965051494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_184
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 640
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364c8bb2bec29f84b827d87fd537f0d3
+      internalID: 1403067990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_185
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 640
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c378014fc81609a448093857195eefb5
+      internalID: -1815986011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_186
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 640
+        width: 83
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de03347182ee4f84f97b3a9b8d627a4e
+      internalID: 355286098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_187
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 640
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac1c4f8af36fd54398b771014534630
+      internalID: 940345755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_188
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 446
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1b888fdb8078e4aa36f016cb55a410
+      internalID: 1408572132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_189
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 447
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a2008eecb325e428e1e8428b796b7b
+      internalID: -1052171631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_190
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 447
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ab465fb58af884a855e1b27cb37017
+      internalID: 204756270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_191
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 447
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798640607781ad24eb183d7798fecd0d
+      internalID: -505481373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_192
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 447
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6020132e151aa4c89ac0d9a918f483
+      internalID: -657029630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_193
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 447
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d9982dc10e66943817521c8f7141b2
+      internalID: -713776237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_194
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 254
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58158510b90f73842a8dbe9127db2269
+      internalID: 14047362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_195
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 255
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21fac6b68e75a14abca63f276a77209
+      internalID: 875090564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_196
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 255
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbd0c335e16d954c80d23c5b4603fd3
+      internalID: 845604849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_197
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 256
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d146c4f56c666554c9d10ee1acbc2660
+      internalID: 1980086569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_198
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 236
+        width: 83
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b4ba949bf45404ab38d72c6468d76e
+      internalID: -1591768730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_199
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 239
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bdc092561d8394897175fcd867359d
+      internalID: 1122389841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_200
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 61
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9bfcc4b8227f747a7b2ccf2437765a
+      internalID: -501340879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_201
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 62
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b18d8fd3b1b0d488fc79872b8ccaa3
+      internalID: 666467488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_202
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 62
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74daf96d9d0dc547ae6cc13398b03ed
+      internalID: -1817492828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_203
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 62
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a31dd86a4b66a048b4d4ae8d9e13685
+      internalID: -1397934400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_204
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 62
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b29034e6306114b8045ff6d1d91f17
+      internalID: 621717831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3_205
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 62
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27caf5a8c48aa7442b65fb7cccc2d233
+      internalID: -976487040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0aa058360d968e04e962fb2cb6d7b055
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Mainlvl3_0: 515719747
+      Mainlvl3_1: 633038655
+      Mainlvl3_10: 1203528565
+      Mainlvl3_100: 744284722
+      Mainlvl3_101: -1832359470
+      Mainlvl3_102: 1458923337
+      Mainlvl3_103: 1546686565
+      Mainlvl3_104: 1700351283
+      Mainlvl3_105: 289218470
+      Mainlvl3_106: -482410885
+      Mainlvl3_107: 1859963657
+      Mainlvl3_108: -2008426756
+      Mainlvl3_109: 1981496635
+      Mainlvl3_11: -584149895
+      Mainlvl3_110: -56475615
+      Mainlvl3_111: 98570051
+      Mainlvl3_112: 1822302562
+      Mainlvl3_113: 1604912336
+      Mainlvl3_114: 403330613
+      Mainlvl3_115: 1961756807
+      Mainlvl3_116: 748727247
+      Mainlvl3_117: -2012612216
+      Mainlvl3_118: -2050400245
+      Mainlvl3_119: 629396490
+      Mainlvl3_12: -2129122997
+      Mainlvl3_120: 1729909612
+      Mainlvl3_121: 1666527301
+      Mainlvl3_122: -1134665399
+      Mainlvl3_123: 919596081
+      Mainlvl3_124: 1266370654
+      Mainlvl3_125: 178739442
+      Mainlvl3_126: 502055203
+      Mainlvl3_127: 1305043453
+      Mainlvl3_128: -1087183773
+      Mainlvl3_129: -775824466
+      Mainlvl3_13: 455181294
+      Mainlvl3_130: -70684099
+      Mainlvl3_131: -650002465
+      Mainlvl3_132: -953677309
+      Mainlvl3_133: 1410288537
+      Mainlvl3_134: 1936685835
+      Mainlvl3_135: 864193097
+      Mainlvl3_136: -490557597
+      Mainlvl3_137: 224777392
+      Mainlvl3_138: -1711410830
+      Mainlvl3_139: 501485103
+      Mainlvl3_14: -263439512
+      Mainlvl3_140: 544848942
+      Mainlvl3_141: 1979523639
+      Mainlvl3_142: -195117394
+      Mainlvl3_143: -529774548
+      Mainlvl3_144: -2115439674
+      Mainlvl3_145: 415989516
+      Mainlvl3_146: -273599737
+      Mainlvl3_147: 629056027
+      Mainlvl3_148: -1446461246
+      Mainlvl3_149: 1519615813
+      Mainlvl3_15: 2030392249
+      Mainlvl3_150: 2055440318
+      Mainlvl3_151: 1201670558
+      Mainlvl3_152: 2108603231
+      Mainlvl3_153: -1212441341
+      Mainlvl3_154: 999340279
+      Mainlvl3_155: 1264847379
+      Mainlvl3_156: 819342921
+      Mainlvl3_157: 1634114076
+      Mainlvl3_158: -987570937
+      Mainlvl3_159: -2068906888
+      Mainlvl3_16: -1779452087
+      Mainlvl3_160: -153440183
+      Mainlvl3_161: -2042928746
+      Mainlvl3_162: 965525040
+      Mainlvl3_163: -2069053301
+      Mainlvl3_164: 1926553665
+      Mainlvl3_165: -156574921
+      Mainlvl3_166: -652850274
+      Mainlvl3_167: -1681402029
+      Mainlvl3_168: 596165497
+      Mainlvl3_169: 2000604920
+      Mainlvl3_17: 772930438
+      Mainlvl3_170: -744818954
+      Mainlvl3_171: -120453962
+      Mainlvl3_172: -682606279
+      Mainlvl3_173: -2100418310
+      Mainlvl3_174: 286823682
+      Mainlvl3_175: -769802700
+      Mainlvl3_176: 403523497
+      Mainlvl3_177: 962090212
+      Mainlvl3_178: -1869291436
+      Mainlvl3_179: -1601697333
+      Mainlvl3_18: 1181403687
+      Mainlvl3_180: 1871071636
+      Mainlvl3_181: -1936033538
+      Mainlvl3_182: -532038602
+      Mainlvl3_183: 1965051494
+      Mainlvl3_184: 1403067990
+      Mainlvl3_185: -1815986011
+      Mainlvl3_186: 355286098
+      Mainlvl3_187: 940345755
+      Mainlvl3_188: 1408572132
+      Mainlvl3_189: -1052171631
+      Mainlvl3_19: -1143379474
+      Mainlvl3_190: 204756270
+      Mainlvl3_191: -505481373
+      Mainlvl3_192: -657029630
+      Mainlvl3_193: -713776237
+      Mainlvl3_194: 14047362
+      Mainlvl3_195: 875090564
+      Mainlvl3_196: 845604849
+      Mainlvl3_197: 1980086569
+      Mainlvl3_198: -1591768730
+      Mainlvl3_199: 1122389841
+      Mainlvl3_2: 2123735057
+      Mainlvl3_20: 2005745886
+      Mainlvl3_200: -501340879
+      Mainlvl3_201: 666467488
+      Mainlvl3_202: -1817492828
+      Mainlvl3_203: -1397934400
+      Mainlvl3_204: 621717831
+      Mainlvl3_205: -976487040
+      Mainlvl3_21: -1481837450
+      Mainlvl3_22: -1435269794
+      Mainlvl3_23: -1485086351
+      Mainlvl3_24: 801202451
+      Mainlvl3_25: -1019547979
+      Mainlvl3_26: 344711533
+      Mainlvl3_27: -1205047970
+      Mainlvl3_28: 840611140
+      Mainlvl3_29: -458745308
+      Mainlvl3_3: -1880600825
+      Mainlvl3_30: -15141579
+      Mainlvl3_31: -1490594880
+      Mainlvl3_32: 551364527
+      Mainlvl3_33: 761982312
+      Mainlvl3_34: 1349339820
+      Mainlvl3_35: -1084202764
+      Mainlvl3_36: 1015717
+      Mainlvl3_37: -1181985552
+      Mainlvl3_38: 1457865826
+      Mainlvl3_39: -1264176917
+      Mainlvl3_4: -1146377195
+      Mainlvl3_40: 301618719
+      Mainlvl3_41: 735769751
+      Mainlvl3_42: 462439141
+      Mainlvl3_43: 1829959331
+      Mainlvl3_44: -56741002
+      Mainlvl3_45: 1860335060
+      Mainlvl3_46: 1151296735
+      Mainlvl3_47: 1635815477
+      Mainlvl3_48: -2050748661
+      Mainlvl3_49: -949360695
+      Mainlvl3_5: -1380173522
+      Mainlvl3_50: -568112049
+      Mainlvl3_51: 1027517708
+      Mainlvl3_52: -786301465
+      Mainlvl3_53: 834833606
+      Mainlvl3_54: -1606948440
+      Mainlvl3_55: 747719706
+      Mainlvl3_56: -614765496
+      Mainlvl3_57: 2119351471
+      Mainlvl3_58: -153157895
+      Mainlvl3_59: -1790670453
+      Mainlvl3_6: -1667473878
+      Mainlvl3_60: -1219701130
+      Mainlvl3_61: -397022937
+      Mainlvl3_62: 1016202901
+      Mainlvl3_63: -2101074636
+      Mainlvl3_64: -1047286234
+      Mainlvl3_65: -1681351028
+      Mainlvl3_66: 820836874
+      Mainlvl3_67: 1939460337
+      Mainlvl3_68: -584313177
+      Mainlvl3_69: -871723882
+      Mainlvl3_7: 577995716
+      Mainlvl3_70: 683269164
+      Mainlvl3_71: 521939869
+      Mainlvl3_72: 482895427
+      Mainlvl3_73: 1324433729
+      Mainlvl3_74: -880046031
+      Mainlvl3_75: -1382806404
+      Mainlvl3_76: -1555562434
+      Mainlvl3_77: 1178629733
+      Mainlvl3_78: -1436678437
+      Mainlvl3_79: 1459056541
+      Mainlvl3_8: -529722886
+      Mainlvl3_80: 566947170
+      Mainlvl3_81: -649373580
+      Mainlvl3_82: -1752314281
+      Mainlvl3_83: -786802107
+      Mainlvl3_84: 734315914
+      Mainlvl3_85: 1363721283
+      Mainlvl3_86: 148608863
+      Mainlvl3_87: -1867785893
+      Mainlvl3_88: -408770929
+      Mainlvl3_89: -1589634580
+      Mainlvl3_9: 86285985
+      Mainlvl3_90: -704895040
+      Mainlvl3_91: -786910695
+      Mainlvl3_92: -487447549
+      Mainlvl3_93: -239486796
+      Mainlvl3_94: 1104925507
+      Mainlvl3_95: -1113613900
+      Mainlvl3_96: -183497265
+      Mainlvl3_97: 1063009923
+      Mainlvl3_98: 1353321305
+      Mainlvl3_99: -1734857552
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

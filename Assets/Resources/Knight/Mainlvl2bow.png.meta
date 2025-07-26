@@ -1,0 +1,4745 @@
+fileFormatVersion: 2
+guid: 2f07cf9667cf56d498bdde2ce2035ffe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5288995774110447255
+    second: Mainlvl2bow_0
+  - first:
+      213: -3392198802042022685
+    second: Mainlvl2bow_1
+  - first:
+      213: 2750749996165801859
+    second: Mainlvl2bow_2
+  - first:
+      213: -4447341281018023372
+    second: Mainlvl2bow_3
+  - first:
+      213: -1178167442782778629
+    second: Mainlvl2bow_4
+  - first:
+      213: -4050735113548327838
+    second: Mainlvl2bow_5
+  - first:
+      213: 4065340310865657924
+    second: Mainlvl2bow_6
+  - first:
+      213: -4031650539180325262
+    second: Mainlvl2bow_7
+  - first:
+      213: 2555762636616301091
+    second: Mainlvl2bow_8
+  - first:
+      213: -1470015969246738608
+    second: Mainlvl2bow_9
+  - first:
+      213: -8413218466236493567
+    second: Mainlvl2bow_10
+  - first:
+      213: 3511860742207676967
+    second: Mainlvl2bow_11
+  - first:
+      213: 7122337647372164880
+    second: Mainlvl2bow_12
+  - first:
+      213: 6117821907200693402
+    second: Mainlvl2bow_13
+  - first:
+      213: -5736426236230006210
+    second: Mainlvl2bow_14
+  - first:
+      213: 4319727991069296427
+    second: Mainlvl2bow_15
+  - first:
+      213: -5022394682153605725
+    second: Mainlvl2bow_16
+  - first:
+      213: 2694556440645322583
+    second: Mainlvl2bow_17
+  - first:
+      213: 5611580811496715602
+    second: Mainlvl2bow_18
+  - first:
+      213: 7253939300977557126
+    second: Mainlvl2bow_19
+  - first:
+      213: 8936326836387717670
+    second: Mainlvl2bow_20
+  - first:
+      213: 7261440946505442708
+    second: Mainlvl2bow_21
+  - first:
+      213: 6446638778791077887
+    second: Mainlvl2bow_22
+  - first:
+      213: -7087993862261117487
+    second: Mainlvl2bow_23
+  - first:
+      213: -1669158299004844550
+    second: Mainlvl2bow_24
+  - first:
+      213: -324016771940641428
+    second: Mainlvl2bow_25
+  - first:
+      213: 3480881046838545651
+    second: Mainlvl2bow_26
+  - first:
+      213: 2307514758486613003
+    second: Mainlvl2bow_27
+  - first:
+      213: 8307597235053027288
+    second: Mainlvl2bow_28
+  - first:
+      213: 9047112566181292405
+    second: Mainlvl2bow_29
+  - first:
+      213: 8941779386372970436
+    second: Mainlvl2bow_30
+  - first:
+      213: -8471839857572922341
+    second: Mainlvl2bow_31
+  - first:
+      213: -217810248765942531
+    second: Mainlvl2bow_32
+  - first:
+      213: 2580861543495565250
+    second: Mainlvl2bow_33
+  - first:
+      213: 7223363643229223926
+    second: Mainlvl2bow_34
+  - first:
+      213: 6602651946222505120
+    second: Mainlvl2bow_35
+  - first:
+      213: -3867474307038073673
+    second: Mainlvl2bow_36
+  - first:
+      213: 5078473140391890223
+    second: Mainlvl2bow_37
+  - first:
+      213: 2301002948887607666
+    second: Mainlvl2bow_38
+  - first:
+      213: -2516906634873377876
+    second: Mainlvl2bow_39
+  - first:
+      213: -8222087275333800161
+    second: Mainlvl2bow_40
+  - first:
+      213: 3280604607451309610
+    second: Mainlvl2bow_41
+  - first:
+      213: 8335594360307596243
+    second: Mainlvl2bow_42
+  - first:
+      213: -9038404759786769027
+    second: Mainlvl2bow_43
+  - first:
+      213: -3462205948042647530
+    second: Mainlvl2bow_44
+  - first:
+      213: -6604350418925948
+    second: Mainlvl2bow_45
+  - first:
+      213: -2179528904519039176
+    second: Mainlvl2bow_46
+  - first:
+      213: -3633479069469235591
+    second: Mainlvl2bow_47
+  - first:
+      213: -9222594796592622256
+    second: Mainlvl2bow_48
+  - first:
+      213: 4153758080500034973
+    second: Mainlvl2bow_49
+  - first:
+      213: 8639385213416714552
+    second: Mainlvl2bow_50
+  - first:
+      213: -2628119702329238794
+    second: Mainlvl2bow_51
+  - first:
+      213: 8569830102262314285
+    second: Mainlvl2bow_52
+  - first:
+      213: 8277930973396895392
+    second: Mainlvl2bow_53
+  - first:
+      213: 5960050995810345842
+    second: Mainlvl2bow_54
+  - first:
+      213: -4493833596684346435
+    second: Mainlvl2bow_55
+  - first:
+      213: 8148422069574522737
+    second: Mainlvl2bow_56
+  - first:
+      213: -1809450714255848621
+    second: Mainlvl2bow_57
+  - first:
+      213: -4585124378331967866
+    second: Mainlvl2bow_58
+  - first:
+      213: 320401536068635096
+    second: Mainlvl2bow_59
+  - first:
+      213: -7078491070908897256
+    second: Mainlvl2bow_60
+  - first:
+      213: 1851835981187971098
+    second: Mainlvl2bow_61
+  - first:
+      213: 5528403070605729545
+    second: Mainlvl2bow_62
+  - first:
+      213: -4681086259063570229
+    second: Mainlvl2bow_63
+  - first:
+      213: 2656835958649000278
+    second: Mainlvl2bow_64
+  - first:
+      213: -6588357951071615934
+    second: Mainlvl2bow_65
+  - first:
+      213: -3509421009353465411
+    second: Mainlvl2bow_66
+  - first:
+      213: -2230301394522676341
+    second: Mainlvl2bow_67
+  - first:
+      213: -4742106923438469072
+    second: Mainlvl2bow_68
+  - first:
+      213: 4201726477911405321
+    second: Mainlvl2bow_69
+  - first:
+      213: 5734374879489060119
+    second: Mainlvl2bow_70
+  - first:
+      213: 413387970118053075
+    second: Mainlvl2bow_71
+  - first:
+      213: -4555088510674183849
+    second: Mainlvl2bow_72
+  - first:
+      213: -5418894312347483153
+    second: Mainlvl2bow_73
+  - first:
+      213: 5036864205648637291
+    second: Mainlvl2bow_74
+  - first:
+      213: -2548787314197467863
+    second: Mainlvl2bow_75
+  - first:
+      213: 4001457660897722767
+    second: Mainlvl2bow_76
+  - first:
+      213: 8542979131779215275
+    second: Mainlvl2bow_77
+  - first:
+      213: -3474426614158977982
+    second: Mainlvl2bow_78
+  - first:
+      213: 4658261023439658672
+    second: Mainlvl2bow_79
+  - first:
+      213: -7561481973277659658
+    second: Mainlvl2bow_80
+  - first:
+      213: -8361193260692651584
+    second: Mainlvl2bow_81
+  - first:
+      213: 6456767068465671938
+    second: Mainlvl2bow_82
+  - first:
+      213: -44719216153426015
+    second: Mainlvl2bow_83
+  - first:
+      213: -3817202594990821748
+    second: Mainlvl2bow_84
+  - first:
+      213: -8523700994900305520
+    second: Mainlvl2bow_85
+  - first:
+      213: 7586135069750122709
+    second: Mainlvl2bow_86
+  - first:
+      213: 1967506583621678377
+    second: Mainlvl2bow_87
+  - first:
+      213: -6120716101608609666
+    second: Mainlvl2bow_88
+  - first:
+      213: 6327073287984297923
+    second: Mainlvl2bow_89
+  - first:
+      213: 4172957799539872219
+    second: Mainlvl2bow_90
+  - first:
+      213: -933316697217218820
+    second: Mainlvl2bow_91
+  - first:
+      213: 508437034331854532
+    second: Mainlvl2bow_92
+  - first:
+      213: 7112228604614152571
+    second: Mainlvl2bow_93
+  - first:
+      213: 643764222109242071
+    second: Mainlvl2bow_94
+  - first:
+      213: -3464092487630430252
+    second: Mainlvl2bow_95
+  - first:
+      213: 7955390942253184811
+    second: Mainlvl2bow_96
+  - first:
+      213: 141772373903191914
+    second: Mainlvl2bow_97
+  - first:
+      213: 7953895817553521503
+    second: Mainlvl2bow_98
+  - first:
+      213: -3353333372386070028
+    second: Mainlvl2bow_99
+  - first:
+      213: -5993600494712639398
+    second: Mainlvl2bow_100
+  - first:
+      213: 4966118140441126461
+    second: Mainlvl2bow_101
+  - first:
+      213: -7119079964532528992
+    second: Mainlvl2bow_102
+  - first:
+      213: 3106531747767418213
+    second: Mainlvl2bow_103
+  - first:
+      213: 6224694436207301526
+    second: Mainlvl2bow_104
+  - first:
+      213: -7335397777133464516
+    second: Mainlvl2bow_105
+  - first:
+      213: -2249629061720085542
+    second: Mainlvl2bow_106
+  - first:
+      213: -7731615626563781365
+    second: Mainlvl2bow_107
+  - first:
+      213: 5355594477547525253
+    second: Mainlvl2bow_108
+  - first:
+      213: -3722739918722885899
+    second: Mainlvl2bow_109
+  - first:
+      213: -6662680179548539069
+    second: Mainlvl2bow_110
+  - first:
+      213: 2262443967887314114
+    second: Mainlvl2bow_111
+  - first:
+      213: 1528636932812482712
+    second: Mainlvl2bow_112
+  - first:
+      213: -8210712581013815249
+    second: Mainlvl2bow_113
+  - first:
+      213: -5885886257318955014
+    second: Mainlvl2bow_114
+  - first:
+      213: -3815184969995255871
+    second: Mainlvl2bow_115
+  - first:
+      213: -3140742102139691390
+    second: Mainlvl2bow_116
+  - first:
+      213: 7199525920901375030
+    second: Mainlvl2bow_117
+  - first:
+      213: -181067872149374744
+    second: Mainlvl2bow_118
+  - first:
+      213: -8778774403160546118
+    second: Mainlvl2bow_119
+  - first:
+      213: 2996020195828672492
+    second: Mainlvl2bow_120
+  - first:
+      213: 7914373504629412679
+    second: Mainlvl2bow_121
+  - first:
+      213: 6803233806531977117
+    second: Mainlvl2bow_122
+  - first:
+      213: 1879302377104812329
+    second: Mainlvl2bow_123
+  - first:
+      213: 4827396980169968321
+    second: Mainlvl2bow_124
+  - first:
+      213: -8885927846201329300
+    second: Mainlvl2bow_125
+  - first:
+      213: -2172276198302643967
+    second: Mainlvl2bow_126
+  - first:
+      213: 301412992291283249
+    second: Mainlvl2bow_127
+  - first:
+      213: -1671654307002785204
+    second: Mainlvl2bow_128
+  - first:
+      213: -6875546827319985098
+    second: Mainlvl2bow_129
+  - first:
+      213: 5733755718210055559
+    second: Mainlvl2bow_130
+  - first:
+      213: 2068807224989699876
+    second: Mainlvl2bow_131
+  - first:
+      213: 7410498005050406537
+    second: Mainlvl2bow_132
+  - first:
+      213: 9163235679830178278
+    second: Mainlvl2bow_133
+  - first:
+      213: 6218096136682466055
+    second: Mainlvl2bow_134
+  - first:
+      213: 2307556585093746191
+    second: Mainlvl2bow_135
+  - first:
+      213: 6641904524105994705
+    second: Mainlvl2bow_136
+  - first:
+      213: -4534717319421127842
+    second: Mainlvl2bow_137
+  - first:
+      213: -1834760701905649625
+    second: Mainlvl2bow_138
+  - first:
+      213: 881821259439595678
+    second: Mainlvl2bow_139
+  - first:
+      213: -8436805469638071814
+    second: Mainlvl2bow_140
+  - first:
+      213: -8235643932198772868
+    second: Mainlvl2bow_141
+  - first:
+      213: 305399737046769297
+    second: Mainlvl2bow_142
+  - first:
+      213: -7805963254305374129
+    second: Mainlvl2bow_143
+  - first:
+      213: -8234938864585954561
+    second: Mainlvl2bow_144
+  - first:
+      213: -1273255720440624879
+    second: Mainlvl2bow_145
+  - first:
+      213: 3854625309730702612
+    second: Mainlvl2bow_146
+  - first:
+      213: 2143518970786826747
+    second: Mainlvl2bow_147
+  - first:
+      213: 6346878511911621419
+    second: Mainlvl2bow_148
+  - first:
+      213: -5407676527156482885
+    second: Mainlvl2bow_149
+  - first:
+      213: 2216996988838311932
+    second: Mainlvl2bow_150
+  - first:
+      213: -2320965518145014968
+    second: Mainlvl2bow_151
+  - first:
+      213: -678743986384753851
+    second: Mainlvl2bow_152
+  - first:
+      213: -7245527981538217729
+    second: Mainlvl2bow_153
+  - first:
+      213: 4808063358872999383
+    second: Mainlvl2bow_154
+  - first:
+      213: -6914962574936661788
+    second: Mainlvl2bow_155
+  - first:
+      213: 8614996307475481050
+    second: Mainlvl2bow_156
+  - first:
+      213: 5101006156152084503
+    second: Mainlvl2bow_157
+  - first:
+      213: -8303634152721867711
+    second: Mainlvl2bow_158
+  - first:
+      213: -234761580759975331
+    second: Mainlvl2bow_159
+  - first:
+      213: 6394486090562781211
+    second: Mainlvl2bow_160
+  - first:
+      213: 3298566396534407905
+    second: Mainlvl2bow_161
+  - first:
+      213: 3705319533608415297
+    second: Mainlvl2bow_162
+  - first:
+      213: -7174706680278895764
+    second: Mainlvl2bow_163
+  - first:
+      213: -510716422882662829
+    second: Mainlvl2bow_164
+  - first:
+      213: -6640763784432692168
+    second: Mainlvl2bow_165
+  - first:
+      213: -2626891594723756544
+    second: Mainlvl2bow_166
+  - first:
+      213: 2701521630989606460
+    second: Mainlvl2bow_167
+  - first:
+      213: -6418227037211225009
+    second: Mainlvl2bow_168
+  - first:
+      213: 8579551522273705832
+    second: Mainlvl2bow_169
+  - first:
+      213: 93376017685025393
+    second: Mainlvl2bow_170
+  - first:
+      213: 2274430988200452797
+    second: Mainlvl2bow_171
+  - first:
+      213: -809444225057797106
+    second: Mainlvl2bow_172
+  - first:
+      213: -8487000005872829132
+    second: Mainlvl2bow_173
+  - first:
+      213: 3806634052314220155
+    second: Mainlvl2bow_174
+  - first:
+      213: -802884999985648584
+    second: Mainlvl2bow_175
+  - first:
+      213: 6323290402832241087
+    second: Mainlvl2bow_176
+  - first:
+      213: -8523016798451389312
+    second: Mainlvl2bow_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mainlvl2bow_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1281
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796356e52a9466940800000000000000
+      internalID: 5288995774110447255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1281
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e497c4892d7ce0d0800000000000000
+      internalID: -3392198802042022685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1281
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387ae532c80ac2620800000000000000
+      internalID: 2750749996165801859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1281
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4327dfdfaaed742c0800000000000000
+      internalID: -4447341281018023372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1281
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa8007f3fe46afe0800000000000000
+      internalID: -1178167442782778629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1281
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26410cd30e5e8c7c0800000000000000
+      internalID: -4050735113548327838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1281
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4404930497dfa6830800000000000000
+      internalID: 4065340310865657924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1216
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27605a9f133bc08c0800000000000000
+      internalID: -4031650539180325262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1216
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32afab5b394e77320800000000000000
+      internalID: 2555762636616301091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1216
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05785e2b344799be0800000000000000
+      internalID: -1470015969246738608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1216
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101973e416e3e3b80800000000000000
+      internalID: -8413218466236493567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1216
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722ade70db2acb030800000000000000
+      internalID: 3511860742207676967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1216
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f5202ca50a7d260800000000000000
+      internalID: 7122337647372164880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1216
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94dcc96c9ed6e450800000000000000
+      internalID: 6117821907200693402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1151
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a87452bbe1460b0800000000000000
+      internalID: -5736426236230006210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1151
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b274ff198b1c2fb30800000000000000
+      internalID: 4319727991069296427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1151
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a56c6875aedc4ab0800000000000000
+      internalID: -5022394682153605725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1151
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757c7ef6eccf46520800000000000000
+      internalID: 2694556440645322583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1151
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255f8a1440750ed40800000000000000
+      internalID: 5611580811496715602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1151
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e33097c5b2ba460800000000000000
+      internalID: 7253939300977557126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1151
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6222ea739e5340c70800000000000000
+      internalID: 8936326836387717670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1088
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495eeed6112d5c460800000000000000
+      internalID: 7261440946505442708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1088
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7a91540df077950800000000000000
+      internalID: 6446638778791077887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1088
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dde6c5d22362ad90800000000000000
+      internalID: -7087993862261117487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1088
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5cbe1ee55f5d8e0800000000000000
+      internalID: -1669158299004844550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1088
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65953f667cd08bf0800000000000000
+      internalID: -324016771940641428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1088
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc833e9ed29e4030800000000000000
+      internalID: 3480881046838545651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1088
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cd0957270f50020800000000000000
+      internalID: 2307514758486613003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1025
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df5a547ba38a4370800000000000000
+      internalID: 8307597235053027288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1023
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579653ef1fccd8d70800000000000000
+      internalID: 9047112566181292405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1023
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7dba0f9f4971c70800000000000000
+      internalID: 8941779386372970436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1023
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cbe57098afd6a80800000000000000
+      internalID: -8471839857572922341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1023
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4ddd59bbe2afcf0800000000000000
+      internalID: -217810248765942531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1023
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cff48a56ef01d320800000000000000
+      internalID: 2580861543495565250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1023
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb362666fa8e3460800000000000000
+      internalID: 7223363643229223926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1023
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac422676f451ab50800000000000000
+      internalID: 6602651946222505120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 960
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcab07cb98f35ac0800000000000000
+      internalID: -3867474307038073673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 960
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dcb6e0a6c5a7640800000000000000
+      internalID: 5078473140391890223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 960
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2797293adfdceef10800000000000000
+      internalID: 2301002948887607666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 959
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab6c8f20c6221dd0800000000000000
+      internalID: -2516906634873377876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 959
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f28718f2745ed80800000000000000
+      internalID: -8222087275333800161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 959
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2625a3528c078d20800000000000000
+      internalID: 3280604607451309610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 959
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db32e528eafda370800000000000000
+      internalID: 8335594360307596243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 959
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75b5bc22c2219280800000000000000
+      internalID: -9038404759786769027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 895
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6186ca7a806c3ffc0800000000000000
+      internalID: -3462205948042647530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 896
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486ce47d06988eff0800000000000000
+      internalID: -6604350418925948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 896
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837427c4202c0c1e0800000000000000
+      internalID: -2179528904519039176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 896
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976287d890a439dc0800000000000000
+      internalID: -3633479069469235591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 896
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0551bb955e2c20080800000000000000
+      internalID: -9222594796592622256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_49
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 896
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dec1777fc15a930800000000000000
+      internalID: 4153758080500034973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_50
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 896
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8313773041345e770800000000000000
+      internalID: 8639385213416714552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 896
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fad57b1e0b078bd0800000000000000
+      internalID: -2628119702329238794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 832
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d257bc6b2172ee670800000000000000
+      internalID: 8569830102262314285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 832
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a68688ac5e11e270800000000000000
+      internalID: 8277930973396895392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 832
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2732d709dca56b250800000000000000
+      internalID: 5960050995810345842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 831
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbd9e53722b2a1c0800000000000000
+      internalID: -4493833596684346435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 831
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17751f833b2051170800000000000000
+      internalID: 8148422069574522737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 831
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b043a892a83e6e0800000000000000
+      internalID: -1809450714255848621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 831
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e0a82cbad5e50c0800000000000000
+      internalID: -4585124378331967866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 831
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d94cdedf7b427400800000000000000
+      internalID: 320401536068635096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 770
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81863bcdfd524cd90800000000000000
+      internalID: -7078491070908897256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 770
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18fef0730b03b910800000000000000
+      internalID: 1851835981187971098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 769
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f12ae4d45d8bc40800000000000000
+      internalID: 5528403070605729545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0cd8d49d0790fb0800000000000000
+      internalID: -4681086259063570229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 769
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65112c55a3afed420800000000000000
+      internalID: 2656835958649000278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 770
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2448141a9537194a0800000000000000
+      internalID: -6588357951071615934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 769
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1a13a8f280c4fc0800000000000000
+      internalID: -3509421009353465411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 768
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83ea65c2b06c01e0800000000000000
+      internalID: -2230301394522676341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 769
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030978db0e6a03eb0800000000000000
+      internalID: -4742106923438469072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 704
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903334f48f78f4a30800000000000000
+      internalID: 4201726477911405321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 705
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d6ed42297949f40800000000000000
+      internalID: 5734374879489060119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_71
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 706
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc6e492b26acb500800000000000000
+      internalID: 413387970118053075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 706
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7595dc8222319c0c0800000000000000
+      internalID: -4555088510674183849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 705
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3c42d55583cc4b0800000000000000
+      internalID: -5418894312347483153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_74
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 705
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d219ffe4986e540800000000000000
+      internalID: 5036864205648637291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_75
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 705
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dec391173e0acd0800000000000000
+      internalID: -2548787314197467863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_76
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 705
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81039dba88088730800000000000000
+      internalID: 4001457660897722767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_77
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 705
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf6649f142ce8670800000000000000
+      internalID: 8542979131779215275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 639
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24414e8176b58cfc0800000000000000
+      internalID: -3474426614158977982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 639
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be1b2568b775a040800000000000000
+      internalID: 4658261023439658672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fde34f2538301790800000000000000
+      internalID: -7561481973277659658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 640
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c14606670317fb80800000000000000
+      internalID: -8361193260692651584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_82
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 639
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f2659707b0b9950800000000000000
+      internalID: 6456767068465671938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 639
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a78a8e1c10216ff0800000000000000
+      internalID: -44719216153426015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e6fd9d672960bc0800000000000000
+      internalID: -3817202594990821748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 640
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099d25b0b1bb5b980800000000000000
+      internalID: -8523700994900305520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 639
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8d69227ad574960800000000000000
+      internalID: 7586135069750122709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 576
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925330240dcfd4b10800000000000000
+      internalID: 1967506583621678377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 577
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78ea907229de0ba0800000000000000
+      internalID: -6120716101608609666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 578
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7ba2612a74ec750800000000000000
+      internalID: 6327073287984297923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 578
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd11548620359e930800000000000000
+      internalID: 4172957799539872219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf64d67a8613c03f0800000000000000
+      internalID: -933316697217218820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 577
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6d006f9c45e0700800000000000000
+      internalID: 508437034331854532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 577
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b711663db36b3b260800000000000000
+      internalID: 7112228604614152571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 577
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d25de1362c1fe800800000000000000
+      internalID: 643764222109242071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 577
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df50bd6c321defc0800000000000000
+      internalID: -3464092487630430252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 513
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b277c5a99e9376e60800000000000000
+      internalID: 7955390942253184811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 512
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fa671193da7f100800000000000000
+      internalID: 141772373903191914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 512
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b2eb1ca1ae16e60800000000000000
+      internalID: 7953895817553521503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_99
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 512
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1377580119671d0800000000000000
+      internalID: -3353333372386070028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 512
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a503c030b1472dca0800000000000000
+      internalID: -5993600494712639398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 512
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36ed9913223be440800000000000000
+      internalID: 4966118140441126461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 448
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a82072ad72f33d90800000000000000
+      internalID: -7119079964532528992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 447
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d762d5a2e9c1b20800000000000000
+      internalID: 3106531747767418213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 447
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6939c712c9e826650800000000000000
+      internalID: 6224694436207301526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 447
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3415c7169e633a90800000000000000
+      internalID: -7335397777133464516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 447
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb67c39946b7c0e0800000000000000
+      internalID: -2249629061720085542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 447
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d7ece2d88c3b490800000000000000
+      internalID: -7731615626563781365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 383
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584934b5dc4e25a40800000000000000
+      internalID: 5355594477547525253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 383
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f61b5194cb265cc0800000000000000
+      internalID: -3722739918722885899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 383
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34739f55da76983a0800000000000000
+      internalID: -6662680179548539069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 384
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc06264dc0d56f10800000000000000
+      internalID: 2262443967887314114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 384
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898a4daf03fc63510800000000000000
+      internalID: 1528636932812482712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 384
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2047d7e860bd0e80800000000000000
+      internalID: -8210712581013815249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 320
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7762c32a1215ea0800000000000000
+      internalID: -5885886257318955014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 319
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cff507cb7dbd0bc0800000000000000
+      internalID: -3815184969995255871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 319
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e99dec2b7d964d0800000000000000
+      internalID: -3140742102139691390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 319
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6342b8a2eaad9e360800000000000000
+      internalID: 7199525920901375030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 319
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8fc48cab7bc7df0800000000000000
+      internalID: -181067872149374744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 319
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4e25831378b2680800000000000000
+      internalID: -8778774403160546118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_120
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 257
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7a3489e70049920800000000000000
+      internalID: 2996020195828672492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_121
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 255
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743133335c085dd60800000000000000
+      internalID: 7914373504629412679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 255
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f544a1a11f96e50800000000000000
+      internalID: 6803233806531977117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_123
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 255
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92921e41e8f941a10800000000000000
+      internalID: 1879302377104812329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_124
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 255
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca03d01afb5ef240800000000000000
+      internalID: 4827396980169968321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_125
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 255
+        width: 27
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69fa6b14b7dea480800000000000000
+      internalID: -8885927846201329300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_126
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 255
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109822e8e468ad1e0800000000000000
+      internalID: -2172276198302643967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_127
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 255
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131a5300585de2400800000000000000
+      internalID: 301412992291283249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_128
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 255
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42e8dbb3471dc8e0800000000000000
+      internalID: -1671654307002785204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_129
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 255
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c3709b6962590a0800000000000000
+      internalID: -6875546827319985098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_130
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 255
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d66cc6274629f40800000000000000
+      internalID: 5733755718210055559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_131
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 255
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fc54ac531e5bc10800000000000000
+      internalID: 2068807224989699876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_132
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 255
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98635cf4ca067d660800000000000000
+      internalID: 7410498005050406537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_133
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e976794d4a5a2f70800000000000000
+      internalID: 9163235679830178278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_134
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 192
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bef2ecd7d1b4650800000000000000
+      internalID: 6218096136682466055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_135
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 192
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e40a9fc76160020800000000000000
+      internalID: 2307556585093746191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_136
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 191
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1d56f69f8cc2c50800000000000000
+      internalID: 6641904524105994705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_137
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 191
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53971bbf927111c0800000000000000
+      internalID: -4534717319421127842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_138
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 191
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7204113dcde9986e0800000000000000
+      internalID: -1834760701905649625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 191
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90e84c63cbdc3c00800000000000000
+      internalID: 881821259439595678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_140
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 191
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9662f10227aea80800000000000000
+      internalID: -8436805469638071814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_141
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 191
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fd0bc5a7d15bd80800000000000000
+      internalID: -8235643932198772868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_142
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 191
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e9b29517ffc3400800000000000000
+      internalID: 305399737046769297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_143
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 191
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40406927c5aba390800000000000000
+      internalID: -7805963254305374129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_144
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 191
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaab45bbbe97bd80800000000000000
+      internalID: -8234938864585954561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_145
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 191
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11907e21bac745ee0800000000000000
+      internalID: -1273255720440624879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_146
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 127
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4158ab8eb416e7530800000000000000
+      internalID: 3854625309730702612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_147
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 128
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf94f07a52f4fbd10800000000000000
+      internalID: 2143518970786826747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_148
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 129
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b235d0f1164a41850800000000000000
+      internalID: 6346878511911621419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 127
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcae9289d214f4b0800000000000000
+      internalID: -5407676527156482885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 127
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf771d3e30b54ce10800000000000000
+      internalID: 2216996988838311932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 127
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843390388264acfd0800000000000000
+      internalID: -2320965518145014968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 127
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54baa16c0fd9496f0800000000000000
+      internalID: -678743986384753851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 127
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0f24270b6b27b90800000000000000
+      internalID: -7245527981538217729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 127
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d55233962ca9b240800000000000000
+      internalID: 4808063358872999383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 127
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0a7c5dc2e1900a0800000000000000
+      internalID: -6914962574936661788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 127
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1c0685f7d9e8770800000000000000
+      internalID: 8614996307475481050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_157
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 127
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718968e921a6ac640800000000000000
+      internalID: 5101006156152084503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 127
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c163e8bb093cc80800000000000000
+      internalID: -8303634152721867711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_159
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 64
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a74eb0695fdbcf0800000000000000
+      internalID: -234761580759975331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_160
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 64
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10cb2d4837cdb850800000000000000
+      internalID: 6394486090562781211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2497d39acd6cd20800000000000000
+      internalID: 3298566396534407905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140bb04fb70fb6330800000000000000
+      internalID: 3705319533608415297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63ba5a99425e6c90800000000000000
+      internalID: -7174706680278895764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 63
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356ee198e1299e8f0800000000000000
+      internalID: -510716422882662829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 63
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8345c97b58447d3a0800000000000000
+      internalID: -6640763784432692168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 63
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006f70133086b8bd0800000000000000
+      internalID: -2626891594723756544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 63
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e5b203c9bbd7520800000000000000
+      internalID: 2701521630989606460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 63
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44973fc380ede6a0800000000000000
+      internalID: -6418227037211225009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 63
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f394137a0b01770800000000000000
+      internalID: 8579551522273705832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_170
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 63
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17218ac4efcbb4100800000000000000
+      internalID: 93376017685025393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 63
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db224ddeee6609f10800000000000000
+      internalID: 2274430988200452797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c40f314c644c4f0800000000000000
+      internalID: -809444225057797106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d3631f57e183a80800000000000000
+      internalID: -8487000005872829132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76481e8081e3d430800000000000000
+      internalID: 3806634052314220155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cad5ca8549bd4f0800000000000000
+      internalID: -802884999985648584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1d3708e17d0c750800000000000000
+      internalID: 6323290402832241087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl2bow_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c2e91f06928b980800000000000000
+      internalID: -8523016798451389312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mainlvl2bow_0: 5288995774110447255
+      Mainlvl2bow_1: -3392198802042022685
+      Mainlvl2bow_10: -8413218466236493567
+      Mainlvl2bow_100: -5993600494712639398
+      Mainlvl2bow_101: 4966118140441126461
+      Mainlvl2bow_102: -7119079964532528992
+      Mainlvl2bow_103: 3106531747767418213
+      Mainlvl2bow_104: 6224694436207301526
+      Mainlvl2bow_105: -7335397777133464516
+      Mainlvl2bow_106: -2249629061720085542
+      Mainlvl2bow_107: -7731615626563781365
+      Mainlvl2bow_108: 5355594477547525253
+      Mainlvl2bow_109: -3722739918722885899
+      Mainlvl2bow_11: 3511860742207676967
+      Mainlvl2bow_110: -6662680179548539069
+      Mainlvl2bow_111: 2262443967887314114
+      Mainlvl2bow_112: 1528636932812482712
+      Mainlvl2bow_113: -8210712581013815249
+      Mainlvl2bow_114: -5885886257318955014
+      Mainlvl2bow_115: -3815184969995255871
+      Mainlvl2bow_116: -3140742102139691390
+      Mainlvl2bow_117: 7199525920901375030
+      Mainlvl2bow_118: -181067872149374744
+      Mainlvl2bow_119: -8778774403160546118
+      Mainlvl2bow_12: 7122337647372164880
+      Mainlvl2bow_120: 2996020195828672492
+      Mainlvl2bow_121: 7914373504629412679
+      Mainlvl2bow_122: 6803233806531977117
+      Mainlvl2bow_123: 1879302377104812329
+      Mainlvl2bow_124: 4827396980169968321
+      Mainlvl2bow_125: -8885927846201329300
+      Mainlvl2bow_126: -2172276198302643967
+      Mainlvl2bow_127: 301412992291283249
+      Mainlvl2bow_128: -1671654307002785204
+      Mainlvl2bow_129: -6875546827319985098
+      Mainlvl2bow_13: 6117821907200693402
+      Mainlvl2bow_130: 5733755718210055559
+      Mainlvl2bow_131: 2068807224989699876
+      Mainlvl2bow_132: 7410498005050406537
+      Mainlvl2bow_133: 9163235679830178278
+      Mainlvl2bow_134: 6218096136682466055
+      Mainlvl2bow_135: 2307556585093746191
+      Mainlvl2bow_136: 6641904524105994705
+      Mainlvl2bow_137: -4534717319421127842
+      Mainlvl2bow_138: -1834760701905649625
+      Mainlvl2bow_139: 881821259439595678
+      Mainlvl2bow_14: -5736426236230006210
+      Mainlvl2bow_140: -8436805469638071814
+      Mainlvl2bow_141: -8235643932198772868
+      Mainlvl2bow_142: 305399737046769297
+      Mainlvl2bow_143: -7805963254305374129
+      Mainlvl2bow_144: -8234938864585954561
+      Mainlvl2bow_145: -1273255720440624879
+      Mainlvl2bow_146: 3854625309730702612
+      Mainlvl2bow_147: 2143518970786826747
+      Mainlvl2bow_148: 6346878511911621419
+      Mainlvl2bow_149: -5407676527156482885
+      Mainlvl2bow_15: 4319727991069296427
+      Mainlvl2bow_150: 2216996988838311932
+      Mainlvl2bow_151: -2320965518145014968
+      Mainlvl2bow_152: -678743986384753851
+      Mainlvl2bow_153: -7245527981538217729
+      Mainlvl2bow_154: 4808063358872999383
+      Mainlvl2bow_155: -6914962574936661788
+      Mainlvl2bow_156: 8614996307475481050
+      Mainlvl2bow_157: 5101006156152084503
+      Mainlvl2bow_158: -8303634152721867711
+      Mainlvl2bow_159: -234761580759975331
+      Mainlvl2bow_16: -5022394682153605725
+      Mainlvl2bow_160: 6394486090562781211
+      Mainlvl2bow_161: 3298566396534407905
+      Mainlvl2bow_162: 3705319533608415297
+      Mainlvl2bow_163: -7174706680278895764
+      Mainlvl2bow_164: -510716422882662829
+      Mainlvl2bow_165: -6640763784432692168
+      Mainlvl2bow_166: -2626891594723756544
+      Mainlvl2bow_167: 2701521630989606460
+      Mainlvl2bow_168: -6418227037211225009
+      Mainlvl2bow_169: 8579551522273705832
+      Mainlvl2bow_17: 2694556440645322583
+      Mainlvl2bow_170: 93376017685025393
+      Mainlvl2bow_171: 2274430988200452797
+      Mainlvl2bow_172: -809444225057797106
+      Mainlvl2bow_173: -8487000005872829132
+      Mainlvl2bow_174: 3806634052314220155
+      Mainlvl2bow_175: -802884999985648584
+      Mainlvl2bow_176: 6323290402832241087
+      Mainlvl2bow_177: -8523016798451389312
+      Mainlvl2bow_18: 5611580811496715602
+      Mainlvl2bow_19: 7253939300977557126
+      Mainlvl2bow_2: 2750749996165801859
+      Mainlvl2bow_20: 8936326836387717670
+      Mainlvl2bow_21: 7261440946505442708
+      Mainlvl2bow_22: 6446638778791077887
+      Mainlvl2bow_23: -7087993862261117487
+      Mainlvl2bow_24: -1669158299004844550
+      Mainlvl2bow_25: -324016771940641428
+      Mainlvl2bow_26: 3480881046838545651
+      Mainlvl2bow_27: 2307514758486613003
+      Mainlvl2bow_28: 8307597235053027288
+      Mainlvl2bow_29: 9047112566181292405
+      Mainlvl2bow_3: -4447341281018023372
+      Mainlvl2bow_30: 8941779386372970436
+      Mainlvl2bow_31: -8471839857572922341
+      Mainlvl2bow_32: -217810248765942531
+      Mainlvl2bow_33: 2580861543495565250
+      Mainlvl2bow_34: 7223363643229223926
+      Mainlvl2bow_35: 6602651946222505120
+      Mainlvl2bow_36: -3867474307038073673
+      Mainlvl2bow_37: 5078473140391890223
+      Mainlvl2bow_38: 2301002948887607666
+      Mainlvl2bow_39: -2516906634873377876
+      Mainlvl2bow_4: -1178167442782778629
+      Mainlvl2bow_40: -8222087275333800161
+      Mainlvl2bow_41: 3280604607451309610
+      Mainlvl2bow_42: 8335594360307596243
+      Mainlvl2bow_43: -9038404759786769027
+      Mainlvl2bow_44: -3462205948042647530
+      Mainlvl2bow_45: -6604350418925948
+      Mainlvl2bow_46: -2179528904519039176
+      Mainlvl2bow_47: -3633479069469235591
+      Mainlvl2bow_48: -9222594796592622256
+      Mainlvl2bow_49: 4153758080500034973
+      Mainlvl2bow_5: -4050735113548327838
+      Mainlvl2bow_50: 8639385213416714552
+      Mainlvl2bow_51: -2628119702329238794
+      Mainlvl2bow_52: 8569830102262314285
+      Mainlvl2bow_53: 8277930973396895392
+      Mainlvl2bow_54: 5960050995810345842
+      Mainlvl2bow_55: -4493833596684346435
+      Mainlvl2bow_56: 8148422069574522737
+      Mainlvl2bow_57: -1809450714255848621
+      Mainlvl2bow_58: -4585124378331967866
+      Mainlvl2bow_59: 320401536068635096
+      Mainlvl2bow_6: 4065340310865657924
+      Mainlvl2bow_60: -7078491070908897256
+      Mainlvl2bow_61: 1851835981187971098
+      Mainlvl2bow_62: 5528403070605729545
+      Mainlvl2bow_63: -4681086259063570229
+      Mainlvl2bow_64: 2656835958649000278
+      Mainlvl2bow_65: -6588357951071615934
+      Mainlvl2bow_66: -3509421009353465411
+      Mainlvl2bow_67: -2230301394522676341
+      Mainlvl2bow_68: -4742106923438469072
+      Mainlvl2bow_69: 4201726477911405321
+      Mainlvl2bow_7: -4031650539180325262
+      Mainlvl2bow_70: 5734374879489060119
+      Mainlvl2bow_71: 413387970118053075
+      Mainlvl2bow_72: -4555088510674183849
+      Mainlvl2bow_73: -5418894312347483153
+      Mainlvl2bow_74: 5036864205648637291
+      Mainlvl2bow_75: -2548787314197467863
+      Mainlvl2bow_76: 4001457660897722767
+      Mainlvl2bow_77: 8542979131779215275
+      Mainlvl2bow_78: -3474426614158977982
+      Mainlvl2bow_79: 4658261023439658672
+      Mainlvl2bow_8: 2555762636616301091
+      Mainlvl2bow_80: -7561481973277659658
+      Mainlvl2bow_81: -8361193260692651584
+      Mainlvl2bow_82: 6456767068465671938
+      Mainlvl2bow_83: -44719216153426015
+      Mainlvl2bow_84: -3817202594990821748
+      Mainlvl2bow_85: -8523700994900305520
+      Mainlvl2bow_86: 7586135069750122709
+      Mainlvl2bow_87: 1967506583621678377
+      Mainlvl2bow_88: -6120716101608609666
+      Mainlvl2bow_89: 6327073287984297923
+      Mainlvl2bow_9: -1470015969246738608
+      Mainlvl2bow_90: 4172957799539872219
+      Mainlvl2bow_91: -933316697217218820
+      Mainlvl2bow_92: 508437034331854532
+      Mainlvl2bow_93: 7112228604614152571
+      Mainlvl2bow_94: 643764222109242071
+      Mainlvl2bow_95: -3464092487630430252
+      Mainlvl2bow_96: 7955390942253184811
+      Mainlvl2bow_97: 141772373903191914
+      Mainlvl2bow_98: 7953895817553521503
+      Mainlvl2bow_99: -3353333372386070028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

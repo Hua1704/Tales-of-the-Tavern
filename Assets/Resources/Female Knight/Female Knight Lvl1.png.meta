@@ -1,0 +1,6331 @@
+fileFormatVersion: 2
+guid: fc0ca573dcdcde34f82a7f34b8a94188
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8263882406607699543
+    second: Female Knight Lvl1_0
+  - first:
+      213: -722231986603849408
+    second: Female Knight Lvl1_1
+  - first:
+      213: 5901235770955155615
+    second: Female Knight Lvl1_2
+  - first:
+      213: 8976027011272518631
+    second: Female Knight Lvl1_3
+  - first:
+      213: 4258032396946375668
+    second: Female Knight Lvl1_4
+  - first:
+      213: 7919886647739736635
+    second: Female Knight Lvl1_5
+  - first:
+      213: 6411865455492297715
+    second: Female Knight Lvl1_6
+  - first:
+      213: 4287934616890067136
+    second: Female Knight Lvl1_7
+  - first:
+      213: 2232747996224746344
+    second: Female Knight Lvl1_8
+  - first:
+      213: -4963830032773731434
+    second: Female Knight Lvl1_9
+  - first:
+      213: -8276354062765387125
+    second: Female Knight Lvl1_10
+  - first:
+      213: 35078264342806917
+    second: Female Knight Lvl1_11
+  - first:
+      213: 4347071463032899402
+    second: Female Knight Lvl1_12
+  - first:
+      213: -5306642710963095471
+    second: Female Knight Lvl1_13
+  - first:
+      213: 3499276518334734333
+    second: Female Knight Lvl1_14
+  - first:
+      213: 1531773007117913986
+    second: Female Knight Lvl1_15
+  - first:
+      213: -6920569643484769431
+    second: Female Knight Lvl1_16
+  - first:
+      213: -5367553421317466536
+    second: Female Knight Lvl1_17
+  - first:
+      213: 6802471832917815267
+    second: Female Knight Lvl1_18
+  - first:
+      213: -474160355139773549
+    second: Female Knight Lvl1_19
+  - first:
+      213: -644220544489215975
+    second: Female Knight Lvl1_20
+  - first:
+      213: -7853470477992774587
+    second: Female Knight Lvl1_21
+  - first:
+      213: 8564501265343343313
+    second: Female Knight Lvl1_22
+  - first:
+      213: 1340612521499133718
+    second: Female Knight Lvl1_23
+  - first:
+      213: -471965983159890427
+    second: Female Knight Lvl1_24
+  - first:
+      213: -5056177946814392682
+    second: Female Knight Lvl1_25
+  - first:
+      213: -5614032687244622841
+    second: Female Knight Lvl1_26
+  - first:
+      213: 4993748920259748428
+    second: Female Knight Lvl1_27
+  - first:
+      213: -1661360176133242374
+    second: Female Knight Lvl1_28
+  - first:
+      213: -4016701748496722717
+    second: Female Knight Lvl1_29
+  - first:
+      213: -3737177349263562790
+    second: Female Knight Lvl1_30
+  - first:
+      213: -5558818431859401945
+    second: Female Knight Lvl1_31
+  - first:
+      213: -5331851696915821340
+    second: Female Knight Lvl1_32
+  - first:
+      213: -6537625291328797710
+    second: Female Knight Lvl1_33
+  - first:
+      213: -3133954171022254037
+    second: Female Knight Lvl1_34
+  - first:
+      213: 3297460487511002256
+    second: Female Knight Lvl1_35
+  - first:
+      213: 4350424588538574435
+    second: Female Knight Lvl1_36
+  - first:
+      213: -870528997435045173
+    second: Female Knight Lvl1_37
+  - first:
+      213: 2939796684194752565
+    second: Female Knight Lvl1_38
+  - first:
+      213: 4508978696836386216
+    second: Female Knight Lvl1_39
+  - first:
+      213: 160358809756716059
+    second: Female Knight Lvl1_40
+  - first:
+      213: 1805408271514872268
+    second: Female Knight Lvl1_41
+  - first:
+      213: -8098253199093909596
+    second: Female Knight Lvl1_42
+  - first:
+      213: -2972296202236091313
+    second: Female Knight Lvl1_43
+  - first:
+      213: -8558115568341634309
+    second: Female Knight Lvl1_44
+  - first:
+      213: -3314344370668050748
+    second: Female Knight Lvl1_45
+  - first:
+      213: 5368459761360462039
+    second: Female Knight Lvl1_46
+  - first:
+      213: 4838619554460536528
+    second: Female Knight Lvl1_47
+  - first:
+      213: 8108525914993274109
+    second: Female Knight Lvl1_48
+  - first:
+      213: 8619667261214511992
+    second: Female Knight Lvl1_49
+  - first:
+      213: -4716395546547836077
+    second: Female Knight Lvl1_50
+  - first:
+      213: -1173732036119524503
+    second: Female Knight Lvl1_51
+  - first:
+      213: 6327685048943228520
+    second: Female Knight Lvl1_52
+  - first:
+      213: -4232897383909415463
+    second: Female Knight Lvl1_53
+  - first:
+      213: 2248230511598331902
+    second: Female Knight Lvl1_54
+  - first:
+      213: -8660767054331187534
+    second: Female Knight Lvl1_55
+  - first:
+      213: 2784490837224238799
+    second: Female Knight Lvl1_56
+  - first:
+      213: 6007085837932445747
+    second: Female Knight Lvl1_57
+  - first:
+      213: 9083797343139266531
+    second: Female Knight Lvl1_58
+  - first:
+      213: -7146546040430522388
+    second: Female Knight Lvl1_59
+  - first:
+      213: 7010705908499621469
+    second: Female Knight Lvl1_60
+  - first:
+      213: -7835269809090568396
+    second: Female Knight Lvl1_61
+  - first:
+      213: 7802368982302820813
+    second: Female Knight Lvl1_62
+  - first:
+      213: 4917744159713318993
+    second: Female Knight Lvl1_63
+  - first:
+      213: -3983975040639561931
+    second: Female Knight Lvl1_64
+  - first:
+      213: -1910718156000146842
+    second: Female Knight Lvl1_65
+  - first:
+      213: -2981990538954122956
+    second: Female Knight Lvl1_66
+  - first:
+      213: 5392151599568390047
+    second: Female Knight Lvl1_67
+  - first:
+      213: -5383501601142033230
+    second: Female Knight Lvl1_68
+  - first:
+      213: 235186854495857741
+    second: Female Knight Lvl1_69
+  - first:
+      213: 6345951554688779702
+    second: Female Knight Lvl1_70
+  - first:
+      213: 8034714495472542288
+    second: Female Knight Lvl1_71
+  - first:
+      213: 1224645534968360199
+    second: Female Knight Lvl1_72
+  - first:
+      213: 6186106334666686217
+    second: Female Knight Lvl1_73
+  - first:
+      213: -4985782980575381865
+    second: Female Knight Lvl1_74
+  - first:
+      213: -9091413507987957190
+    second: Female Knight Lvl1_75
+  - first:
+      213: 6156809296151920220
+    second: Female Knight Lvl1_76
+  - first:
+      213: 1330389639561694713
+    second: Female Knight Lvl1_77
+  - first:
+      213: -1599427830391849967
+    second: Female Knight Lvl1_78
+  - first:
+      213: -2905729868472297779
+    second: Female Knight Lvl1_79
+  - first:
+      213: 803194620384283158
+    second: Female Knight Lvl1_80
+  - first:
+      213: 7003625327741006955
+    second: Female Knight Lvl1_81
+  - first:
+      213: -2464621068173970789
+    second: Female Knight Lvl1_82
+  - first:
+      213: 4696354567612794744
+    second: Female Knight Lvl1_83
+  - first:
+      213: -5267447677190739099
+    second: Female Knight Lvl1_84
+  - first:
+      213: -1306131532893832034
+    second: Female Knight Lvl1_85
+  - first:
+      213: 6758423815607696833
+    second: Female Knight Lvl1_86
+  - first:
+      213: 2208395319172566967
+    second: Female Knight Lvl1_87
+  - first:
+      213: -8219154667729994866
+    second: Female Knight Lvl1_88
+  - first:
+      213: 8943963053707951388
+    second: Female Knight Lvl1_89
+  - first:
+      213: -6231595086475250839
+    second: Female Knight Lvl1_90
+  - first:
+      213: 6867031399220694341
+    second: Female Knight Lvl1_91
+  - first:
+      213: 7531250102042448475
+    second: Female Knight Lvl1_92
+  - first:
+      213: -6681460776707994465
+    second: Female Knight Lvl1_93
+  - first:
+      213: -4761306049694794739
+    second: Female Knight Lvl1_94
+  - first:
+      213: -5087974923332503788
+    second: Female Knight Lvl1_95
+  - first:
+      213: -5176682883982988128
+    second: Female Knight Lvl1_96
+  - first:
+      213: 1943906702094725191
+    second: Female Knight Lvl1_97
+  - first:
+      213: -7343988173979129921
+    second: Female Knight Lvl1_98
+  - first:
+      213: -5383014930124563346
+    second: Female Knight Lvl1_99
+  - first:
+      213: -4146130587999217009
+    second: Female Knight Lvl1_100
+  - first:
+      213: 1248059814282280184
+    second: Female Knight Lvl1_101
+  - first:
+      213: -3224725861957298255
+    second: Female Knight Lvl1_102
+  - first:
+      213: 2207883147818835555
+    second: Female Knight Lvl1_103
+  - first:
+      213: 4719308911264497818
+    second: Female Knight Lvl1_104
+  - first:
+      213: 3658690796059547401
+    second: Female Knight Lvl1_105
+  - first:
+      213: -6307130482873279629
+    second: Female Knight Lvl1_106
+  - first:
+      213: 2156091708025484830
+    second: Female Knight Lvl1_107
+  - first:
+      213: 4416114334453596332
+    second: Female Knight Lvl1_108
+  - first:
+      213: -3554088563281310140
+    second: Female Knight Lvl1_109
+  - first:
+      213: 1728941638742847561
+    second: Female Knight Lvl1_110
+  - first:
+      213: 4449275887114779912
+    second: Female Knight Lvl1_111
+  - first:
+      213: -772001948446502412
+    second: Female Knight Lvl1_112
+  - first:
+      213: -4918547064154974662
+    second: Female Knight Lvl1_113
+  - first:
+      213: -4955565377764611201
+    second: Female Knight Lvl1_114
+  - first:
+      213: -1765336204964471923
+    second: Female Knight Lvl1_115
+  - first:
+      213: 3575754178327055215
+    second: Female Knight Lvl1_116
+  - first:
+      213: 7720285559001590876
+    second: Female Knight Lvl1_117
+  - first:
+      213: -1513461899246360194
+    second: Female Knight Lvl1_118
+  - first:
+      213: 3349985257806023338
+    second: Female Knight Lvl1_119
+  - first:
+      213: 2155916734911281794
+    second: Female Knight Lvl1_120
+  - first:
+      213: 4357765125234612006
+    second: Female Knight Lvl1_121
+  - first:
+      213: -512287400254093688
+    second: Female Knight Lvl1_122
+  - first:
+      213: -6793413674962047707
+    second: Female Knight Lvl1_123
+  - first:
+      213: -813251161224960105
+    second: Female Knight Lvl1_124
+  - first:
+      213: 2244672422717439773
+    second: Female Knight Lvl1_125
+  - first:
+      213: -5879841529448955731
+    second: Female Knight Lvl1_126
+  - first:
+      213: -7700552892321421285
+    second: Female Knight Lvl1_127
+  - first:
+      213: -3356377816144423306
+    second: Female Knight Lvl1_128
+  - first:
+      213: 2609593808699199911
+    second: Female Knight Lvl1_129
+  - first:
+      213: 3388466294689396964
+    second: Female Knight Lvl1_130
+  - first:
+      213: -2740071162566872512
+    second: Female Knight Lvl1_131
+  - first:
+      213: 4125898286021084531
+    second: Female Knight Lvl1_132
+  - first:
+      213: 4809523232276490947
+    second: Female Knight Lvl1_133
+  - first:
+      213: -9056902732379181219
+    second: Female Knight Lvl1_134
+  - first:
+      213: 2845143553150860934
+    second: Female Knight Lvl1_135
+  - first:
+      213: -9025299135983150604
+    second: Female Knight Lvl1_136
+  - first:
+      213: -3876885415545785690
+    second: Female Knight Lvl1_137
+  - first:
+      213: 380915763929349889
+    second: Female Knight Lvl1_138
+  - first:
+      213: -8647630118559066915
+    second: Female Knight Lvl1_139
+  - first:
+      213: -4035372194683489213
+    second: Female Knight Lvl1_140
+  - first:
+      213: 780251111377062
+    second: Female Knight Lvl1_141
+  - first:
+      213: -5159176684034474450
+    second: Female Knight Lvl1_142
+  - first:
+      213: 6852684442079882415
+    second: Female Knight Lvl1_143
+  - first:
+      213: -1455816944510197913
+    second: Female Knight Lvl1_144
+  - first:
+      213: -7542450421255502886
+    second: Female Knight Lvl1_145
+  - first:
+      213: -4755516227385696842
+    second: Female Knight Lvl1_146
+  - first:
+      213: -8639887823911582737
+    second: Female Knight Lvl1_147
+  - first:
+      213: 8655674298556045704
+    second: Female Knight Lvl1_148
+  - first:
+      213: 313122151229355097
+    second: Female Knight Lvl1_149
+  - first:
+      213: -8970021276017402240
+    second: Female Knight Lvl1_150
+  - first:
+      213: -3473111716874141186
+    second: Female Knight Lvl1_151
+  - first:
+      213: -1087234503228992744
+    second: Female Knight Lvl1_152
+  - first:
+      213: 3515965084702246875
+    second: Female Knight Lvl1_153
+  - first:
+      213: 6063342206971846760
+    second: Female Knight Lvl1_154
+  - first:
+      213: -2581655391626339072
+    second: Female Knight Lvl1_155
+  - first:
+      213: -2572849017440962582
+    second: Female Knight Lvl1_156
+  - first:
+      213: -2262525000069728772
+    second: Female Knight Lvl1_157
+  - first:
+      213: 9010653611785840185
+    second: Female Knight Lvl1_158
+  - first:
+      213: -1250780575653802283
+    second: Female Knight Lvl1_159
+  - first:
+      213: -8500703803436355119
+    second: Female Knight Lvl1_160
+  - first:
+      213: 4162880855985164391
+    second: Female Knight Lvl1_161
+  - first:
+      213: 4870230789549929605
+    second: Female Knight Lvl1_162
+  - first:
+      213: 6602685254876532009
+    second: Female Knight Lvl1_163
+  - first:
+      213: -6698929539886868725
+    second: Female Knight Lvl1_164
+  - first:
+      213: -5404113042375990672
+    second: Female Knight Lvl1_165
+  - first:
+      213: -2219404143914425721
+    second: Female Knight Lvl1_166
+  - first:
+      213: 554809766266543692
+    second: Female Knight Lvl1_167
+  - first:
+      213: 6520752478920545789
+    second: Female Knight Lvl1_168
+  - first:
+      213: 4824227962077987906
+    second: Female Knight Lvl1_169
+  - first:
+      213: -5837850466983677984
+    second: Female Knight Lvl1_170
+  - first:
+      213: 1844021513674068685
+    second: Female Knight Lvl1_171
+  - first:
+      213: -7904457599915506583
+    second: Female Knight Lvl1_172
+  - first:
+      213: 3338775158587628217
+    second: Female Knight Lvl1_173
+  - first:
+      213: -141756439898144527
+    second: Female Knight Lvl1_174
+  - first:
+      213: -6398169432006153088
+    second: Female Knight Lvl1_175
+  - first:
+      213: -4236602414392170714
+    second: Female Knight Lvl1_176
+  - first:
+      213: -7274834459411813890
+    second: Female Knight Lvl1_177
+  - first:
+      213: -6792742110198228811
+    second: Female Knight Lvl1_178
+  - first:
+      213: 4753659905754710131
+    second: Female Knight Lvl1_179
+  - first:
+      213: 1076272804013200517
+    second: Female Knight Lvl1_180
+  - first:
+      213: -5829600541066036094
+    second: Female Knight Lvl1_181
+  - first:
+      213: -2014745812380223545
+    second: Female Knight Lvl1_182
+  - first:
+      213: -7795323796834198190
+    second: Female Knight Lvl1_183
+  - first:
+      213: -3242951667507289688
+    second: Female Knight Lvl1_184
+  - first:
+      213: -385314147352745808
+    second: Female Knight Lvl1_185
+  - first:
+      213: -4100675539657936703
+    second: Female Knight Lvl1_186
+  - first:
+      213: 6774571090039273313
+    second: Female Knight Lvl1_187
+  - first:
+      213: 7248146392053744110
+    second: Female Knight Lvl1_188
+  - first:
+      213: -4840777719340592307
+    second: Female Knight Lvl1_189
+  - first:
+      213: -8911386677886705087
+    second: Female Knight Lvl1_190
+  - first:
+      213: -1381156244311092411
+    second: Female Knight Lvl1_191
+  - first:
+      213: -4353836182523461766
+    second: Female Knight Lvl1_192
+  - first:
+      213: 549329353481707961
+    second: Female Knight Lvl1_193
+  - first:
+      213: 3768494152242869842
+    second: Female Knight Lvl1_194
+  - first:
+      213: 8098110353046743065
+    second: Female Knight Lvl1_195
+  - first:
+      213: -8683675740688767832
+    second: Female Knight Lvl1_196
+  - first:
+      213: -340799215213478340
+    second: Female Knight Lvl1_197
+  - first:
+      213: -2003384019117808942
+    second: Female Knight Lvl1_198
+  - first:
+      213: 6560641183129350289
+    second: Female Knight Lvl1_199
+  - first:
+      213: -7052842992740044801
+    second: Female Knight Lvl1_200
+  - first:
+      213: 6622983298913773183
+    second: Female Knight Lvl1_201
+  - first:
+      213: -8023275761149757526
+    second: Female Knight Lvl1_202
+  - first:
+      213: -7103800134770427933
+    second: Female Knight Lvl1_203
+  - first:
+      213: 2056742628622499190
+    second: Female Knight Lvl1_204
+  - first:
+      213: 1552424820952346557
+    second: Female Knight Lvl1_205
+  - first:
+      213: 1744486119431915783
+    second: Female Knight Lvl1_206
+  - first:
+      213: -4506282313692296209
+    second: Female Knight Lvl1_207
+  - first:
+      213: 8458551362488711540
+    second: Female Knight Lvl1_208
+  - first:
+      213: -1992273059696088820
+    second: Female Knight Lvl1_209
+  - first:
+      213: -4654852431781334622
+    second: Female Knight Lvl1_210
+  - first:
+      213: -6852525216760698973
+    second: Female Knight Lvl1_211
+  - first:
+      213: -2152421462911819218
+    second: Female Knight Lvl1_212
+  - first:
+      213: 3024101076049128180
+    second: Female Knight Lvl1_213
+  - first:
+      213: 523782125527391082
+    second: Female Knight Lvl1_214
+  - first:
+      213: -7637249831166425952
+    second: Female Knight Lvl1_215
+  - first:
+      213: 2291205160250067980
+    second: Female Knight Lvl1_216
+  - first:
+      213: 8153712173389851404
+    second: Female Knight Lvl1_217
+  - first:
+      213: -5533637268651395945
+    second: Female Knight Lvl1_218
+  - first:
+      213: 8247040667459743301
+    second: Female Knight Lvl1_219
+  - first:
+      213: 6837127996965162121
+    second: Female Knight Lvl1_220
+  - first:
+      213: -1920969834617087098
+    second: Female Knight Lvl1_221
+  - first:
+      213: -4179421919627411372
+    second: Female Knight Lvl1_222
+  - first:
+      213: 1686863856374105767
+    second: Female Knight Lvl1_223
+  - first:
+      213: 126418692529696339
+    second: Female Knight Lvl1_224
+  - first:
+      213: 8232377005167811484
+    second: Female Knight Lvl1_225
+  - first:
+      213: -894780935985923625
+    second: Female Knight Lvl1_226
+  - first:
+      213: 5855334227423932776
+    second: Female Knight Lvl1_227
+  - first:
+      213: 7569809621119344174
+    second: Female Knight Lvl1_228
+  - first:
+      213: 4035778876691040934
+    second: Female Knight Lvl1_229
+  - first:
+      213: -5160581028455024032
+    second: Female Knight Lvl1_230
+  - first:
+      213: 7074126219673272971
+    second: Female Knight Lvl1_231
+  - first:
+      213: 161637087825144892
+    second: Female Knight Lvl1_232
+  - first:
+      213: 7282330291643586936
+    second: Female Knight Lvl1_233
+  - first:
+      213: -7310985170566899391
+    second: Female Knight Lvl1_234
+  - first:
+      213: 782049392222285060
+    second: Female Knight Lvl1_235
+  - first:
+      213: -2854149733364954955
+    second: Female Knight Lvl1_236
+  - first:
+      213: -3754935280640397421
+    second: Female Knight Lvl1_237
+  - first:
+      213: -4440538232799811074
+    second: Female Knight Lvl1_238
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Female Knight Lvl1_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2305
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75eb37fc3453fa270800000000000000
+      internalID: 8263882406607699543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2305
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0498d01b5dd1af5f0800000000000000
+      internalID: -722231986603849408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2305
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f984c97eaa665e150800000000000000
+      internalID: 5901235770955155615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2305
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eba53d7201419c70800000000000000
+      internalID: 8976027011272518631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2305
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3081ea7e1971b30800000000000000
+      internalID: 4258032396946375668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2305
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32e2ebd1f619ed60800000000000000
+      internalID: 7919886647739736635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2305
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3773609a58bf850800000000000000
+      internalID: 6411865455492297715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_7
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2111
+        width: 98
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c845dbc0ddc18b30800000000000000
+      internalID: 4287934616890067136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2241
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863f0f319705cfe10800000000000000
+      internalID: 2232747996224746344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2241
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b2b1b72eeec1bb0800000000000000
+      internalID: -4963830032773731434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2241
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82128574db742d80800000000000000
+      internalID: -8276354062765387125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2241
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5818d7dde7f9c7000800000000000000
+      internalID: 35078264342806917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2241
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47405fb676e35c30800000000000000
+      internalID: 4347071463032899402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_13
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 2241
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158f027f1940b56b0800000000000000
+      internalID: -5306642710963095471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_14
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2241
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff1536147def8030800000000000000
+      internalID: 3499276518334734333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2177
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f8bcd2f63f14510800000000000000
+      internalID: 1531773007117913986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2177
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9631db4739235ff90800000000000000
+      internalID: -6920569643484769431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_17
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2177
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85690711a9e9285b0800000000000000
+      internalID: -5367553421317466536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2177
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efaaab471c376e50800000000000000
+      internalID: 6802471832917815267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2177
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b12515ba17b69f0800000000000000
+      internalID: -474160355139773549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_20
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2177
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91826b8f3d44f07f0800000000000000
+      internalID: -644220544489215975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2177
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5443931b53ed20390800000000000000
+      internalID: -7853470477992774587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2113
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da6c2f26883bd670800000000000000
+      internalID: 8564501265343343313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2113
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61785654cffca9210800000000000000
+      internalID: 1340612521499133718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2113
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ecfab507d3379f0800000000000000
+      internalID: -471965983159890427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_25
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2113
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696d6f632f8d4d9b0800000000000000
+      internalID: -5056177946814392682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2113
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7044a5fe303f612b0800000000000000
+      internalID: -5614032687244622841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_27
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2113
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42a2995f2c5d4540800000000000000
+      internalID: 4993748920259748428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2113
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af10999d8b9a1f8e0800000000000000
+      internalID: -1661360176133242374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2048
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e499288a0fc148c0800000000000000
+      internalID: -4016701748496722717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2048
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad762825001e22cc0800000000000000
+      internalID: -3737177349263562790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2047
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b502e861c1bd2b0800000000000000
+      internalID: -5558818431859401945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_32
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2047
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecc44a81257106b0800000000000000
+      internalID: -5331851696915821340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_33
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2047
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3ccb37f60b545a0800000000000000
+      internalID: -6537625291328797710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_34
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2047
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b206ddd2945f184d0800000000000000
+      internalID: -3133954171022254037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_35
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2047
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ccafab7dee2cd20800000000000000
+      internalID: 3297460487511002256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_36
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2047
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36677fd1d10df5c30800000000000000
+      internalID: 4350424588538574435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1985
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca05353d724be3f0800000000000000
+      internalID: -870528997435045173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1985
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538ac4132814cc820800000000000000
+      internalID: 2939796684194752565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1985
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad8cb43c3c139e30800000000000000
+      internalID: 4508978696836386216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_40
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1985
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c4724ec75b93200800000000000000
+      internalID: 160358809756716059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1985
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9223ae1491e0910800000000000000
+      internalID: 1805408271514872268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_42
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1985
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a736de2f993d9f80800000000000000
+      internalID: -8098253199093909596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_43
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1985
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44a97a1a5840c6d0800000000000000
+      internalID: -2972296202236091313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_44
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1985
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2b142cb377b3980800000000000000
+      internalID: -8558115568341634309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1921
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6e303ea551102d0800000000000000
+      internalID: -3314344370668050748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1921
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d06edaa5b9908a40800000000000000
+      internalID: 5368459761360462039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1922
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de01e249da362340800000000000000
+      internalID: 4838619554460536528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1922
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc293fdb55478070800000000000000
+      internalID: 8108525914993274109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1922
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87351c284b53f9770800000000000000
+      internalID: 8619667261214511992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_50
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1922
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b28cb2d3ffb8eb0800000000000000
+      internalID: -4716395546547836077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_51
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1922
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b899d8ee016bfe0800000000000000
+      internalID: -1173732036119524503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_52
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1922
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866bfc8c60470d750800000000000000
+      internalID: 6327685048943228520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_53
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1857
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d52665914ab145c0800000000000000
+      internalID: -4232897383909415463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_54
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1857
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef763091db1533f10800000000000000
+      internalID: 2248230511598331902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_55
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1857
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2beee243046cec780800000000000000
+      internalID: -8660767054331187534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_56
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1857
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcea411e9af74a620800000000000000
+      internalID: 2784490837224238799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_57
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1857
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3304e312eb47d5350800000000000000
+      internalID: 6007085837932445747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_58
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1857
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eff3793e81201e70800000000000000
+      internalID: 9083797343139266531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_59
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1857
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef0a218d3e52dc90800000000000000
+      internalID: -7146546040430522388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_60
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1857
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d562ad421e70b4160800000000000000
+      internalID: 7010705908499621469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_61
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1794
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f50d52f97834390800000000000000
+      internalID: -7835269809090568396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_62
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1793
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc98fac2045974c60800000000000000
+      internalID: 7802368982302820813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_63
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1792
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158d6f702465f3440800000000000000
+      internalID: 4917744159713318993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1791
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f08acfec316b8c0800000000000000
+      internalID: -3983975040639561931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1792
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ac8b5e5f3cb75e0800000000000000
+      internalID: -1910718156000146842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_66
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1793
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43950127767dd96d0800000000000000
+      internalID: -2981990538954122956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_67
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1792
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97045b9f45c4da40800000000000000
+      internalID: 5392151599568390047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_68
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1791
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4be2811d5f945b0800000000000000
+      internalID: -5383501601142033230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_69
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1792
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c2116b23d834300800000000000000
+      internalID: 235186854495857741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_70
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1729
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b500131159511850800000000000000
+      internalID: 6345951554688779702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_71
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1729
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052a25e834a018f60800000000000000
+      internalID: 8034714495472542288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_72
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1730
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dae8720a0def010800000000000000
+      internalID: 1224645534968360199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_73
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1730
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ff99c9fe679d550800000000000000
+      internalID: 6186106334666686217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_74
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1729
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796bd938bc0fecab0800000000000000
+      internalID: -4985782980575381865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_75
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1729
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a9036359fc4d180800000000000000
+      internalID: -9091413507987957190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_76
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1729
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e35f64f61617550800000000000000
+      internalID: 6156809296151920220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_77
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1729
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd4fe6145e767210800000000000000
+      internalID: 1330389639561694713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_78
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1729
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cbe95ccd0bdc9e0800000000000000
+      internalID: -1599427830391849967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_79
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1665
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc657707416cca7d0800000000000000
+      internalID: -2905729868472297779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_80
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1665
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a82817045852b00800000000000000
+      internalID: 803194620384283158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_81
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1664
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b647ee7f020e13160800000000000000
+      internalID: 7003625327741006955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_82
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1664
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92fb855238ebcdd0800000000000000
+      internalID: -2464621068173970789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_83
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1664
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87708ddc89dcc2140800000000000000
+      internalID: 4696354567612794744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_84
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1665
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56be618ee3446e6b0800000000000000
+      internalID: -5267447677190739099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_85
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1664
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c3def7a40bfdde0800000000000000
+      internalID: -1306131532893832034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_86
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1664
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd36d217aebacd50800000000000000
+      internalID: 6758423815607696833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_87
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1664
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf8aea97dbc5ae10800000000000000
+      internalID: 2208395319172566967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_88
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1601
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bb5fb6062bfed80800000000000000
+      internalID: -8219154667729994866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_89
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1601
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dfa7c92075f1c70800000000000000
+      internalID: 8943963053707951388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_90
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1602
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963b296094de489a0800000000000000
+      internalID: -6231595086475250839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_91
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1602
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dc00caca89c4f50800000000000000
+      internalID: 6867031399220694341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_92
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1601
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b525dd6c010648860800000000000000
+      internalID: 7531250102042448475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_93
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1601
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c4d9fc2dea643a0800000000000000
+      internalID: -6681460776707994465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_94
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1601
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cf501df517cedb0800000000000000
+      internalID: -4761306049694794739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_95
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1601
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417bba4b3c1e369b0800000000000000
+      internalID: -5087974923332503788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_96
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1601
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac6951285ab828b0800000000000000
+      internalID: -5176682883982988128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_97
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1537
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7407bd6a8d42afa10800000000000000
+      internalID: 1943906702094725191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_98
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1536
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7ed477aa9e41a90800000000000000
+      internalID: -7343988173979129921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_99
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1536
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c1d450170bb45b0800000000000000
+      internalID: -5383014930124563346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_100
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1536
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8adce5823cf576c0800000000000000
+      internalID: -4146130587999217009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_101
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1536
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc3cb0e9cff15110800000000000000
+      internalID: 1248059814282280184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_102
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1536
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b71504f9e87f33d0800000000000000
+      internalID: -3224725861957298255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_103
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1473
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e105b660af3ae10800000000000000
+      internalID: 2207883147818835555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1473
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a908149637a5e7140800000000000000
+      internalID: 4719308911264497818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_105
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1473
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907de1af4e746c230800000000000000
+      internalID: 3658690796059547401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_106
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1473
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bdc401e329878a0800000000000000
+      internalID: -6307130482873279629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_107
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1473
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1636082cf9fbed10800000000000000
+      internalID: 2156091708025484830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_108
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1473
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca00e90f690394d30800000000000000
+      internalID: 4416114334453596332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_109
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1409
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ec65538475daec0800000000000000
+      internalID: -3554088563281310140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_110
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1409
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94036a6924f6ef710800000000000000
+      internalID: 1728941638742847561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_111
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1409
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80dff2798d00fbd30800000000000000
+      internalID: 4449275887114779912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_112
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1409
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1dfe0715c4945f0800000000000000
+      internalID: -772001948446502412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_113
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1409
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a369006318fcdbbb0800000000000000
+      internalID: -4918547064154974662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_114
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1409
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bad1d6b8b4a3bb0800000000000000
+      internalID: -4955565377764611201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_115
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1345
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bd4f123144087e0800000000000000
+      internalID: -1765336204964471923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_116
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1345
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b8d43ea71af9130800000000000000
+      internalID: 3575754178327055215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_117
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1345
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c2ed4efc6f32b60800000000000000
+      internalID: 7720285559001590876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_118
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1345
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79255adb6a1ffae0800000000000000
+      internalID: -1513461899246360194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_119
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1345
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaac25ec7d98d7e20800000000000000
+      internalID: 3349985257806023338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_120
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1345
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28af4bd09da5bed10800000000000000
+      internalID: 2155916734911281794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1281
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627d1300b44e97c30800000000000000
+      internalID: 4357765125234612006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1280
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88642fcd25df3e8f0800000000000000
+      internalID: -512287400254093688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_123
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1279
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d2b937142f8b1a0800000000000000
+      internalID: -6793413674962047707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_124
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1279
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797230ea060c6b4f0800000000000000
+      internalID: -813251161224960105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_125
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1279
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f3039fcada62f10800000000000000
+      internalID: 2244672422717439773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_126
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1279
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da00b9d184b966ea0800000000000000
+      internalID: -5879841529448955731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_127
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1279
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18231791f3222590800000000000000
+      internalID: -7700552892321421285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_128
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1279
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676d5b8b820cb61d0800000000000000
+      internalID: -3356377816144423306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_129
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1279
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a113972eb3273420800000000000000
+      internalID: 2609593808699199911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_130
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1279
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e878546420460f20800000000000000
+      internalID: 3388466294689396964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_131
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1279
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042f8ef8bcf49f9d0800000000000000
+      internalID: -2740071162566872512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_132
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1279
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3750ea591a2224930800000000000000
+      internalID: 4125898286021084531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_133
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1279
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca24d6d5ebdeb240800000000000000
+      internalID: 4809523232276490947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_134
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1217
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f264f43fa6f4280800000000000000
+      internalID: -9056902732379181219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_135
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1217
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ebc84ccfafb7720800000000000000
+      internalID: 2845143553150860934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_136
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1217
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f995100142bfb280800000000000000
+      internalID: -9025299135983150604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_137
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1217
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a230835149823ac0800000000000000
+      internalID: -3876885415545785690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_138
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1217
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ffa5e7ed8494500800000000000000
+      internalID: 380915763929349889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_139
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1217
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4515a69327df780800000000000000
+      internalID: -8647630118559066915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_140
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1217
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344f6678e5a7ff7c0800000000000000
+      internalID: -4035372194683489213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_141
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1217
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8445e52a5c20000800000000000000
+      internalID: 780251111377062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_142
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1217
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eb5aee32ce668b0800000000000000
+      internalID: -5159176684034474450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_143
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1217
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac64086130a91f50800000000000000
+      internalID: 6852684442079882415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_144
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1217
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f9974c336ebcbe0800000000000000
+      internalID: -1455816944510197913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_145
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1217
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad30211bd45d35790800000000000000
+      internalID: -7542450421255502886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_146
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1217
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdd11fdf23010eb0800000000000000
+      internalID: -4755516227385696842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_147
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1153
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3078cdcc3f81880800000000000000
+      internalID: -8639887823911582737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_148
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1152
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88959e03ae12f1870800000000000000
+      internalID: 8655674298556045704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_149
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1154
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954f45300fe685400800000000000000
+      internalID: 313122151229355097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_150
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1153
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e5947bc25148380800000000000000
+      internalID: -8970021276017402240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_151
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1153
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1487a7b470dcfc0800000000000000
+      internalID: -3473111716874141186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_152
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1153
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813dc7fcafd59e0f0800000000000000
+      internalID: -1087234503228992744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_153
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1153
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd78a5cbd973bc030800000000000000
+      internalID: 3515965084702246875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_154
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1153
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860a03ebc91552450800000000000000
+      internalID: 6063342206971846760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_155
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1153
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dd3a9791e1c2cd0800000000000000
+      internalID: -2581655391626339072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_156
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1153
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7f7be33776b4cd0800000000000000
+      internalID: -2572849017440962582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_157
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1153
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf53763ff75e990e0800000000000000
+      internalID: -2262525000069728772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_158
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1153
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936e59c28b54c0d70800000000000000
+      internalID: 9010653611785840185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_159
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1153
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de423081b554aee0800000000000000
+      internalID: -1250780575653802283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_160
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1089
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d13d5fedee670a80800000000000000
+      internalID: -8500703803436355119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_161
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1089
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7601547251685c930800000000000000
+      internalID: 4162880855985164391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_162
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1089
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5843b497919869340800000000000000
+      internalID: 4870230789549929605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_163
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1089
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d00acb14371ab50800000000000000
+      internalID: 6602685254876532009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_164
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1089
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b071caf631f9803a0800000000000000
+      internalID: -6698929539886868725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_165
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1089
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072af17f1dbb005b0800000000000000
+      internalID: -5404113042375990672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_166
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1089
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78263f4a0b71331e0800000000000000
+      internalID: -2219404143914425721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_167
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1089
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e1c3cfa8413b700800000000000000
+      internalID: 554809766266543692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_168
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1089
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df59e46c4dd5e7a50800000000000000
+      internalID: 6520752478920545789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_169
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1089
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2444a2b85c913f240800000000000000
+      internalID: 4824227962077987906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_170
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1089
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efe6973ee9cbfea0800000000000000
+      internalID: -5837850466983677984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_171
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1089
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc298b0fbc7479910800000000000000
+      internalID: 1844021513674068685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_172
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1089
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96446e641b9bd4290800000000000000
+      internalID: -7904457599915506583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_173
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1025
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba93803156b55e20800000000000000
+      internalID: 3338775158587628217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_174
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1025
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f04f3bd441680ef0800000000000000
+      internalID: -141756439898144527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_175
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1025
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ca280fcc22537a0800000000000000
+      internalID: -6398169432006153088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_176
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1025
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627a793fc809435c0800000000000000
+      internalID: -4236602414392170714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_177
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1026
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9ecf65a989a0b90800000000000000
+      internalID: -7274834459411813890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_178
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1024
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b81cce4a055bb1a0800000000000000
+      internalID: -6792742110198228811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_179
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 930
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370c6819f7468f140800000000000000
+      internalID: 4753659905754710131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_180
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 929
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584de94b960bfee00800000000000000
+      internalID: 1076272804013200517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_181
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 928
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c7557c139191fa0800000000000000
+      internalID: -5829600541066036094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_182
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 927
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7fe54bb5f2a04e0800000000000000
+      internalID: -2014745812380223545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_183
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 928
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d5c84ee4271d390800000000000000
+      internalID: -7795323796834198190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_184
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 929
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1a77ae3a8bef2d0800000000000000
+      internalID: -3242951667507289688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_185
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 928
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b86b1013d617aaf0800000000000000
+      internalID: -385314147352745808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_186
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 927
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c03e8fa2597717c0800000000000000
+      internalID: -4100675539657936703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_187
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 928
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167fb6f538c140e50800000000000000
+      internalID: 6774571090039273313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_188
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 801
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee18462cdb6969460800000000000000
+      internalID: 7248146392053744110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_189
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 801
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d431412df4a12dcb0800000000000000
+      internalID: -4840777719340592307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_190
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 802
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1422a60f705645480800000000000000
+      internalID: -8911386677886705087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_191
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 802
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5435686a6b525dce0800000000000000
+      internalID: -1381156244311092411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_192
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 801
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f32724f011493c0800000000000000
+      internalID: -4353836182523461766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_193
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 801
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1e8f2f22c9f9700800000000000000
+      internalID: 549329353481707961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_194
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 801
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256b29217716c4430800000000000000
+      internalID: 3768494152242869842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_195
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 801
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918a341e574426070800000000000000
+      internalID: 8098110353046743065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_196
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 801
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4a1930ce26d7780800000000000000
+      internalID: -8683675740688767832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_197
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 673
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ef77d5bec354bf0800000000000000
+      internalID: -340799215213478340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_198
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 673
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2e9c759dc8234e0800000000000000
+      internalID: -2003384019117808942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_199
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 672
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190393375641c0b50800000000000000
+      internalID: 6560641183129350289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_200
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 672
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff60296aa44f1e90800000000000000
+      internalID: -7052842992740044801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_201
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 672
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76a915683099eb50800000000000000
+      internalID: 6622983298913773183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_202
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 673
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7baa1543997a090800000000000000
+      internalID: -8023275761149757526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_203
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 672
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7f2ab3a6b3a6d90800000000000000
+      internalID: -7103800134770427933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_204
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 670
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d727d06840b8c10800000000000000
+      internalID: 2056742628622499190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_205
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 672
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf2d5946225b8510800000000000000
+      internalID: 1552424820952346557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_206
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 545
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709c65802e8a53810800000000000000
+      internalID: 1744486119431915783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_207
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 545
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febceba6c187671c0800000000000000
+      internalID: -4506282313692296209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_208
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 546
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479398b16afc26570800000000000000
+      internalID: 8458551362488711540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_209
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 546
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09eb3d25360a54e0800000000000000
+      internalID: -1992273059696088820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_210
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 545
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a17fc13064a66fb0800000000000000
+      internalID: -4654852431781334622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_211
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 545
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a762902f90f6e0a0800000000000000
+      internalID: -6852525216760698973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_212
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 545
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22e63065101122e0800000000000000
+      internalID: -2152421462911819218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_213
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 545
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fae8c208e3c7f920800000000000000
+      internalID: 3024101076049128180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_214
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 545
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b52cb6119d44700800000000000000
+      internalID: 523782125527391082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_215
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 417
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4c9601eb9030690800000000000000
+      internalID: -7637249831166425952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_216
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 416
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c4f3434fefbcf10800000000000000
+      internalID: 2291205160250067980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_217
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 416
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b2eaf750ec72170800000000000000
+      internalID: 8153712173389851404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_218
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 416
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794bb2ef8329433b0800000000000000
+      internalID: -5533637268651395945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_219
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 416
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e6328dacf537270800000000000000
+      internalID: 8247040667459743301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_220
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 416
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c8cf640bb52ee50800000000000000
+      internalID: 6837127996965162121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_221
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 289
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b5867fc185755e0800000000000000
+      internalID: -1920969834617087098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_222
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 280
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450802a58e5bff5c0800000000000000
+      internalID: -4179421919627411372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_223
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 280
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6cf9f6db1f86710800000000000000
+      internalID: 1686863856374105767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_224
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 284
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ea33d812121c100800000000000000
+      internalID: 126418692529696339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_225
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 289
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b1f1ae4474f3270800000000000000
+      internalID: 8232377005167811484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_226
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 289
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d974ceba791593f0800000000000000
+      internalID: -894780935985923625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_227
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 161
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8613acaf473524150800000000000000
+      internalID: 5855334227423932776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_228
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 161
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e172c6ebd5d0960800000000000000
+      internalID: 7569809621119344174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_229
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 161
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aac1318187f10830800000000000000
+      internalID: 4035778876691040934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_230
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 161
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a715485eee168b0800000000000000
+      internalID: -5160581028455024032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_231
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 147
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8207e301585c2260800000000000000
+      internalID: 7074126219673272971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_232
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 160
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ca85233104e3200800000000000000
+      internalID: 161637087825144892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_233
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 33
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8799b7a11d8001560800000000000000
+      internalID: 7282330291643586936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_234
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 24
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149163ef8b92a8a90800000000000000
+      internalID: -7310985170566899391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_235
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 24
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d283c57c56ada00800000000000000
+      internalID: 782049392222285060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_236
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 28
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8810f70f50468d0800000000000000
+      internalID: -2854149733364954955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_237
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 33
+        width: 75
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fe8dab14ac3ebc0800000000000000
+      internalID: -3754935280640397421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Female Knight Lvl1_238
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 33
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef92d66110a0062c0800000000000000
+      internalID: -4440538232799811074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Female Knight Lvl1_0: 8263882406607699543
+      Female Knight Lvl1_1: -722231986603849408
+      Female Knight Lvl1_10: -8276354062765387125
+      Female Knight Lvl1_100: -4146130587999217009
+      Female Knight Lvl1_101: 1248059814282280184
+      Female Knight Lvl1_102: -3224725861957298255
+      Female Knight Lvl1_103: 2207883147818835555
+      Female Knight Lvl1_104: 4719308911264497818
+      Female Knight Lvl1_105: 3658690796059547401
+      Female Knight Lvl1_106: -6307130482873279629
+      Female Knight Lvl1_107: 2156091708025484830
+      Female Knight Lvl1_108: 4416114334453596332
+      Female Knight Lvl1_109: -3554088563281310140
+      Female Knight Lvl1_11: 35078264342806917
+      Female Knight Lvl1_110: 1728941638742847561
+      Female Knight Lvl1_111: 4449275887114779912
+      Female Knight Lvl1_112: -772001948446502412
+      Female Knight Lvl1_113: -4918547064154974662
+      Female Knight Lvl1_114: -4955565377764611201
+      Female Knight Lvl1_115: -1765336204964471923
+      Female Knight Lvl1_116: 3575754178327055215
+      Female Knight Lvl1_117: 7720285559001590876
+      Female Knight Lvl1_118: -1513461899246360194
+      Female Knight Lvl1_119: 3349985257806023338
+      Female Knight Lvl1_12: 4347071463032899402
+      Female Knight Lvl1_120: 2155916734911281794
+      Female Knight Lvl1_121: 4357765125234612006
+      Female Knight Lvl1_122: -512287400254093688
+      Female Knight Lvl1_123: -6793413674962047707
+      Female Knight Lvl1_124: -813251161224960105
+      Female Knight Lvl1_125: 2244672422717439773
+      Female Knight Lvl1_126: -5879841529448955731
+      Female Knight Lvl1_127: -7700552892321421285
+      Female Knight Lvl1_128: -3356377816144423306
+      Female Knight Lvl1_129: 2609593808699199911
+      Female Knight Lvl1_13: -5306642710963095471
+      Female Knight Lvl1_130: 3388466294689396964
+      Female Knight Lvl1_131: -2740071162566872512
+      Female Knight Lvl1_132: 4125898286021084531
+      Female Knight Lvl1_133: 4809523232276490947
+      Female Knight Lvl1_134: -9056902732379181219
+      Female Knight Lvl1_135: 2845143553150860934
+      Female Knight Lvl1_136: -9025299135983150604
+      Female Knight Lvl1_137: -3876885415545785690
+      Female Knight Lvl1_138: 380915763929349889
+      Female Knight Lvl1_139: -8647630118559066915
+      Female Knight Lvl1_14: 3499276518334734333
+      Female Knight Lvl1_140: -4035372194683489213
+      Female Knight Lvl1_141: 780251111377062
+      Female Knight Lvl1_142: -5159176684034474450
+      Female Knight Lvl1_143: 6852684442079882415
+      Female Knight Lvl1_144: -1455816944510197913
+      Female Knight Lvl1_145: -7542450421255502886
+      Female Knight Lvl1_146: -4755516227385696842
+      Female Knight Lvl1_147: -8639887823911582737
+      Female Knight Lvl1_148: 8655674298556045704
+      Female Knight Lvl1_149: 313122151229355097
+      Female Knight Lvl1_15: 1531773007117913986
+      Female Knight Lvl1_150: -8970021276017402240
+      Female Knight Lvl1_151: -3473111716874141186
+      Female Knight Lvl1_152: -1087234503228992744
+      Female Knight Lvl1_153: 3515965084702246875
+      Female Knight Lvl1_154: 6063342206971846760
+      Female Knight Lvl1_155: -2581655391626339072
+      Female Knight Lvl1_156: -2572849017440962582
+      Female Knight Lvl1_157: -2262525000069728772
+      Female Knight Lvl1_158: 9010653611785840185
+      Female Knight Lvl1_159: -1250780575653802283
+      Female Knight Lvl1_16: -6920569643484769431
+      Female Knight Lvl1_160: -8500703803436355119
+      Female Knight Lvl1_161: 4162880855985164391
+      Female Knight Lvl1_162: 4870230789549929605
+      Female Knight Lvl1_163: 6602685254876532009
+      Female Knight Lvl1_164: -6698929539886868725
+      Female Knight Lvl1_165: -5404113042375990672
+      Female Knight Lvl1_166: -2219404143914425721
+      Female Knight Lvl1_167: 554809766266543692
+      Female Knight Lvl1_168: 6520752478920545789
+      Female Knight Lvl1_169: 4824227962077987906
+      Female Knight Lvl1_17: -5367553421317466536
+      Female Knight Lvl1_170: -5837850466983677984
+      Female Knight Lvl1_171: 1844021513674068685
+      Female Knight Lvl1_172: -7904457599915506583
+      Female Knight Lvl1_173: 3338775158587628217
+      Female Knight Lvl1_174: -141756439898144527
+      Female Knight Lvl1_175: -6398169432006153088
+      Female Knight Lvl1_176: -4236602414392170714
+      Female Knight Lvl1_177: -7274834459411813890
+      Female Knight Lvl1_178: -6792742110198228811
+      Female Knight Lvl1_179: 4753659905754710131
+      Female Knight Lvl1_18: 6802471832917815267
+      Female Knight Lvl1_180: 1076272804013200517
+      Female Knight Lvl1_181: -5829600541066036094
+      Female Knight Lvl1_182: -2014745812380223545
+      Female Knight Lvl1_183: -7795323796834198190
+      Female Knight Lvl1_184: -3242951667507289688
+      Female Knight Lvl1_185: -385314147352745808
+      Female Knight Lvl1_186: -4100675539657936703
+      Female Knight Lvl1_187: 6774571090039273313
+      Female Knight Lvl1_188: 7248146392053744110
+      Female Knight Lvl1_189: -4840777719340592307
+      Female Knight Lvl1_19: -474160355139773549
+      Female Knight Lvl1_190: -8911386677886705087
+      Female Knight Lvl1_191: -1381156244311092411
+      Female Knight Lvl1_192: -4353836182523461766
+      Female Knight Lvl1_193: 549329353481707961
+      Female Knight Lvl1_194: 3768494152242869842
+      Female Knight Lvl1_195: 8098110353046743065
+      Female Knight Lvl1_196: -8683675740688767832
+      Female Knight Lvl1_197: -340799215213478340
+      Female Knight Lvl1_198: -2003384019117808942
+      Female Knight Lvl1_199: 6560641183129350289
+      Female Knight Lvl1_2: 5901235770955155615
+      Female Knight Lvl1_20: -644220544489215975
+      Female Knight Lvl1_200: -7052842992740044801
+      Female Knight Lvl1_201: 6622983298913773183
+      Female Knight Lvl1_202: -8023275761149757526
+      Female Knight Lvl1_203: -7103800134770427933
+      Female Knight Lvl1_204: 2056742628622499190
+      Female Knight Lvl1_205: 1552424820952346557
+      Female Knight Lvl1_206: 1744486119431915783
+      Female Knight Lvl1_207: -4506282313692296209
+      Female Knight Lvl1_208: 8458551362488711540
+      Female Knight Lvl1_209: -1992273059696088820
+      Female Knight Lvl1_21: -7853470477992774587
+      Female Knight Lvl1_210: -4654852431781334622
+      Female Knight Lvl1_211: -6852525216760698973
+      Female Knight Lvl1_212: -2152421462911819218
+      Female Knight Lvl1_213: 3024101076049128180
+      Female Knight Lvl1_214: 523782125527391082
+      Female Knight Lvl1_215: -7637249831166425952
+      Female Knight Lvl1_216: 2291205160250067980
+      Female Knight Lvl1_217: 8153712173389851404
+      Female Knight Lvl1_218: -5533637268651395945
+      Female Knight Lvl1_219: 8247040667459743301
+      Female Knight Lvl1_22: 8564501265343343313
+      Female Knight Lvl1_220: 6837127996965162121
+      Female Knight Lvl1_221: -1920969834617087098
+      Female Knight Lvl1_222: -4179421919627411372
+      Female Knight Lvl1_223: 1686863856374105767
+      Female Knight Lvl1_224: 126418692529696339
+      Female Knight Lvl1_225: 8232377005167811484
+      Female Knight Lvl1_226: -894780935985923625
+      Female Knight Lvl1_227: 5855334227423932776
+      Female Knight Lvl1_228: 7569809621119344174
+      Female Knight Lvl1_229: 4035778876691040934
+      Female Knight Lvl1_23: 1340612521499133718
+      Female Knight Lvl1_230: -5160581028455024032
+      Female Knight Lvl1_231: 7074126219673272971
+      Female Knight Lvl1_232: 161637087825144892
+      Female Knight Lvl1_233: 7282330291643586936
+      Female Knight Lvl1_234: -7310985170566899391
+      Female Knight Lvl1_235: 782049392222285060
+      Female Knight Lvl1_236: -2854149733364954955
+      Female Knight Lvl1_237: -3754935280640397421
+      Female Knight Lvl1_238: -4440538232799811074
+      Female Knight Lvl1_24: -471965983159890427
+      Female Knight Lvl1_25: -5056177946814392682
+      Female Knight Lvl1_26: -5614032687244622841
+      Female Knight Lvl1_27: 4993748920259748428
+      Female Knight Lvl1_28: -1661360176133242374
+      Female Knight Lvl1_29: -4016701748496722717
+      Female Knight Lvl1_3: 8976027011272518631
+      Female Knight Lvl1_30: -3737177349263562790
+      Female Knight Lvl1_31: -5558818431859401945
+      Female Knight Lvl1_32: -5331851696915821340
+      Female Knight Lvl1_33: -6537625291328797710
+      Female Knight Lvl1_34: -3133954171022254037
+      Female Knight Lvl1_35: 3297460487511002256
+      Female Knight Lvl1_36: 4350424588538574435
+      Female Knight Lvl1_37: -870528997435045173
+      Female Knight Lvl1_38: 2939796684194752565
+      Female Knight Lvl1_39: 4508978696836386216
+      Female Knight Lvl1_4: 4258032396946375668
+      Female Knight Lvl1_40: 160358809756716059
+      Female Knight Lvl1_41: 1805408271514872268
+      Female Knight Lvl1_42: -8098253199093909596
+      Female Knight Lvl1_43: -2972296202236091313
+      Female Knight Lvl1_44: -8558115568341634309
+      Female Knight Lvl1_45: -3314344370668050748
+      Female Knight Lvl1_46: 5368459761360462039
+      Female Knight Lvl1_47: 4838619554460536528
+      Female Knight Lvl1_48: 8108525914993274109
+      Female Knight Lvl1_49: 8619667261214511992
+      Female Knight Lvl1_5: 7919886647739736635
+      Female Knight Lvl1_50: -4716395546547836077
+      Female Knight Lvl1_51: -1173732036119524503
+      Female Knight Lvl1_52: 6327685048943228520
+      Female Knight Lvl1_53: -4232897383909415463
+      Female Knight Lvl1_54: 2248230511598331902
+      Female Knight Lvl1_55: -8660767054331187534
+      Female Knight Lvl1_56: 2784490837224238799
+      Female Knight Lvl1_57: 6007085837932445747
+      Female Knight Lvl1_58: 9083797343139266531
+      Female Knight Lvl1_59: -7146546040430522388
+      Female Knight Lvl1_6: 6411865455492297715
+      Female Knight Lvl1_60: 7010705908499621469
+      Female Knight Lvl1_61: -7835269809090568396
+      Female Knight Lvl1_62: 7802368982302820813
+      Female Knight Lvl1_63: 4917744159713318993
+      Female Knight Lvl1_64: -3983975040639561931
+      Female Knight Lvl1_65: -1910718156000146842
+      Female Knight Lvl1_66: -2981990538954122956
+      Female Knight Lvl1_67: 5392151599568390047
+      Female Knight Lvl1_68: -5383501601142033230
+      Female Knight Lvl1_69: 235186854495857741
+      Female Knight Lvl1_7: 4287934616890067136
+      Female Knight Lvl1_70: 6345951554688779702
+      Female Knight Lvl1_71: 8034714495472542288
+      Female Knight Lvl1_72: 1224645534968360199
+      Female Knight Lvl1_73: 6186106334666686217
+      Female Knight Lvl1_74: -4985782980575381865
+      Female Knight Lvl1_75: -9091413507987957190
+      Female Knight Lvl1_76: 6156809296151920220
+      Female Knight Lvl1_77: 1330389639561694713
+      Female Knight Lvl1_78: -1599427830391849967
+      Female Knight Lvl1_79: -2905729868472297779
+      Female Knight Lvl1_8: 2232747996224746344
+      Female Knight Lvl1_80: 803194620384283158
+      Female Knight Lvl1_81: 7003625327741006955
+      Female Knight Lvl1_82: -2464621068173970789
+      Female Knight Lvl1_83: 4696354567612794744
+      Female Knight Lvl1_84: -5267447677190739099
+      Female Knight Lvl1_85: -1306131532893832034
+      Female Knight Lvl1_86: 6758423815607696833
+      Female Knight Lvl1_87: 2208395319172566967
+      Female Knight Lvl1_88: -8219154667729994866
+      Female Knight Lvl1_89: 8943963053707951388
+      Female Knight Lvl1_9: -4963830032773731434
+      Female Knight Lvl1_90: -6231595086475250839
+      Female Knight Lvl1_91: 6867031399220694341
+      Female Knight Lvl1_92: 7531250102042448475
+      Female Knight Lvl1_93: -6681460776707994465
+      Female Knight Lvl1_94: -4761306049694794739
+      Female Knight Lvl1_95: -5087974923332503788
+      Female Knight Lvl1_96: -5176682883982988128
+      Female Knight Lvl1_97: 1943906702094725191
+      Female Knight Lvl1_98: -7343988173979129921
+      Female Knight Lvl1_99: -5383014930124563346
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
