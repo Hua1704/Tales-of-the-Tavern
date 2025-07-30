@@ -16,9 +16,9 @@ namespace TheProphecy.Enemy
         {
             base.Die();
             gameObject.SetActive(false);
-            LevelRunStats levelStats = LevelManager.instance.levelRunStats;
-            levelStats.AddKill();
-            levelStats.AddCoins(Random.Range(_minCoinDropRate, _maxCoinDropRate));
+            // LevelRunStats levelStats = LevelManager.instance.levelRunStats;
+            // levelStats.AddKill();
+            // levelStats.AddCoins(Random.Range(_minCoinDropRate, _maxCoinDropRate));
         }
     }
 }

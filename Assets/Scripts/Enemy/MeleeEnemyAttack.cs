@@ -30,11 +30,11 @@ namespace TheProphecy.Enemy
 
         private void OnTriggerStay2D(Collider2D collision)
         {
-            if (collision.transform.parent.TryGetComponent<IDamageable>(out IDamageable iDamageable) 
-                && _isAttacking )
-            {
-                iDamageable.OnTakeDamage(_damage);
-            }
+            // if (collision.transform.parent.TryGetComponent<IDamageable>(out IDamageable iDamageable) 
+            //     && _isAttacking )
+            // {
+            //     iDamageable.OnTakeDamage(_damage);
+            // }
         }
     }
 }
