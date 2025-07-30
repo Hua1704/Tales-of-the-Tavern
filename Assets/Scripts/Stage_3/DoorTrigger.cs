@@ -1,32 +1,35 @@
 using UnityEngine;
-using System.Collections;
 
 public class DoorTrigger : MonoBehaviour
 {
     public AudioSource doorSound;
     public AudioSource roaringSound;
+    public CutsceneManager cutsceneManager;
 
     private bool triggered = false;
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (triggered) return;
+        if (triggered) return; // prevent multiple triggers
         if (other.CompareTag("Player"))
         {
             triggered = true;
 
             doorSound.Play();
 
+            // Stop the roaring sound
             if (roaringSound != null)
                 roaringSound.Stop();
 
-            StartCoroutine(FreezeGameAfterSound());
+            // Start the cutscene
+            if (cutsceneManager != null)
+            {
+                cutsceneManager.PlayCutscene();
+            }
+            else
+            {
+                Debug.LogError("CutsceneManager not assigned in Inspector!");
+            }
         }
-    }
-
-    IEnumerator FreezeGameAfterSound()
-    {
-        yield return new WaitForSeconds(doorSound.clip.length); // wait for the door sound to finish
-        Time.timeScale = 0f;
     }
 }

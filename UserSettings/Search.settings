@@ -1,6 +1,4 @@
 trackSelection = true
-refreshSearchWindowsInPlayMode = false
-pickerAdvancedUI = false
 fetchPreview = true
 defaultFlags = 0
 keepOpen = false
@@ -15,10 +13,6 @@ scopes = {
 	"last_search.DD5CDD96" = ""
 	"OpenInspectorPreview.DD5CDD96" = "0"
 	"currentGroup.DD5CDD96" = "scene"
-	"picker_window_position_offset.075BCD15" = "38.40002;275.2;320;550.4"
-	"picker_visibility_flags.075BCD15" = "264"
-	"picker_item_size.075BCD15" = "96"
-	"picker_inspector.075BCD15" = "0"
 }
 providers = {
 	adb = {
@@ -61,16 +55,6 @@ providers = {
 		priority = 50
 		defaultAction = null
 	}
-	presets_provider = {
-		active = false
-		priority = -10
-		defaultAction = null
-	}
-	profilermarkers = {
-		active = false
-		priority = 100
-		defaultAction = null
-	}
 }
 objectSelectors = {
 }
@@ -80,13 +64,9 @@ searchItemFavorites = [
 ]
 savedSearchesSortOrder = 0
 showSavedSearchPanel = false
-hideTabs = false
 expandedQueries = [
 ]
 queryBuilder = false
 ignoredProperties = "id;name;classname;imagecontentshash"
 helperWidgetCurrentArea = "all"
 disabledIndexers = ""
-minIndexVariations = 2
-findProviderIndexHelper = true
-itemIconSize = 32
