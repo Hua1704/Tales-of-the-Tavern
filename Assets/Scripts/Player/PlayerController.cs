@@ -21,6 +21,11 @@ public class PlayerController : MonoBehaviour
     {
         playerControls.Enable();
     }
+      private void OnDisable()
+    {
+        
+        playerControls.Movement.Disable();
+    }
     private void Update()
     {
         PlayerInput();

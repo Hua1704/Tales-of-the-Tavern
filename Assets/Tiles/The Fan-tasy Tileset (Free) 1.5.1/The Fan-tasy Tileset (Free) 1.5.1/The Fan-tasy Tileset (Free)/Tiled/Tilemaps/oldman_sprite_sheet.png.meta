@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 71ad79e5176ce8644ba3ebc9faa5f6cf
+guid: 35ea01ab171bd3b4c8a6213bb3a0cff2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7166879552901398457
-    second: katheryn1_0
+      213: -2510946346372185695
+    second: oldman_sprite_sheet_0
+  - first:
+      213: 35062343308690355
+    second: oldman_sprite_sheet_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +116,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: katheryn1_0
+      name: oldman_sprite_sheet_0
       rect:
         serializedVersion: 2
-        x: 112
-        y: 28
-        width: 41
-        height: 204
+        x: 19
+        y: 34
+        width: 121
+        height: 152
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9bfb2ba4bfed57360800000000000000
-      internalID: 7166879552901398457
+      spriteID: 1a1cb6ef993572dd0800000000000000
+      internalID: -2510946346372185695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: oldman_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 34
+        width: 121
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b348e5f3019c7000800000000000000
+      internalID: 35062343308690355
       vertices: []
       indices: 
       edges: []
@@ -138,7 +163,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 73406cb273508994e87f66f52eca399f
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -147,8 +172,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      katheryn1_0: 7166879552901398457
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
