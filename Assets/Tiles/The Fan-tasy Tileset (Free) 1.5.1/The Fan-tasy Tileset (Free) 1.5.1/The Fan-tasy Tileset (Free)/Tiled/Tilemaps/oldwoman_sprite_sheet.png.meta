@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      oldwoman_sprite_sheet_0: -7468775585981858792
+      oldwoman_sprite_sheet_1: 4569538958094095469
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

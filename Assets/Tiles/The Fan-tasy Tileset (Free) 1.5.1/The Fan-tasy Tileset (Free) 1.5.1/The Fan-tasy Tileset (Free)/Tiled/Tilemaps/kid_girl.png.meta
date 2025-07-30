@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kid_girl_0: -1031683632885477586
+      kid_girl_1: 6370624890178561123
+      kid_girl_2: -8915380729951833266
+      kid_girl_3: 2372590346885192179
+      kid_girl_4: 1662173031845446982
+      kid_girl_5: -7328460751042411350
+      kid_girl_6: 5978752677463221332
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
