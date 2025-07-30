@@ -80,6 +80,8 @@ public class PlayerControllerStage2 : MonoBehaviour
         // Check for new input ONLY if we are currently stopped
         if (slideDirection == Vector2.zero && movement.sqrMagnitude > 0.01f)
         {
+            movement = Mathf.Abs(movement.x) > Mathf.Abs(movement.y) ? new Vector2(Mathf.Sign(movement.x), 0f) : new Vector2(0f, Mathf.Sign(movement.y));
+
             // Get the potential direction from input
             Vector2 potentialDirection = movement.normalized;
 
@@ -97,17 +99,17 @@ public class PlayerControllerStage2 : MonoBehaviour
             if (hit.collider == null)
             {
                 slideDirection = potentialDirection;
-                //myAnimator.SetFloat("lastX", slideDirection.x);
-                //myAnimator.SetFloat("lastY", slideDirection.y);
+                myAnimator.SetFloat("lastX", slideDirection.x);
+                myAnimator.SetFloat("lastY", slideDirection.y);
             }
             // If the BoxCast hit a collider, do nothing. The player remains stopped
             // and is free to input a different, unblocked direction.
         }
 
         // Update animator to reflect sliding motion or idle state on mud
-        //myAnimator.SetFloat("moveX", slideDirection.x);
-        //myAnimator.SetFloat("moveY", slideDirection.y);
-        //myAnimator.SetFloat("speed", slideDirection.sqrMagnitude);
+        myAnimator.SetFloat("moveX", slideDirection.x);
+        myAnimator.SetFloat("moveY", slideDirection.y);
+        myAnimator.SetFloat("speed", slideDirection.sqrMagnitude);
     }
 
     private void HandleNormalMovement()
