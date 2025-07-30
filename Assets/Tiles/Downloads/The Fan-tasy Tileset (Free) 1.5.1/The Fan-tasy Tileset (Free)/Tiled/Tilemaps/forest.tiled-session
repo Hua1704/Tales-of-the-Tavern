@@ -1,0 +1,229 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "forest.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        ":/automap-tiles.tsx": {
+            "scaleInDock": 2
+        },
+        "D:/APCS/Y3/S3/GAME/midterm game/map1_v1.tmx": {
+            "expandedObjectLayers": [
+                10
+            ],
+            "scale": 1,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 392.5,
+                "y": 381.5
+            }
+        },
+        "D:/APCS/Y3/S3/GAME/midterm game/map1_v1.tmx#npc": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/APCS/Y3/S3/GAME/midterm game/map3/alldungeon.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/APCS/Y3/S3/GAME/midterm game/map3/maze2.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 418.5,
+                "y": 274.5
+            }
+        },
+        "D:/APCS/Y3/S3/GAME/midterm game/tavern/tavern1.tmx": {
+            "scale": 3,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": -0.1666666666666572,
+                "y": -0.16666666666668561
+            }
+        },
+        "D:/APCS/Y3/S3/GAME/midterm game/tavern/tavern1.tmx#Doors_windows_animation": {
+            "scaleInDock": 1
+        },
+        "D:/APCS/Y3/S3/GAME/midterm game/tavern/tavern1.tmx#Interior": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "D:/APCS/Y3/S3/GAME/midterm game/tavern/tavern1.tmx#atlas_16x": {
+            "scaleInDock": 1
+        },
+        "D:/APCS/Y3/S3/GAME/midterm game/tavern/tavern1.tmx#bangthongbao": {
+            "scaleInDock": 1
+        },
+        "D:/APCS/Y3/S3/GAME/midterm game/tavern/tavern1.tmx#katheryn_idle": {
+            "scaleInDock": 0.33
+        },
+        "D:/APCS/Y3/S3/GAME/midterm game/tavern/tavern1.tmx#walls_floor": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilemaps/Rules/RockSlopes_Rules.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 611.3333333333333,
+                "y": 628.6666666666667
+            }
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Animation_Campfire.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Animation_Flowers_Red.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Animation_Flowers_White.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Atlas_Buildings.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Atlas_Props.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Atlas_Rocks.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Atlas_Trees_Bushes.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Objects_Buildings.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Objects_Props.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1.5
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Objects_Rocks.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Objects_Trees.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Tileset_Ground.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Tileset_RockSlope.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Tileset_RockSlope_Simple.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Tileset_Water.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5
+        },
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Tilesets_Road.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "TilesetVillageAbandoned.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Tileset_Water.tsx": {
+            "scaleInDock": 4
+        },
+        "forest.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 3,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 343.5,
+                "y": 251.16666666666669
+            }
+        },
+        "forest.tmx#Abandoned": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "forest.tmx#Slime": {
+            "scaleInDock": 5.5
+        },
+        "forest.tmx#Slime2": {
+            "scaleInDock": 5.5
+        },
+        "forest.tmx#TilesetFloor": {
+            "scaleInDock": 1.5
+        },
+        "forest.tmx#TilesetNature": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "forest.tmx#TilesetVillageAbandoned": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "forest.tmx#Tileset_Ground": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "forest.tmx#Trees_Bushes": {
+            "scaleInEditor": 4
+        },
+        "forest.tmx#frog": {
+            "scaleInDock": 4
+        },
+        "forest.tmx#monkey": {
+            "dynamicWrapping": false,
+            "scaleInDock": 8
+        },
+        "forest.tmx#racoon": {
+            "scaleInDock": 5.5
+        }
+    },
+    "last.externalTilesetPath": "D:/APCS/Y3/S3/GAME/midterm game/map2",
+    "last.imagePath": "D:/APCS/Y3/S3/GAME/midterm game/map2",
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "forest.tmx"
+    ],
+    "project": "forest.tiled-project",
+    "recentFiles": [
+        "forest.tmx",
+        "D:/APCS/Y3/S3/GAME/midterm game/tavern/tavern1.tmx",
+        "D:/APCS/Y3/S3/GAME/midterm game/map1_v1.tmx",
+        "D:/APCS/Y3/S3/GAME/midterm game/map3/maze2.tmx",
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Objects_Rocks.tsx",
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Objects_Trees.tsx",
+        "D:/Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilemaps/Rules/RockSlopes_Rules.tmx",
+        "TilesetVillageAbandoned.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
