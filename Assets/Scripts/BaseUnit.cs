@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class BaseUnit : MonoBehaviour
 {
     [Header("Health Variables")]
-    protected const int MAX_HEALTH = 5;
+    [SerializeField] protected int MAX_HEALTH = 5;
     [SerializeField] protected int health = 5;
     protected bool isAlive = true;
 
