@@ -15,9 +15,9 @@ namespace TheProphecy.LevelRun
 
         override protected void Awake()
         {
-            base.Awake();
-            levelRunStats = new LevelRunStats();
-            _levelGenerator.GenerateDungeon();
+            // base.Awake();
+            // levelRunStats = new LevelRunStats();
+            // _levelGenerator.GenerateDungeon();
         }
 
         public void ResetLevel() {
