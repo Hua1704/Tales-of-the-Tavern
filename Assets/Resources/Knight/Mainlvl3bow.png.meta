@@ -1,0 +1,4745 @@
+fileFormatVersion: 2
+guid: ae767f6de34b8c5478cc360c4e761973
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2887631865750261404
+    second: Mainlvl3bow_0
+  - first:
+      213: 5209366089293506699
+    second: Mainlvl3bow_1
+  - first:
+      213: -4183106213561820831
+    second: Mainlvl3bow_2
+  - first:
+      213: -6100028439951745501
+    second: Mainlvl3bow_3
+  - first:
+      213: 4619485096693743548
+    second: Mainlvl3bow_4
+  - first:
+      213: 7030567097980214832
+    second: Mainlvl3bow_5
+  - first:
+      213: -8143041400971697048
+    second: Mainlvl3bow_6
+  - first:
+      213: -4008308395056478661
+    second: Mainlvl3bow_7
+  - first:
+      213: -5553141298074126584
+    second: Mainlvl3bow_8
+  - first:
+      213: -9198683114167113769
+    second: Mainlvl3bow_9
+  - first:
+      213: -6211349912997845274
+    second: Mainlvl3bow_10
+  - first:
+      213: -1153340656707970146
+    second: Mainlvl3bow_11
+  - first:
+      213: -1938977108464669923
+    second: Mainlvl3bow_12
+  - first:
+      213: 1054895670569297901
+    second: Mainlvl3bow_13
+  - first:
+      213: -5516645106932763946
+    second: Mainlvl3bow_14
+  - first:
+      213: -8553704380383161128
+    second: Mainlvl3bow_15
+  - first:
+      213: -814581575685674563
+    second: Mainlvl3bow_16
+  - first:
+      213: 3535320960462890315
+    second: Mainlvl3bow_17
+  - first:
+      213: -7824008518047570423
+    second: Mainlvl3bow_18
+  - first:
+      213: 4418192522593448221
+    second: Mainlvl3bow_19
+  - first:
+      213: -480175521760984335
+    second: Mainlvl3bow_20
+  - first:
+      213: 1981062768261365585
+    second: Mainlvl3bow_21
+  - first:
+      213: 6831563194464088492
+    second: Mainlvl3bow_22
+  - first:
+      213: -2116971124743992281
+    second: Mainlvl3bow_23
+  - first:
+      213: -71664522336104172
+    second: Mainlvl3bow_24
+  - first:
+      213: -2285644867708129474
+    second: Mainlvl3bow_25
+  - first:
+      213: -4929484416628625404
+    second: Mainlvl3bow_26
+  - first:
+      213: 1200789641529804738
+    second: Mainlvl3bow_27
+  - first:
+      213: 2078562325260467686
+    second: Mainlvl3bow_28
+  - first:
+      213: 4116403423464143974
+    second: Mainlvl3bow_29
+  - first:
+      213: 8259358724357337762
+    second: Mainlvl3bow_30
+  - first:
+      213: -1049443056663917583
+    second: Mainlvl3bow_31
+  - first:
+      213: -7901611594750316386
+    second: Mainlvl3bow_32
+  - first:
+      213: -2726368529659744658
+    second: Mainlvl3bow_33
+  - first:
+      213: 5198643924511931096
+    second: Mainlvl3bow_34
+  - first:
+      213: 4287550175878628813
+    second: Mainlvl3bow_35
+  - first:
+      213: -343298817537110922
+    second: Mainlvl3bow_36
+  - first:
+      213: -2670698636217802484
+    second: Mainlvl3bow_37
+  - first:
+      213: 1365025235381678955
+    second: Mainlvl3bow_38
+  - first:
+      213: -8125461343444924179
+    second: Mainlvl3bow_39
+  - first:
+      213: -2288178736385387807
+    second: Mainlvl3bow_40
+  - first:
+      213: 9057567236272508940
+    second: Mainlvl3bow_41
+  - first:
+      213: 825898349323868338
+    second: Mainlvl3bow_42
+  - first:
+      213: -1205167005831282439
+    second: Mainlvl3bow_43
+  - first:
+      213: 7086264084739124904
+    second: Mainlvl3bow_44
+  - first:
+      213: -9076290227852060184
+    second: Mainlvl3bow_45
+  - first:
+      213: -5313349788650740694
+    second: Mainlvl3bow_46
+  - first:
+      213: 1772493634929612159
+    second: Mainlvl3bow_47
+  - first:
+      213: 2467039969602556930
+    second: Mainlvl3bow_48
+  - first:
+      213: 4465733515987284854
+    second: Mainlvl3bow_49
+  - first:
+      213: 7213699449820109312
+    second: Mainlvl3bow_50
+  - first:
+      213: -6946937918044819550
+    second: Mainlvl3bow_51
+  - first:
+      213: 8684377466524491732
+    second: Mainlvl3bow_52
+  - first:
+      213: -8666951284302372758
+    second: Mainlvl3bow_53
+  - first:
+      213: 4511465994873959732
+    second: Mainlvl3bow_54
+  - first:
+      213: 8230727407161430124
+    second: Mainlvl3bow_55
+  - first:
+      213: -7326996212574484027
+    second: Mainlvl3bow_56
+  - first:
+      213: -9202485771605910317
+    second: Mainlvl3bow_57
+  - first:
+      213: -7711158639984431165
+    second: Mainlvl3bow_58
+  - first:
+      213: -342801299104373203
+    second: Mainlvl3bow_59
+  - first:
+      213: -7517062970174727655
+    second: Mainlvl3bow_60
+  - first:
+      213: 9076201537853843695
+    second: Mainlvl3bow_61
+  - first:
+      213: -513025464355222931
+    second: Mainlvl3bow_62
+  - first:
+      213: -8759474296695090411
+    second: Mainlvl3bow_63
+  - first:
+      213: -7971354169017935051
+    second: Mainlvl3bow_64
+  - first:
+      213: -7486956256651409598
+    second: Mainlvl3bow_65
+  - first:
+      213: -4525061871368222855
+    second: Mainlvl3bow_66
+  - first:
+      213: -4863422946784314423
+    second: Mainlvl3bow_67
+  - first:
+      213: -7103855069269558396
+    second: Mainlvl3bow_68
+  - first:
+      213: 5522632252783883183
+    second: Mainlvl3bow_69
+  - first:
+      213: -6757431710379867136
+    second: Mainlvl3bow_70
+  - first:
+      213: -8141216003032226968
+    second: Mainlvl3bow_71
+  - first:
+      213: 6313345312315949427
+    second: Mainlvl3bow_72
+  - first:
+      213: 2685275364159639150
+    second: Mainlvl3bow_73
+  - first:
+      213: -5517702660261053103
+    second: Mainlvl3bow_74
+  - first:
+      213: -2471699052938226329
+    second: Mainlvl3bow_75
+  - first:
+      213: 7765375772230205473
+    second: Mainlvl3bow_76
+  - first:
+      213: -7324190216534659750
+    second: Mainlvl3bow_77
+  - first:
+      213: -6803342899457007183
+    second: Mainlvl3bow_78
+  - first:
+      213: 9173564902006820807
+    second: Mainlvl3bow_79
+  - first:
+      213: 3635062714027270739
+    second: Mainlvl3bow_80
+  - first:
+      213: 6002092911306891042
+    second: Mainlvl3bow_81
+  - first:
+      213: -9102800724601800000
+    second: Mainlvl3bow_82
+  - first:
+      213: 5848776759180877664
+    second: Mainlvl3bow_83
+  - first:
+      213: -2485547701552920588
+    second: Mainlvl3bow_84
+  - first:
+      213: -7980344522634694542
+    second: Mainlvl3bow_85
+  - first:
+      213: -3907581669520806642
+    second: Mainlvl3bow_86
+  - first:
+      213: 555186743232841877
+    second: Mainlvl3bow_87
+  - first:
+      213: -8705981132513900407
+    second: Mainlvl3bow_88
+  - first:
+      213: 6200722527691017167
+    second: Mainlvl3bow_89
+  - first:
+      213: -263001639607817794
+    second: Mainlvl3bow_90
+  - first:
+      213: -8871894544565775208
+    second: Mainlvl3bow_91
+  - first:
+      213: -2218021876797138507
+    second: Mainlvl3bow_92
+  - first:
+      213: 6382605745779692841
+    second: Mainlvl3bow_93
+  - first:
+      213: 2581689591235957555
+    second: Mainlvl3bow_94
+  - first:
+      213: -1667193308430757714
+    second: Mainlvl3bow_95
+  - first:
+      213: -23847559277564257
+    second: Mainlvl3bow_96
+  - first:
+      213: 2141915297185981600
+    second: Mainlvl3bow_97
+  - first:
+      213: 5853754321352844845
+    second: Mainlvl3bow_98
+  - first:
+      213: -4246954135941874791
+    second: Mainlvl3bow_99
+  - first:
+      213: -5035647815510418010
+    second: Mainlvl3bow_100
+  - first:
+      213: 7125276706643171304
+    second: Mainlvl3bow_101
+  - first:
+      213: -6929348730368963977
+    second: Mainlvl3bow_102
+  - first:
+      213: -5532803863795595443
+    second: Mainlvl3bow_103
+  - first:
+      213: -7976940667931716433
+    second: Mainlvl3bow_104
+  - first:
+      213: -4053450779239910383
+    second: Mainlvl3bow_105
+  - first:
+      213: 6516921337421098813
+    second: Mainlvl3bow_106
+  - first:
+      213: -8666168727174549408
+    second: Mainlvl3bow_107
+  - first:
+      213: 5974408839328301202
+    second: Mainlvl3bow_108
+  - first:
+      213: 3260648887990981187
+    second: Mainlvl3bow_109
+  - first:
+      213: 4433586617839322850
+    second: Mainlvl3bow_110
+  - first:
+      213: 2098533451169233190
+    second: Mainlvl3bow_111
+  - first:
+      213: -6399992538674000394
+    second: Mainlvl3bow_112
+  - first:
+      213: -1542493522551356368
+    second: Mainlvl3bow_113
+  - first:
+      213: 397565472930055042
+    second: Mainlvl3bow_114
+  - first:
+      213: -4498997439476002925
+    second: Mainlvl3bow_115
+  - first:
+      213: -2512599427706095157
+    second: Mainlvl3bow_116
+  - first:
+      213: -7299720053268128778
+    second: Mainlvl3bow_117
+  - first:
+      213: 5927141873485606426
+    second: Mainlvl3bow_118
+  - first:
+      213: 8121522069204473685
+    second: Mainlvl3bow_119
+  - first:
+      213: 88116172016789567
+    second: Mainlvl3bow_120
+  - first:
+      213: -1559833102716773083
+    second: Mainlvl3bow_121
+  - first:
+      213: 2959060807493771136
+    second: Mainlvl3bow_122
+  - first:
+      213: 7550748182650208553
+    second: Mainlvl3bow_123
+  - first:
+      213: -4673947240107547431
+    second: Mainlvl3bow_124
+  - first:
+      213: 848464930600591873
+    second: Mainlvl3bow_125
+  - first:
+      213: 742647985819602176
+    second: Mainlvl3bow_126
+  - first:
+      213: 1817362388000475709
+    second: Mainlvl3bow_127
+  - first:
+      213: -6555774427476443035
+    second: Mainlvl3bow_128
+  - first:
+      213: 2380718616021756077
+    second: Mainlvl3bow_129
+  - first:
+      213: 8049961713734378522
+    second: Mainlvl3bow_130
+  - first:
+      213: -551799712382924611
+    second: Mainlvl3bow_131
+  - first:
+      213: -2115144275194164805
+    second: Mainlvl3bow_132
+  - first:
+      213: 2644215696592042963
+    second: Mainlvl3bow_133
+  - first:
+      213: 3817076072927622918
+    second: Mainlvl3bow_134
+  - first:
+      213: -1499190741417800273
+    second: Mainlvl3bow_135
+  - first:
+      213: -8073441799944335110
+    second: Mainlvl3bow_136
+  - first:
+      213: 1197976023420481979
+    second: Mainlvl3bow_137
+  - first:
+      213: 3548982709511935397
+    second: Mainlvl3bow_138
+  - first:
+      213: 1737624108067911804
+    second: Mainlvl3bow_139
+  - first:
+      213: -828195094412169107
+    second: Mainlvl3bow_140
+  - first:
+      213: -6911721640691548053
+    second: Mainlvl3bow_141
+  - first:
+      213: -6506140987656721677
+    second: Mainlvl3bow_142
+  - first:
+      213: -9220644855528314482
+    second: Mainlvl3bow_143
+  - first:
+      213: -1606843705372858969
+    second: Mainlvl3bow_144
+  - first:
+      213: -8180389781255141603
+    second: Mainlvl3bow_145
+  - first:
+      213: -5688414496190058841
+    second: Mainlvl3bow_146
+  - first:
+      213: -2449811970630132393
+    second: Mainlvl3bow_147
+  - first:
+      213: 6418662416717972459
+    second: Mainlvl3bow_148
+  - first:
+      213: -4480941114589863467
+    second: Mainlvl3bow_149
+  - first:
+      213: 3952337385282577146
+    second: Mainlvl3bow_150
+  - first:
+      213: -9219302248876561795
+    second: Mainlvl3bow_151
+  - first:
+      213: 3134063977363709540
+    second: Mainlvl3bow_152
+  - first:
+      213: 3584951435773000765
+    second: Mainlvl3bow_153
+  - first:
+      213: 2391338120384078277
+    second: Mainlvl3bow_154
+  - first:
+      213: -2177068294748254026
+    second: Mainlvl3bow_155
+  - first:
+      213: 8828517564826851933
+    second: Mainlvl3bow_156
+  - first:
+      213: -3757997639071672685
+    second: Mainlvl3bow_157
+  - first:
+      213: -1147371440093955351
+    second: Mainlvl3bow_158
+  - first:
+      213: 2790201752323605158
+    second: Mainlvl3bow_159
+  - first:
+      213: -406678665864254350
+    second: Mainlvl3bow_160
+  - first:
+      213: 783255081393718953
+    second: Mainlvl3bow_161
+  - first:
+      213: 2900104626470691368
+    second: Mainlvl3bow_162
+  - first:
+      213: -2596519449860237641
+    second: Mainlvl3bow_163
+  - first:
+      213: -4301831510760052648
+    second: Mainlvl3bow_164
+  - first:
+      213: -3870067622418510523
+    second: Mainlvl3bow_165
+  - first:
+      213: 8506761078025525887
+    second: Mainlvl3bow_166
+  - first:
+      213: -5428598904688612330
+    second: Mainlvl3bow_167
+  - first:
+      213: -8056397486763396426
+    second: Mainlvl3bow_168
+  - first:
+      213: 8434102001909909798
+    second: Mainlvl3bow_169
+  - first:
+      213: -2064025695846118648
+    second: Mainlvl3bow_170
+  - first:
+      213: -7162107396772751256
+    second: Mainlvl3bow_171
+  - first:
+      213: -6636346126244610599
+    second: Mainlvl3bow_172
+  - first:
+      213: 4005234909427744121
+    second: Mainlvl3bow_173
+  - first:
+      213: -1909886985154826070
+    second: Mainlvl3bow_174
+  - first:
+      213: -648779108899101202
+    second: Mainlvl3bow_175
+  - first:
+      213: -3269629485536561847
+    second: Mainlvl3bow_176
+  - first:
+      213: -7593583635783527299
+    second: Mainlvl3bow_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mainlvl3bow_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1281
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4617bdf0e121de7d0800000000000000
+      internalID: -2887631865750261404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1281
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b882e499bd26b4840800000000000000
+      internalID: 5209366089293506699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1281
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1691be2df0f92f5c0800000000000000
+      internalID: -4183106213561820831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1281
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e55e40478585ba0800000000000000
+      internalID: -6100028439951745501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1281
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf34a96835bb1040800000000000000
+      internalID: 4619485096693743548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1281
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ed8aca687919160800000000000000
+      internalID: 7030567097980214832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1281
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86468cf4dfa1efe80800000000000000
+      internalID: -8143041400971697048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1216
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36417a60c0af58c0800000000000000
+      internalID: -4008308395056478661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1216
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8077db449674fe2b0800000000000000
+      internalID: -5553141298074126584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1216
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d76fa2c176b75080800000000000000
+      internalID: -9198683114167113769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1216
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e62c1cc92adcc9a0800000000000000
+      internalID: -6211349912997845274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1216
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bd7eb88c28effe0800000000000000
+      internalID: -1153340656707970146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1216
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b695ec79e5715e0800000000000000
+      internalID: -1938977108464669923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1216
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de76167f50eb3ae00800000000000000
+      internalID: 1054895670569297901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1151
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d23061f080f073b0800000000000000
+      internalID: -5516645106932763946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1151
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d41f8d7f232b4980800000000000000
+      internalID: -8553704380383161128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1151
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db96dac6f5602b4f0800000000000000
+      internalID: -814581575685674563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1151
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45226fbeabff0130800000000000000
+      internalID: 3535320960462890315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1151
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906e42ac4b98b6390800000000000000
+      internalID: -7824008518047570423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1151
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d113872d0b2905d30800000000000000
+      internalID: 4418192522593448221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1151
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2499338e21659f0800000000000000
+      internalID: -480175521760984335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1088
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f78f377162e7b10800000000000000
+      internalID: 1981062768261365585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1088
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca13aaab7869ece50800000000000000
+      internalID: 6831563194464088492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1088
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c00ed6af10f92e0800000000000000
+      internalID: -2116971124743992281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1088
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41198232f75610ff0800000000000000
+      internalID: -71664522336104172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1088
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fef894a12c740e0800000000000000
+      internalID: -2285644867708129474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1088
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400f6056a04f69bb0800000000000000
+      internalID: -4929484416628625404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1088
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c74a5121df0aa010800000000000000
+      internalID: 1200789641529804738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1025
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edf8a01c6988dc10800000000000000
+      internalID: 2078562325260467686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1023
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c38cf9a17602930800000000000000
+      internalID: 4116403423464143974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1023
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2b7d5fff22f9270800000000000000
+      internalID: 8259358724357337762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1023
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb0c83a911af61f0800000000000000
+      internalID: -1049443056663917583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1023
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90bccd7e16d75290800000000000000
+      internalID: -7901611594750316386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_33
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1023
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ea3d6644ef92ad0800000000000000
+      internalID: -2726368529659744658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1023
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dab6421b1b452840800000000000000
+      internalID: 5198643924511931096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1023
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5c8e52b20708b30800000000000000
+      internalID: 4287550175878628813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 960
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c83e85b8b5c3bf0800000000000000
+      internalID: -343298817537110922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 960
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c012e168db5cfead0800000000000000
+      internalID: -2670698636217802484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 960
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b637e58283b81f210800000000000000
+      internalID: 1365025235381678955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 959
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de80ccb65ff8c3f80800000000000000
+      internalID: -8125461343444924179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 959
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e295230091ce30e0800000000000000
+      internalID: -2288178736385387807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 959
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c005d3f8961f2bd70800000000000000
+      internalID: 9057567236272508940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 959
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8d7044c2e267b00800000000000000
+      internalID: 825898349323868338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 959
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0c7625ef2664fe0800000000000000
+      internalID: -1205167005831282439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 895
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aeeb73f3a7775260800000000000000
+      internalID: 7086264084739124904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 896
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e95782402a8a0280800000000000000
+      internalID: -9076290227852060184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 896
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a246310c4803346b0800000000000000
+      internalID: -5313349788650740694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 896
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75de94e199299810800000000000000
+      internalID: 1772493634929612159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 896
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204d9da08cfac3220800000000000000
+      internalID: 2467039969602556930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 896
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6737af9e8f879fd30800000000000000
+      internalID: 4465733515987284854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 896
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a55f60e653c1460800000000000000
+      internalID: 7213699449820109312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 896
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af2f3e15c4879f90800000000000000
+      internalID: -6946937918044819550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 832
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df59934b4b158870800000000000000
+      internalID: 8684377466524491732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 832
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60aa85f9bdc8b780800000000000000
+      internalID: -8666951284302372758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 832
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43577b86b62fb9e30800000000000000
+      internalID: 4511465994873959732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 831
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60dde2f7fa693270800000000000000
+      internalID: 8230727407161430124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 831
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c98dd6c3c7415a90800000000000000
+      internalID: -7326996212574484027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 831
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcd7d492f33a4080800000000000000
+      internalID: -9202485771605910317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 831
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf2b0982167cf490800000000000000
+      internalID: -7711158639984431165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 831
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d266752e8002e3bf0800000000000000
+      internalID: -342801299104373203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 770
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a1e744e070ea790800000000000000
+      internalID: -7517062970174727655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 770
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8e1adf53525fd70800000000000000
+      internalID: 9076201537853843695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 769
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a806cee0e51e8f0800000000000000
+      internalID: -513025464355222931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513135e6988107680800000000000000
+      internalID: -8759474296695090411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 769
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b5bd80e9f006190800000000000000
+      internalID: -7971354169017935051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 770
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2478761c3fcf81890800000000000000
+      internalID: -7486956256651409598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 769
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977ce6ae330c331c0800000000000000
+      internalID: -4525061871368222855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 768
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbff60f896a18cb0800000000000000
+      internalID: -4863422946784314423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 769
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b745cc3790a6d90800000000000000
+      internalID: -7103855069269558396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 704
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa37c4416c454ac40800000000000000
+      internalID: 5522632252783883183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 705
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00409dc69a7c832a0800000000000000
+      internalID: -6757431710379867136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_71
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 706
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863e983ed27940f80800000000000000
+      internalID: -8141216003032226968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 706
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37148fcac128d9750800000000000000
+      internalID: 6313345312315949427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 705
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ec7dc67b3044520800000000000000
+      internalID: 2685275364159639150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_74
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 705
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d79ee1aae2d63b0800000000000000
+      internalID: -5517702660261053103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_75
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 705
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76592f59ec2c2bdd0800000000000000
+      internalID: -2471699052938226329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 705
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120c4334f1824cb60800000000000000
+      internalID: 7765375772230205473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_77
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 705
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d6f04adcf3b5a90800000000000000
+      internalID: -7324190216534659750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 639
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b160b8bdaba591a0800000000000000
+      internalID: -6803342899457007183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 639
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf8b1cbcac0f4f70800000000000000
+      internalID: 9173564902006820807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352ecdd6746527230800000000000000
+      internalID: 3635062714027270739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 640
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f565fc3b7bb4350800000000000000
+      internalID: 6002092911306891042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_82
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 639
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caf0fc38fa5ca180800000000000000
+      internalID: -9102800724601800000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 639
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f598d69770b2150800000000000000
+      internalID: 5848776759180877664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f746a0d88f818dd0800000000000000
+      internalID: -2485547701552920588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 640
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270ff1730fe104190800000000000000
+      internalID: -7980344522634694542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 639
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d6261cc2b75c9c0800000000000000
+      internalID: -3907581669520806642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 576
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5984666c66b64b700800000000000000
+      internalID: 555186743232841877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 577
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988814749442e2780800000000000000
+      internalID: -8705981132513900407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 578
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb09cd39446d0650800000000000000
+      internalID: 6200722527691017167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 578
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9a4d7f661a95cf0800000000000000
+      internalID: -263001639607817794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8945e62cae2b0e480800000000000000
+      internalID: -8871894544565775208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 577
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b91679cad00831e0800000000000000
+      internalID: -2218021876797138507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 577
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925d09afb12939850800000000000000
+      internalID: 6382605745779692841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 577
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33351fd310104d320800000000000000
+      internalID: 2581689591235957555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 577
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea09317e480fcd8e0800000000000000
+      internalID: -1667193308430757714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 513
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e208c65c64baff0800000000000000
+      internalID: -23847559277564257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_97
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 512
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4eebb4d9c99bd10800000000000000
+      internalID: 2141915297185981600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 512
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26e4ae6a86bc3150800000000000000
+      internalID: 5853754321352844845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_99
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 512
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bfec5f6b9cf05c0800000000000000
+      internalID: -4246954135941874791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 512
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad9786edf8cd1ab0800000000000000
+      internalID: -5035647815510418010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 512
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7d4d1d96112e260800000000000000
+      internalID: 7125276706643171304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 448
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77acd810b0206df90800000000000000
+      internalID: -6929348730368963977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 447
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d470e8e23388733b0800000000000000
+      internalID: -5532803863795595443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 447
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa41095e9b63c4190800000000000000
+      internalID: -7976940667931716433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 447
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114ffdc0eff3fb7c0800000000000000
+      internalID: -4053450779239910383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 447
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fe522ad61c07a50800000000000000
+      internalID: 6516921337421098813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 447
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060792d35759bb780800000000000000
+      internalID: -8666168727174549408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 383
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2900e138f2d59e250800000000000000
+      internalID: 5974408839328301202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 383
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34299f153e6204d20800000000000000
+      internalID: 3260648887990981187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 383
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e60d3de983478d30800000000000000
+      internalID: 4433586617839322850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 384
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629773a2e0d7f1d10800000000000000
+      internalID: 2098533451169233190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 384
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd8f27d1b8ae27a0800000000000000
+      internalID: -6399992538674000394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 384
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0344cff4056f79ae0800000000000000
+      internalID: -1542493522551356368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 320
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283c4f4f0bf648500800000000000000
+      internalID: 397565472930055042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 319
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f04ae5aa95091c0800000000000000
+      internalID: -4498997439476002925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 319
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc97ab00224712dd0800000000000000
+      internalID: -2512599427706095157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 319
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb5821894f22ba90800000000000000
+      internalID: -7299720053268128778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 319
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ee37e6120714250800000000000000
+      internalID: 5927141873485606426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 319
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5579d62da4175b070800000000000000
+      internalID: 8121522069204473685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_120
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 257
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38270c013d093100800000000000000
+      internalID: 88116172016789567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_121
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 255
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ddba3be0c5a5ae0800000000000000
+      internalID: -1559833102716773083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 255
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f527b6022b01920800000000000000
+      internalID: 2959060807493771136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_123
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 255
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921ca4f6775a9c860800000000000000
+      internalID: 7550748182650208553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 255
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4e87eafbdc22fb0800000000000000
+      internalID: -4673947240107547431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 255
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10223d8eb5a56cb00800000000000000
+      internalID: 848464930600591873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 255
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dcfeb886a6e4a00800000000000000
+      internalID: 742647985819602176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_127
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 255
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a8cec8671983910800000000000000
+      internalID: 1817362388000475709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_128
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 255
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5604da664e53505a0800000000000000
+      internalID: -6555774427476443035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_129
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 255
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8e22ab7f20a0120800000000000000
+      internalID: 2380718616021756077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_130
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 255
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14e1a2378537bf60800000000000000
+      internalID: 8049961713734378522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_131
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 255
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8c04cc51d9758f0800000000000000
+      internalID: -551799712382924611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_132
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 255
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9c95cfc7f75a2e0800000000000000
+      internalID: -2115144275194164805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_133
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db71e89a2422b420800000000000000
+      internalID: 2644215696592042963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_134
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 192
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6077e7fe67af8f430800000000000000
+      internalID: 3817076072927622918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_135
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 192
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadcc37b6fdc13be0800000000000000
+      internalID: -1499190741417800273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_136
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 191
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af01787357f55ff80800000000000000
+      internalID: -8073441799944335110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_137
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 191
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1b96d98d010a010800000000000000
+      internalID: 1197976023420481979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_138
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 191
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5567298f4804130800000000000000
+      internalID: 3548982709511935397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 191
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78fa828be74d1810800000000000000
+      internalID: 1737624108067911804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_140
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 191
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6077d813f8a184f0800000000000000
+      internalID: -828195094412169107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_141
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 191
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b604334a9c1a410a0800000000000000
+      internalID: -6911721640691548053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_142
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 191
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faac142e3b85b5a0800000000000000
+      internalID: -6506140987656721677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_143
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 191
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89a3326b50b90080800000000000000
+      internalID: -9220644855528314482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_144
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 191
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5ada3d92853b9e0800000000000000
+      internalID: -1606843705372858969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_145
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 191
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d174d04e5da697e80800000000000000
+      internalID: -8180389781255141603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_146
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 127
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aea86b7721be01b0800000000000000
+      internalID: -5688414496190058841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_147
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 128
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d571c0ef4800ed0800000000000000
+      internalID: -2449811970630132393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_148
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 129
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be300a1e57ba31950800000000000000
+      internalID: 6418662416717972459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 127
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1ad6d1ccf70d1c0800000000000000
+      internalID: -4480941114589863467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 127
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2a34a59e589d630800000000000000
+      internalID: 3952337385282577146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 127
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aa0ca53757e0080800000000000000
+      internalID: -9219302248876561795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 127
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e9c1a159e6e7b20800000000000000
+      internalID: 3134063977363709540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 127
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cb642465e40c130800000000000000
+      internalID: 3584951435773000765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 127
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1e753c95dbf2120800000000000000
+      internalID: 2391338120384078277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 127
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0d3c7abef79c1e0800000000000000
+      internalID: -2177068294748254026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 127
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a1dc023f1358a70800000000000000
+      internalID: 8828517564826851933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 127
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3965068de09e8dbc0800000000000000
+      internalID: -3757997639071672685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 127
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea75c711c7b310f0800000000000000
+      internalID: -1147371440093955351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_159
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 64
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2cbeae5b9c8b620800000000000000
+      internalID: 2790201752323605158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_160
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 64
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c6e6778ef2b5af0800000000000000
+      internalID: -406678665864254350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a60efeb85eaeda00800000000000000
+      internalID: 783255081393718953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822a048dacd3f3820800000000000000
+      internalID: 2900104626470691368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b610ba315f47fbd0800000000000000
+      internalID: -2596519449860237641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 63
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858a0957803dc44c0800000000000000
+      internalID: -4301831510760052648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 63
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d010d7002ca4ac0800000000000000
+      internalID: -3870067622418510523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 63
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a94d431261e0670800000000000000
+      internalID: 8506761078025525887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 63
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ce5f1ee0eb9a4b0800000000000000
+      internalID: -5428598904688612330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 63
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b23e10ab2de13090800000000000000
+      internalID: -8056397486763396426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 63
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629404fb513fb0570800000000000000
+      internalID: 8434102001909909798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_170
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 63
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b40d7b09b1b53e0800000000000000
+      internalID: -2064025695846118648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 63
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8689924e4451b9c90800000000000000
+      internalID: -7162107396772751256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd76aaeb56f6e3a0800000000000000
+      internalID: -6636346126244610599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d3f62fde3759730800000000000000
+      internalID: 4005234909427744121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa074b0f7e7be75e0800000000000000
+      internalID: -1909886985154826070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5ef5c76d21ff6f0800000000000000
+      internalID: -648779108899101202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945337f5e41ff92d0800000000000000
+      internalID: -3269629485536561847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mainlvl3bow_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7457e07aeb2e9690800000000000000
+      internalID: -7593583635783527299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mainlvl3bow_0: -2887631865750261404
+      Mainlvl3bow_1: 5209366089293506699
+      Mainlvl3bow_10: -6211349912997845274
+      Mainlvl3bow_100: -5035647815510418010
+      Mainlvl3bow_101: 7125276706643171304
+      Mainlvl3bow_102: -6929348730368963977
+      Mainlvl3bow_103: -5532803863795595443
+      Mainlvl3bow_104: -7976940667931716433
+      Mainlvl3bow_105: -4053450779239910383
+      Mainlvl3bow_106: 6516921337421098813
+      Mainlvl3bow_107: -8666168727174549408
+      Mainlvl3bow_108: 5974408839328301202
+      Mainlvl3bow_109: 3260648887990981187
+      Mainlvl3bow_11: -1153340656707970146
+      Mainlvl3bow_110: 4433586617839322850
+      Mainlvl3bow_111: 2098533451169233190
+      Mainlvl3bow_112: -6399992538674000394
+      Mainlvl3bow_113: -1542493522551356368
+      Mainlvl3bow_114: 397565472930055042
+      Mainlvl3bow_115: -4498997439476002925
+      Mainlvl3bow_116: -2512599427706095157
+      Mainlvl3bow_117: -7299720053268128778
+      Mainlvl3bow_118: 5927141873485606426
+      Mainlvl3bow_119: 8121522069204473685
+      Mainlvl3bow_12: -1938977108464669923
+      Mainlvl3bow_120: 88116172016789567
+      Mainlvl3bow_121: -1559833102716773083
+      Mainlvl3bow_122: 2959060807493771136
+      Mainlvl3bow_123: 7550748182650208553
+      Mainlvl3bow_124: -4673947240107547431
+      Mainlvl3bow_125: 848464930600591873
+      Mainlvl3bow_126: 742647985819602176
+      Mainlvl3bow_127: 1817362388000475709
+      Mainlvl3bow_128: -6555774427476443035
+      Mainlvl3bow_129: 2380718616021756077
+      Mainlvl3bow_13: 1054895670569297901
+      Mainlvl3bow_130: 8049961713734378522
+      Mainlvl3bow_131: -551799712382924611
+      Mainlvl3bow_132: -2115144275194164805
+      Mainlvl3bow_133: 2644215696592042963
+      Mainlvl3bow_134: 3817076072927622918
+      Mainlvl3bow_135: -1499190741417800273
+      Mainlvl3bow_136: -8073441799944335110
+      Mainlvl3bow_137: 1197976023420481979
+      Mainlvl3bow_138: 3548982709511935397
+      Mainlvl3bow_139: 1737624108067911804
+      Mainlvl3bow_14: -5516645106932763946
+      Mainlvl3bow_140: -828195094412169107
+      Mainlvl3bow_141: -6911721640691548053
+      Mainlvl3bow_142: -6506140987656721677
+      Mainlvl3bow_143: -9220644855528314482
+      Mainlvl3bow_144: -1606843705372858969
+      Mainlvl3bow_145: -8180389781255141603
+      Mainlvl3bow_146: -5688414496190058841
+      Mainlvl3bow_147: -2449811970630132393
+      Mainlvl3bow_148: 6418662416717972459
+      Mainlvl3bow_149: -4480941114589863467
+      Mainlvl3bow_15: -8553704380383161128
+      Mainlvl3bow_150: 3952337385282577146
+      Mainlvl3bow_151: -9219302248876561795
+      Mainlvl3bow_152: 3134063977363709540
+      Mainlvl3bow_153: 3584951435773000765
+      Mainlvl3bow_154: 2391338120384078277
+      Mainlvl3bow_155: -2177068294748254026
+      Mainlvl3bow_156: 8828517564826851933
+      Mainlvl3bow_157: -3757997639071672685
+      Mainlvl3bow_158: -1147371440093955351
+      Mainlvl3bow_159: 2790201752323605158
+      Mainlvl3bow_16: -814581575685674563
+      Mainlvl3bow_160: -406678665864254350
+      Mainlvl3bow_161: 783255081393718953
+      Mainlvl3bow_162: 2900104626470691368
+      Mainlvl3bow_163: -2596519449860237641
+      Mainlvl3bow_164: -4301831510760052648
+      Mainlvl3bow_165: -3870067622418510523
+      Mainlvl3bow_166: 8506761078025525887
+      Mainlvl3bow_167: -5428598904688612330
+      Mainlvl3bow_168: -8056397486763396426
+      Mainlvl3bow_169: 8434102001909909798
+      Mainlvl3bow_17: 3535320960462890315
+      Mainlvl3bow_170: -2064025695846118648
+      Mainlvl3bow_171: -7162107396772751256
+      Mainlvl3bow_172: -6636346126244610599
+      Mainlvl3bow_173: 4005234909427744121
+      Mainlvl3bow_174: -1909886985154826070
+      Mainlvl3bow_175: -648779108899101202
+      Mainlvl3bow_176: -3269629485536561847
+      Mainlvl3bow_177: -7593583635783527299
+      Mainlvl3bow_18: -7824008518047570423
+      Mainlvl3bow_19: 4418192522593448221
+      Mainlvl3bow_2: -4183106213561820831
+      Mainlvl3bow_20: -480175521760984335
+      Mainlvl3bow_21: 1981062768261365585
+      Mainlvl3bow_22: 6831563194464088492
+      Mainlvl3bow_23: -2116971124743992281
+      Mainlvl3bow_24: -71664522336104172
+      Mainlvl3bow_25: -2285644867708129474
+      Mainlvl3bow_26: -4929484416628625404
+      Mainlvl3bow_27: 1200789641529804738
+      Mainlvl3bow_28: 2078562325260467686
+      Mainlvl3bow_29: 4116403423464143974
+      Mainlvl3bow_3: -6100028439951745501
+      Mainlvl3bow_30: 8259358724357337762
+      Mainlvl3bow_31: -1049443056663917583
+      Mainlvl3bow_32: -7901611594750316386
+      Mainlvl3bow_33: -2726368529659744658
+      Mainlvl3bow_34: 5198643924511931096
+      Mainlvl3bow_35: 4287550175878628813
+      Mainlvl3bow_36: -343298817537110922
+      Mainlvl3bow_37: -2670698636217802484
+      Mainlvl3bow_38: 1365025235381678955
+      Mainlvl3bow_39: -8125461343444924179
+      Mainlvl3bow_4: 4619485096693743548
+      Mainlvl3bow_40: -2288178736385387807
+      Mainlvl3bow_41: 9057567236272508940
+      Mainlvl3bow_42: 825898349323868338
+      Mainlvl3bow_43: -1205167005831282439
+      Mainlvl3bow_44: 7086264084739124904
+      Mainlvl3bow_45: -9076290227852060184
+      Mainlvl3bow_46: -5313349788650740694
+      Mainlvl3bow_47: 1772493634929612159
+      Mainlvl3bow_48: 2467039969602556930
+      Mainlvl3bow_49: 4465733515987284854
+      Mainlvl3bow_5: 7030567097980214832
+      Mainlvl3bow_50: 7213699449820109312
+      Mainlvl3bow_51: -6946937918044819550
+      Mainlvl3bow_52: 8684377466524491732
+      Mainlvl3bow_53: -8666951284302372758
+      Mainlvl3bow_54: 4511465994873959732
+      Mainlvl3bow_55: 8230727407161430124
+      Mainlvl3bow_56: -7326996212574484027
+      Mainlvl3bow_57: -9202485771605910317
+      Mainlvl3bow_58: -7711158639984431165
+      Mainlvl3bow_59: -342801299104373203
+      Mainlvl3bow_6: -8143041400971697048
+      Mainlvl3bow_60: -7517062970174727655
+      Mainlvl3bow_61: 9076201537853843695
+      Mainlvl3bow_62: -513025464355222931
+      Mainlvl3bow_63: -8759474296695090411
+      Mainlvl3bow_64: -7971354169017935051
+      Mainlvl3bow_65: -7486956256651409598
+      Mainlvl3bow_66: -4525061871368222855
+      Mainlvl3bow_67: -4863422946784314423
+      Mainlvl3bow_68: -7103855069269558396
+      Mainlvl3bow_69: 5522632252783883183
+      Mainlvl3bow_7: -4008308395056478661
+      Mainlvl3bow_70: -6757431710379867136
+      Mainlvl3bow_71: -8141216003032226968
+      Mainlvl3bow_72: 6313345312315949427
+      Mainlvl3bow_73: 2685275364159639150
+      Mainlvl3bow_74: -5517702660261053103
+      Mainlvl3bow_75: -2471699052938226329
+      Mainlvl3bow_76: 7765375772230205473
+      Mainlvl3bow_77: -7324190216534659750
+      Mainlvl3bow_78: -6803342899457007183
+      Mainlvl3bow_79: 9173564902006820807
+      Mainlvl3bow_8: -5553141298074126584
+      Mainlvl3bow_80: 3635062714027270739
+      Mainlvl3bow_81: 6002092911306891042
+      Mainlvl3bow_82: -9102800724601800000
+      Mainlvl3bow_83: 5848776759180877664
+      Mainlvl3bow_84: -2485547701552920588
+      Mainlvl3bow_85: -7980344522634694542
+      Mainlvl3bow_86: -3907581669520806642
+      Mainlvl3bow_87: 555186743232841877
+      Mainlvl3bow_88: -8705981132513900407
+      Mainlvl3bow_89: 6200722527691017167
+      Mainlvl3bow_9: -9198683114167113769
+      Mainlvl3bow_90: -263001639607817794
+      Mainlvl3bow_91: -8871894544565775208
+      Mainlvl3bow_92: -2218021876797138507
+      Mainlvl3bow_93: 6382605745779692841
+      Mainlvl3bow_94: 2581689591235957555
+      Mainlvl3bow_95: -1667193308430757714
+      Mainlvl3bow_96: -23847559277564257
+      Mainlvl3bow_97: 2141915297185981600
+      Mainlvl3bow_98: 5853754321352844845
+      Mainlvl3bow_99: -4246954135941874791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
