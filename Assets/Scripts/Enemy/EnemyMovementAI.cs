@@ -1,6 +1,7 @@
 using TheProphecy.Map.PathFinding;
 using UnityEngine;
 using TheProphecy.Map.DungeonGeneration;
+using System.Collections;
 
 
 namespace TheProphecy.Enemy
@@ -13,6 +14,7 @@ namespace TheProphecy.Enemy
 
         private Transform _gridGameObject;
         private PathfindingGrid _grid;
+        private Animator _animator;
         private Pathfinding _pathfinding;
 
         private Transform _targetLeft; // choosing 2 target points fixes bug of wrong calculation of nodes!
@@ -28,11 +30,18 @@ namespace TheProphecy.Enemy
         private float _pathUpdateTimer = 0f;
 
         private int _currentCheckPointIndex = 0;
-        private float _moveSpeed = 3f;
+        private float _moveSpeed = 0.35f;
 
-        private float _range = 8f;
+        [Header("Combat")]
+        [SerializeField] private int attackDamage = 1;
+        private float _range = 1f;
+        private float _attackRange = 0.2f;
         private bool _isInRange = false;
 
+        private float lastAttackTime;
+        private float attackCooldown = 1.5f;
+
+        private BaseUnit _playerBaseUnit; // Reference to the player's health script
 
         void Start()
         {
@@ -43,36 +52,60 @@ namespace TheProphecy.Enemy
             _gridGameObject = _accessReferencesForAI.pathfindingGrid.transform;
             _targetLeft = _accessReferencesForAI.targetLeftPivot.transform;
             _targetRight = _accessReferencesForAI.targetRightPivot.transform;
-            _invisibilityController = _accessReferencesForAI.invisibilityController;
 
             _pathfinding = _gridGameObject.GetComponent<Pathfinding>();
             _grid = _pathfinding.Grid;
             _oldTargetPosition = _targetLeft.position;
-            _range = _gridGameObject.GetComponent<RandomWalkDungeonGenerator>().GetRoomRadius();
-
+            _range = 1.0f;
+            _animator = GetComponent<Animator>();
             _waypoints = _pathfinding.FindPath(transform.position, _targetLeft.position);
+            lastAttackTime = 0.0f;
+            // Find the player and get their BaseUnit component
+            _playerBaseUnit = _targetLeft.GetComponent<BaseUnit>();
         }
 
         private void Update()
         {
 
             _isInRange = _range > (transform.position - _targetLeft.position).magnitude;
-
-            if (_isInRange && !_invisibilityController._isInvisible)
+            bool _isInAttackRange = _attackRange > (transform.position - _targetLeft.position).magnitude;
+            if (_isInRange)
             {
                 UpdatePath();
+            }
+            if(_isInAttackRange && Time.time - lastAttackTime >= attackCooldown)
+            {
+                _animator.SetTrigger("attack");
+                lastAttackTime = Time.time;
             }
 
         }
 
         private void FixedUpdate()
         {
-            if (_isInRange && !_invisibilityController._isInvisible)
+            if (_isInRange )
             {
                 FollowPath();
             }
+            else
+            {
+                _animator.SetFloat("speed", 0);
+            }
         }
+        public void TriggerAttack()
+        {
+            // Check if the player is in attack range at the moment the animation hits.
+            float distanceToPlayer = (transform.position - _targetLeft.position).magnitude;
 
+            // You can add a small buffer to the range to be more forgiving.
+            if (distanceToPlayer <= _attackRange + 0.1f)
+            {
+                if (_playerBaseUnit != null)
+                {
+                    _playerBaseUnit.OnTakeDamage(attackDamage);
+                }
+            }
+        }
         private Vector3 ChooseTargetPivotOfCharacter()
         {
             Node targetNodeLeft = _grid.NodeFromWorldPoint(_targetLeft.position);
@@ -130,16 +163,11 @@ namespace TheProphecy.Enemy
                 {
                     Vector3 moveDirection = (_waypoints[_currentCheckPointIndex] - transform.position).normalized;
                     transform.Translate(moveDirection * Time.deltaTime * _moveSpeed);
-
-                    if(moveDirection.x > 0f)
-                    {
-                        _spriteRenderer.flipX = false;
-                    }
-
-                    else if(moveDirection.x < 0f)
-                    {
-                        _spriteRenderer.flipX = true;
-                    }
+                    // --- Set Animator Parameters Here ---
+                    // Pass the x and y components of the moveDirection to the Animator
+                    _animator.SetFloat("DirectionX", moveDirection.x);
+                    _animator.SetFloat("DirectionY", moveDirection.y);
+                    _animator.SetFloat("speed", _moveSpeed);
                 }
 
             }

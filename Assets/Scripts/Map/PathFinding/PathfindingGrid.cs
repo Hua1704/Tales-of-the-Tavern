@@ -42,8 +42,9 @@ namespace TheProphecy.Map.PathFinding
             _grid = new Node[_gridSizeX, _gridSizeY];
 
             Vector2 worldBottomLeftPosition = (Vector2)transform.position
-                - Vector2.right * _gridWorldSize.x / 2
-                - Vector2.up * _gridWorldSize.y / 2;
+                
+                - Vector2.up * _gridWorldSize.y;
+            worldBottomLeftPosition.x += 1;
 
             for (int x = 0; x < _gridSizeX; x++)
             {
@@ -103,12 +104,23 @@ namespace TheProphecy.Map.PathFinding
 
         public Node NodeFromWorldPoint(Vector2 worldPosition)
         {
-            float percentX = Mathf.Clamp01((worldPosition.x + _gridWorldSize.x / 2) / _gridWorldSize.x);
-            float percentY = Mathf.Clamp01((worldPosition.y + _gridWorldSize.y / 2) / _gridWorldSize.y);
+            // Calculate the world bottom-left position of the grid, mirroring the logic in CreateGrid.
+            Vector2 worldBottomLeftPosition = (Vector2)transform.position - Vector2.up * _gridWorldSize.y;
+            worldBottomLeftPosition.x += 1;
 
+            // Calculate the position of the given world point relative to the grid's bottom-left corner.
+            float percentX = (worldPosition.x - worldBottomLeftPosition.x) / (_gridSizeX * _nodeDiameter);
+            float percentY = (worldPosition.y - worldBottomLeftPosition.y) / (_gridSizeY * _nodeDiameter);
+
+            // Clamp the percentage values to be between 0 and 1 to handle positions outside the grid.
+            percentX = Mathf.Clamp01(percentX);
+            percentY = Mathf.Clamp01(percentY);
+
+            // Determine the x and y indices within the grid array.
             int x = Mathf.RoundToInt((_gridSizeX - 1) * percentX);
             int y = Mathf.RoundToInt((_gridSizeY - 1) * percentY);
 
+            // Return the node at the calculated grid coordinates.
             return _grid[x, y];
         }
 
