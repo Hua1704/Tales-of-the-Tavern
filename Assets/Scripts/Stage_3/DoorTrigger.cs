@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.Video;
+using UnityEngine.SceneManagement;
 using System.Collections;
 
 [RequireComponent(typeof(Collider2D))]
@@ -16,8 +17,13 @@ public class DoorTrigger : MonoBehaviour
     public VideoPlayer cutsceneVideo;
 
     [Header("Fade")]
-    public CanvasGroup fadeGroup;   // assign FadedScreen's CanvasGroup here
+    public CanvasGroup fadeGroup;
     public float fadeDuration = 0.75f;
+
+    [Header("Return Flow")]
+    [Tooltip("Scene name or build index to load after the cutscene")]
+    public string returnSceneName = "Stage0"; 
+    public float holdOnBlackAfterVideo = 0.25f; // small pause before loading (seconds, realtime)
 
     private bool triggered = false;
     private float prevTimeScale = 1f;
@@ -47,7 +53,7 @@ public class DoorTrigger : MonoBehaviour
     private IEnumerator PlaySequence()
     {
         // 1) Fade to black
-        yield return FadeTo(1f, fadeDuration);   // CanvasGroup alpha: 0 -> 1
+        yield return FadeTo(1f, fadeDuration);
 
         // 2) Configure & play video full screen
         if (cutsceneVideo)
@@ -66,25 +72,45 @@ public class DoorTrigger : MonoBehaviour
             cutsceneVideo.Play();
 
             // 3) Reveal the video (fade from black)
-            yield return FadeTo(0f, fadeDuration); // CanvasGroup alpha: 1 -> 0
+            yield return FadeTo(0f, fadeDuration);
 
             // Wait until the video finishes
             while (cutsceneVideo.isPlaying)
                 yield return null;
         }
 
-        // OPTIONAL: stay frozen, or resume
-        // Time.timeScale = prevTimeScale;
-        // if (playerMovementScript) playerMovementScript.enabled = true;
+        // 4) Fade to black again before switching scenes
+        yield return FadeTo(1f, fadeDuration);
+
+        // small hold on black (realtime; still paused)
+        if (holdOnBlackAfterVideo > 0f)
+        {
+            float t = 0f;
+            while (t < holdOnBlackAfterVideo)
+            {
+                t += Time.unscaledDeltaTime;
+                yield return null;
+            }
+        }
+
+        // stop video (optional, scene load will destroy it anyway)
+        if (cutsceneVideo) cutsceneVideo.Stop();
+
+        // 5) Restore timescale so next scene runs normally
+        Time.timeScale = prevTimeScale;
+
+        // 6) Load Stage 0
+        if (!string.IsNullOrEmpty(returnSceneName))
+            SceneManager.LoadScene(returnSceneName);
+        else
+            Debug.LogError("DoorTrigger: returnSceneName is empty. Set it to your Stage 0 scene name.");
     }
 
     private IEnumerator FadeTo(float targetAlpha, float duration)
     {
         if (!fadeGroup || duration <= 0f) yield break;
 
-        // Ensure the overlay blocks clicks during fade
         fadeGroup.blocksRaycasts = true;
-
         float start = fadeGroup.alpha;
         float t = 0f;
 
@@ -96,6 +122,6 @@ public class DoorTrigger : MonoBehaviour
         }
 
         fadeGroup.alpha = targetAlpha;
-        fadeGroup.blocksRaycasts = targetAlpha > 0.001f; // unblock if fully transparent
+        fadeGroup.blocksRaycasts = targetAlpha > 0.001f;
     }
 }
