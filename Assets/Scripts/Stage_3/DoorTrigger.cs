@@ -27,6 +27,8 @@ public class DoorTrigger : MonoBehaviour
 
     private bool triggered = false;
     private float prevTimeScale = 1f;
+    [Header("Conversation")]
+    public ConversationData conversationToPlay;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -44,8 +46,8 @@ public class DoorTrigger : MonoBehaviour
         if (roaringSound && roaringSound.isPlaying) roaringSound.Stop();
 
         // freeze gameplay
-        prevTimeScale = Time.timeScale;
-        Time.timeScale = 0f;
+        // prevTimeScale = Time.timeScale;
+        // Time.timeScale = 0f;
 
         StartCoroutine(PlaySequence());
     }
@@ -54,7 +56,22 @@ public class DoorTrigger : MonoBehaviour
     {
         // 1) Fade to black
         yield return FadeTo(1f, fadeDuration);
+           if (conversationToPlay != null)
+        {
+         
+            bool conversationFinished = false;
 
+          
+            ConversationPlayer.Instance.StartConversation(conversationToPlay, () => {
+                conversationFinished = true;
+            });
+
+          
+            yield return FadeTo(0f, fadeDuration);
+
+       
+            yield return new WaitUntil(() => conversationFinished);
+        }
         // 2) Configure & play video full screen
         if (cutsceneVideo)
         {
