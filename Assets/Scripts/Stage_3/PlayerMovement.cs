@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float moveSpeed = 3f;
+    public float moveSpeed = 2f;
     public Rigidbody2D rb;
     public Animator animator;
 
@@ -41,10 +41,10 @@ public class PlayerMovement : MonoBehaviour
             animator.SetBool("GoRight", true);
         }
 
-        // Optionally, set a bool to trigger idle animation if no key is pressed
+        // Set a bool to trigger idle animation if no key is pressed
         bool isMoving = movement != Vector2.zero;
 
-        // OPTIONAL: Reset animator fully when stopping (clean animation reset)
+        // Reset animator fully when stopping (clean animation reset)
         if (!isMoving)
         {
             animator.Rebind();   // Resets to default

@@ -39,7 +39,8 @@ public class SoundWaypoint : MonoBehaviour
 
         // Normalize volume: based on how much closer player is to correct end
         float progress = Mathf.Clamp((correctHits - wrongHits) / totalCorrect, 0.05f, 1f);
-        roarSource.volume = progress;
+        float maxVolume = 0.4f;
+        roarSource.volume = progress * maxVolume;
 
         //Debug.Log("Correct: " + correctHits + ", Wrong: " + wrongHits + ", Volume: " + roarSource.volume);
 

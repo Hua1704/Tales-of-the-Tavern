@@ -1,61 +1,60 @@
-Shader "Unlit/Darkness"
+Shader "Unlit/TwoLightsDarkness"
 {
     Properties
     {
-        _PlayerWorldPos("Player World Position", Vector) = (0,0,0,0)
-        _LightRadius("Light Radius", Float) = 1.5
-        _SmoothEdge("Smooth Edge", Float) = 1
+        _MainTex("Main Tex", 2D) = "white" {}
+        _Color("Overlay Color", Color) = (0,0,0,1)
+        _PlayerWorldPos("Player Pos", Vector) = (0,0,0,0)
+        _StartWorldPos("Start Pos",  Vector) = (0,0,0,0)
+        _LightRadius("Player Radius", Float) = 1.5
+        _StartRadius("Start Radius",  Float) = 2.0
+        _SmoothEdge("Smooth Edge",  Float) = 1.0
     }
+
         SubShader
-    {
-        Tags { "RenderType" = "Transparent" "Queue" = "Transparent" }
-        LOD 100
-
-        Pass
         {
-            ZWrite Off
+            Tags { "Queue" = "Transparent" "RenderType" = "Transparent" }
             Blend SrcAlpha OneMinusSrcAlpha
+            ZWrite Off
             Cull Off
-            Lighting Off
 
-            CGPROGRAM
-            #pragma vertex vert
-            #pragma fragment frag
-            #include "UnityCG.cginc"
-
-            float4 _PlayerWorldPos;
-            float _LightRadius;
-            float _SmoothEdge;
-
-            struct appdata
+            Pass
             {
-                float4 vertex : POSITION;
-                float2 uv : TEXCOORD0;
-            };
+                CGPROGRAM
+                #pragma vertex vert
+                #pragma fragment frag
+                #include "UnityCG.cginc"
 
-            struct v2f
-            {
-                float2 uv : TEXCOORD0;
-                float4 vertex : SV_POSITION;
-                float2 worldPos : TEXCOORD1;
-            };
+                sampler2D _MainTex;
+                fixed4 _Color;
+                float4 _PlayerWorldPos, _StartWorldPos;
+                float _LightRadius, _StartRadius, _SmoothEdge;
 
-            v2f vert(appdata v)
-            {
-                v2f o;
-                o.vertex = UnityObjectToClipPos(v.vertex);
-                o.worldPos = mul(unity_ObjectToWorld, v.vertex).xy;
-                o.uv = v.uv;
-                return o;
+                struct appdata { float4 vertex : POSITION; };
+                struct v2f { float4 pos : SV_POSITION; float2 worldXY : TEXCOORD0; };
+
+                v2f vert(appdata v) {
+                    v2f o;
+                    float4 world = mul(unity_ObjectToWorld, v.vertex);
+                    o.worldXY = world.xy;
+                    o.pos = UnityObjectToClipPos(v.vertex);
+                    return o;
+                }
+
+                fixed4 frag(v2f i) : SV_Target
+                {
+                    float dPlayer = distance(i.worldXY, _PlayerWorldPos.xy);
+                    float dStart = distance(i.worldXY, _StartWorldPos.xy);
+
+                    // correct order: edge0 < edge1
+                    float a1 = smoothstep(_LightRadius - _SmoothEdge, _LightRadius, dPlayer);
+                    float a2 = smoothstep(_StartRadius - _SmoothEdge, _StartRadius, dStart);
+
+                    float alpha = a1 * a2; // 0 in holes, 1 outside
+
+                    return fixed4(_Color.rgb, _Color.a * alpha);
+                }
+                ENDCG
             }
-
-            fixed4 frag(v2f i) : SV_Target
-            {
-                float dist = distance(i.worldPos, _PlayerWorldPos.xy);
-                float darkness = smoothstep(_LightRadius - _SmoothEdge, _LightRadius, dist);
-                return float4(0, 0, 0, darkness); // fully dark outside the circle
-            }
-            ENDCG
         }
-    }
 }
