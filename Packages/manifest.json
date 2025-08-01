@@ -1,9 +1,7 @@
 {
   "dependencies": {
     "com.annulusgames.ugui-progress-bar": "https://github.com/AnnulusGames/UnityProgressBar.git?path=Assets/UnityProgressBar",
-
     "com.seanba.super-tiled2unity": "file:F:/com.seanba.super-tiled2unity",
-
     "com.unity.2d.animation": "10.2.0",
     "com.unity.2d.pixel-perfect": "5.1.0",
     "com.unity.2d.psdimporter": "10.1.0",

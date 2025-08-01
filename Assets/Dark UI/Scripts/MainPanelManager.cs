@@ -57,7 +57,7 @@ namespace Michsky.UI.Dark
             //Singleplayer
             if(newPanel == 1)
             {
-                StartCoroutine(PlayPanelTransitionAndLoad("PlayArea"));
+                StartCoroutine(PlayPanelTransitionAndLoad("Stage0"));
             }
             else if (newPanel == 2)
             {

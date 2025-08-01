@@ -68,6 +68,9 @@ MonoBehaviour:
     - A hero like me can not let her down.
     - Well, I guess my nap can wait.
     nextDialogueIndices: 0d0000000d000000
-  endDialogueLine: 000000000000000000000000000101
+  endDialogueLine: 000000000000000000000000000100
   changeSceneOnEnd: 0
   nextSceneName: 
+  triggerPlayStoryOnEnd: 0
+  openTabOnEnd: 1
+  tabIndexToOpen: 1
