@@ -91,7 +91,7 @@ public class PlayerControllerStage2 : MonoBehaviour
                 playerCollider.bounds.size,   // The size of our collider (slightly smaller to avoid self-collision)
                 0f,                           // Angle of the box
                 potentialDirection,           // The direction to check
-                0.1f,                         // A very short distance to check for an immediate wall
+                0.13f,                         // A very short distance to check for an immediate wall
                 obstacleLayer                 // Only check for collisions on the obstacle layer
             );
 
