@@ -40,7 +40,7 @@ public class NPC : MonoBehaviour, IInteractable
     {
         isDialogueActive = true;
         dialogueIndex = 0;
-        dialogueController.SetNPCInfo(dialogueData.npcName, dialogueData.npcPortrait);
+        dialogueController.SetNPCInfo(dialogueData.npcName);
         dialogueController.ShowDialogueUI(true);
         PauseController.SetPause(true);
         DisplayCurrentLine();
@@ -137,30 +137,39 @@ void Nextline()
         StopAllCoroutines();
         StartCoroutine(Typeline());
     }
-    public void EndDialogue()
+  public void EndDialogue()
+{
+    // Standard cleanup
+    StopAllCoroutines();
+    isDialogueActive = false;
+    dialogueController.ShowDialogueUI(false);
+    dialogueIndex = 0;
+    dialogueController.SetDialogueText("");
+    dialogueController.nameText.text = "";
+
+    // --- NEW LOGIC HIERARCHY ---
+
+    // ACTION 1: Open a specific tab in a menu?
+    if (dialogueData.openTabOnEnd)
     {
-        StopAllCoroutines();
-        isDialogueActive = false;
-        dialogueController.ShowDialogueUI(false);
-        PauseController.SetPause(false);
-        dialogueIndex = 0;
-        dialogueController.SetDialogueText(""); // Clear the dialogue text
-        dialogueController.nameText.text = "";
-         if (dialogueData.changeSceneOnEnd)
+        // Call the new public method on our TabController singleton.
+        TabController.Instance.OpenMenuAndActivateTab(dialogueData.tabIndexToOpen);
+        // The game remains paused while the menu is open.
+    }
+
+    else if (dialogueData.changeSceneOnEnd)
     {
-        // As a safety check, make sure a scene name was actually provided.
         if (!string.IsNullOrEmpty(dialogueData.nextSceneName))
         {
-            // Load the specified scene.
             SceneManager.LoadScene(dialogueData.nextSceneName);
         }
-        else
-        {
-            // Log an error if the box is ticked but the name is missing.
-            Debug.LogError("Change Scene On End is true, but nextSceneName is empty!");
-        }
     }
+    // DEFAULT ACTION: If nothing else, just unpause the game.
+    else
+    {
+        PauseController.SetPause(false);
     }
+}
     
 
 

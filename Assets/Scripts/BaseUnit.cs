@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+using System;
 public class BaseUnit : MonoBehaviour
 {
     [Header("Health Variables")]
@@ -39,6 +39,14 @@ public class BaseUnit : MonoBehaviour
             Die();
             health = 0;
         }
+
+        UpdateHealthBar();
+    }
+
+    public void OnHeal(int heal)
+    {
+        health += heal;
+        health = Math.Min(MAX_HEALTH,health);
 
         UpdateHealthBar();
     }

@@ -17,6 +17,9 @@ public class NPCDialogue : ScriptableObject
     [Header("End of Dialogue Action")]
     public bool changeSceneOnEnd;
     public string nextSceneName;
+    public bool triggerPlayStoryOnEnd;
+    public bool openTabOnEnd; 
+    public int tabIndexToOpen;
 
 }
 [System.Serializable]

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
+  m_Name: Mother
+  m_EditorClassIdentifier: 
+  npcName: Strange Women
+  npcPortrait: {fileID: 0}
+  dialogueLines:
+  - "\u2026You\u2026 you came."
+  - "Please\u2026 don\u2019t remind me what I\u2019ve done."
+  - "I had to do it. If I didn\u2019t, Rika\u2026"
+  - "I\u2019m so sorry\u2026"
+  - "No\u2026 it\u2019s too late."
+  typingSpeed: 0.05
+  voiceLines: []
+  voiceVolume: 1
+  autoProgressLines: 0001010000
+  autoProgressLineDelay: 2
+  choices:
+  - dialogueIndex: 0
+    choices:
+    - "Are you Rika\u2019s mother?"
+    - "She\u2019s waiting for you. Let\u2019s go."
+    nextDialogueIndices: 0100000001000000
+  - dialogueIndex: 3
+    choices:
+    - What are you talking about? You can come home with me.
+    - Rika really worries about you
+    nextDialogueIndices: 0400000004000000
+  endDialogueLine: 00000001
+  changeSceneOnEnd: 0
+  nextSceneName: 
+  triggerPlayStoryOnEnd: 0
+  openTabOnEnd: 0
+  tabIndexToOpen: 0

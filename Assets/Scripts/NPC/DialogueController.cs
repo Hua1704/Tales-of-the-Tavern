@@ -7,9 +7,10 @@ public class DialogueController : MonoBehaviour
     public static DialogueController Intstance { get; private set; }
     public GameObject dialoguePanel;
     public TMP_Text dialogueText, nameText;
-    public Image portraitImage;
     public Transform choiceContainer;
     public GameObject choiceButtonPrefab;
+    public GameObject playStoryPanel;
+    
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
@@ -19,7 +20,23 @@ public class DialogueController : MonoBehaviour
             Intstance = this;
         }
         else Destroy(gameObject);
+        if (playStoryPanel != null) playStoryPanel.SetActive(false);
+        
+        // This is from your previous request, it should stay.
+           
 
+    }
+   
+      public void ShowPlayStory(bool show)
+    {
+        if (playStoryPanel != null)
+        {
+            playStoryPanel.SetActive(show);
+        }
+        else
+        {
+            Debug.LogError("Play Story Panel has not been assigned in the DialogueController Inspector!");
+        }
     }
 
     // Update is called once per frame
@@ -28,10 +45,10 @@ public class DialogueController : MonoBehaviour
         dialoguePanel.SetActive(show);
 
     }
-    public void SetNPCInfo(string npcName, Sprite npcPortrait)
+    public void SetNPCInfo(string npcName)
     {
         nameText.text = npcName;
-        portraitImage.sprite = npcPortrait;
+       
     }
     public void SetDialogueText(string text)
     {

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fe59cc2e129e08439248924791e74fe, type: 3}
+  m_Name: Conversation
+  m_EditorClassIdentifier: 
+  conversationLines:
+  - speaker: {fileID: 11400000, guid: c036a00d913f03a4584de989e228733f, type: 2}
+    line: Run! Please, you have to run!
+  - speaker: {fileID: 11400000, guid: 20dcbd1c7b924da40a048dc733cc1f69, type: 2}
+    line: "It\u2019s a trap\u2014get away from here!"
+  - speaker: {fileID: 11400000, guid: e5694c623f6c8594baa4db666ae03a0a, type: 2}
+    line: "[You freeze. A long silence follows.]\n[Then a familiar voice rises\u2014sweet,
+      yet distorted.]"
+  - speaker: {fileID: 11400000, guid: c542b4763a4f2734e9209a49a5729e3c, type: 2}
+    line: " \u201CAh\u2026 I see they still have their voices.\u201D\r\n \u201CHow
+      touching.\u201D"
+  - speaker: {fileID: 11400000, guid: c542b4763a4f2734e9209a49a5729e3c, type: 2}
+    line: "\u201CYou really thought they were calling you for help?\u201D\r\n \u201CNo,
+      dear. I was calling you.\u201D"
+  - speaker: {fileID: 11400000, guid: c542b4763a4f2734e9209a49a5729e3c, type: 2}
+    line: " \u201CA kind soul. A clever mind. A willing heart.\u201D  \u201CYou\u2019re
+      perfect.\u201D"
+  - speaker: {fileID: 11400000, guid: c542b4763a4f2734e9209a49a5729e3c, type: 2}
+    line: "\u201CThey brought you to me, like lambs to the altar.\u201D\r\n \u201CAnd
+      now\u2026 they join you in the ritual.\u201D"
+  - speaker: {fileID: 11400000, guid: c542b4763a4f2734e9209a49a5729e3c, type: 2}
+    line: Step forward, little hero. The offering begins.

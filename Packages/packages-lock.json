@@ -10,9 +10,7 @@
       "hash": "3c1940038b542134dd5a873bcaf46a6feeef6d85"
     },
     "com.seanba.super-tiled2unity": {
-
       "version": "file:F:/com.seanba.super-tiled2unity",
-
       "depth": 0,
       "source": "local",
       "dependencies": {
