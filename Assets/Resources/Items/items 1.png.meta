@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9bf21215bf0d4fc43bc8e55bbcfad9bc
+guid: c3d602200dec2ee45a4b35d1e0398233
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -116,8 +116,8 @@ TextureImporter:
       name: Light
       rect:
         serializedVersion: 2
-        x: 295
-        y: 474
+        x: 388
+        y: 522
         width: 47
         height: 46
       alignment: 0

@@ -23,7 +23,7 @@ public class PlayerControllerStage2 : MonoBehaviour
     private Animator myAnimator;
     private SpriteRenderer mySpriteRenderer;
     private Collider2D playerCollider; // Reference to the player's own collider
-
+    private BaseUnit playerInfo;
     // State management variables
     private bool isOnMud = false;
     private Vector2 slideDirection;
@@ -36,6 +36,7 @@ public class PlayerControllerStage2 : MonoBehaviour
         myAnimator = GetComponent<Animator>();
         mySpriteRenderer = GetComponent<SpriteRenderer>();
         playerCollider = GetComponent<Collider2D>(); // Get our own collider
+        playerInfo=GetComponent<BaseUnit>();
     }
 
     private void OnEnable()
@@ -166,6 +167,10 @@ public class PlayerControllerStage2 : MonoBehaviour
             movement = Vector2.zero;
             // Let the player choose their first slide direction from a standstill
             slideDirection = Vector2.zero;
+        }
+        else if(other.gameObject.CompareTag("Heal")){
+            playerInfo.OnHeal(1);
+            Destroy(other.gameObject);
         }
     }
 
