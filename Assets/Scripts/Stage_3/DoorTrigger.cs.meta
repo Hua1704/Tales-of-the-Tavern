@@ -1,2 +1,17 @@
 fileFormatVersion: 2
 guid: 405289ac4dc6045408d58791c850a1c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - conversationToPlay: {fileID: 11400000, guid: 36e2ba314ef786a4f937d5a6a98cf50d, type: 2}
+  - cutsceneVideo: {instanceID: 0}
+  - playerMovementScript: {instanceID: 0}
+  - playerRb: {instanceID: 0}
+  - fadeGroup: {instanceID: 0}
+  - roaringSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
