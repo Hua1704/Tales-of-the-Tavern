@@ -193,6 +193,12 @@ public class NPC : MonoBehaviour, IInteractable
         
         dialogueController.ShowPlayStory(true);
     }
+     if (dialogueData.triggersCutsceneOnEnd)
+    {
+        // If it does, call your existing cutscene method and STOP here.
+        StartCutsceneAndLoadNextStage();
+        return; // Important: prevents the stage menu from also opening.
+    }
 
     }
 

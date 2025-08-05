@@ -21,6 +21,7 @@ public class NPCDialogue : ScriptableObject
     public bool openTabOnEnd; 
     public int tabIndexToOpen;
     public bool marksStageAsComplete;
+    public bool triggersCutsceneOnEnd;
 
 }
 [System.Serializable]
