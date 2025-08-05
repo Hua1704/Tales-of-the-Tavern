@@ -258,8 +258,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c08079f8490a0f47b51d1c42c2dd7b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogueData: {fileID: 11400000, guid: c036a00d913f03a4584de989e228733f, type: 2}
-  stageNumber: 0
+  npcId: Rika
+  firstTimeDialogue: {fileID: 11400000, guid: c036a00d913f03a4584de989e228733f, type: 2}
+  subsequentDialogue: {fileID: 11400000, guid: c036a00d913f03a4584de989e228733f, type: 2}
+  opensStageMenuOnEnd: 0
+  stageNumber: 1
   fadeGroup: {fileID: 179133903}
   fadeDuration: 0.75
   cutsceneVideo: {fileID: 491257800}
@@ -571,9 +574,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c08079f8490a0f47b51d1c42c2dd7b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogueData: {fileID: 11400000, guid: c7aa1d15d7d369849acc0404a6d6bff2, type: 2}
-  stageNumber: 0
-  dialogueData: {fileID: 0}
+  npcId: Villager4
+  firstTimeDialogue: {fileID: 11400000, guid: c7aa1d15d7d369849acc0404a6d6bff2, type: 2}
+  subsequentDialogue: {fileID: 11400000, guid: c7aa1d15d7d369849acc0404a6d6bff2, type: 2}
+  opensStageMenuOnEnd: 0
   stageNumber: 0
   fadeGroup: {fileID: 0}
   fadeDuration: 0.75
@@ -735,9 +739,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c08079f8490a0f47b51d1c42c2dd7b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogueData: {fileID: 11400000, guid: b75a68e2acdc6144392ec01025354227, type: 2}
-  stageNumber: 0
-  dialogueData: {fileID: 0}
+  npcId: Villager2
+  firstTimeDialogue: {fileID: 11400000, guid: b75a68e2acdc6144392ec01025354227, type: 2}
+  subsequentDialogue: {fileID: 11400000, guid: b75a68e2acdc6144392ec01025354227, type: 2}
+  opensStageMenuOnEnd: 0
   stageNumber: 0
   fadeGroup: {fileID: 0}
   fadeDuration: 0.75
@@ -913,9 +918,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c08079f8490a0f47b51d1c42c2dd7b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogueData: {fileID: 11400000, guid: 786327d5d66d63148b065852797fc439, type: 2}
-  stageNumber: 0
-  dialogueData: {fileID: 0}
+  npcId: Villager1
+  firstTimeDialogue: {fileID: 11400000, guid: 786327d5d66d63148b065852797fc439, type: 2}
+  subsequentDialogue: {fileID: 11400000, guid: 786327d5d66d63148b065852797fc439, type: 2}
+  opensStageMenuOnEnd: 0
   stageNumber: 0
   fadeGroup: {fileID: 0}
   fadeDuration: 0.75
@@ -1016,9 +1022,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c08079f8490a0f47b51d1c42c2dd7b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogueData: {fileID: 11400000, guid: 034c5d203f83e2c44ac00940f4490730, type: 2}
-  stageNumber: 0
-  dialogueData: {fileID: 0}
+  npcId: Villager5
+  firstTimeDialogue: {fileID: 11400000, guid: 034c5d203f83e2c44ac00940f4490730, type: 2}
+  subsequentDialogue: {fileID: 11400000, guid: 034c5d203f83e2c44ac00940f4490730, type: 2}
+  opensStageMenuOnEnd: 0
   stageNumber: 0
   fadeGroup: {fileID: 0}
   fadeDuration: 0.75
@@ -1070,6 +1077,50 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 2.01, y: 3.08}
   m_EdgeRadius: 0
+--- !u!1 &1086509177
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1086509179}
+  - component: {fileID: 1086509178}
+  m_Layer: 0
+  m_Name: GameManger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1086509178
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1086509177}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f14a76f593cd05a4398d7d41a5934bf3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1086509179
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1086509177}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 523.4799, y: -20.34781, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!224 &1355304744 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 7691462915493196939, guid: 3ed29a89481a90547925b6fb679c27a8, type: 3}
@@ -1176,8 +1227,7 @@ Transform:
   m_GameObject: {fileID: 1614430202}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 525.0186, y: -21.642689, z: -10}
-  m_LocalPosition: {x: 525.04706, y: -21.642689, z: -10}
+  m_LocalPosition: {x: 525.0408, y: -21.642689, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1246,9 +1296,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c08079f8490a0f47b51d1c42c2dd7b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogueData: {fileID: 11400000, guid: c79c2fd3d1dbeda46aa4969035aeaf6b, type: 2}
-  stageNumber: 0
-  dialogueData: {fileID: 0}
+  npcId: Villager3
+  firstTimeDialogue: {fileID: 11400000, guid: c79c2fd3d1dbeda46aa4969035aeaf6b, type: 2}
+  subsequentDialogue: {fileID: 11400000, guid: c79c2fd3d1dbeda46aa4969035aeaf6b, type: 2}
+  opensStageMenuOnEnd: 0
   stageNumber: 0
   fadeGroup: {fileID: 0}
   fadeDuration: 0.75
@@ -1308,8 +1359,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8934211826448944593, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.21224897
-      value: 0.2564438
+      value: 0.2466754
       objectReference: {fileID: 0}
     - target: {fileID: 8934211826448944593, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1418,3 +1468,4 @@ SceneRoots:
   - {fileID: 312403246}
   - {fileID: 1614430205}
   - {fileID: 666123004}
+  - {fileID: 1086509179}

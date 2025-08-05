@@ -64,3 +64,7 @@ MonoBehaviour:
   endDialogueLine: 00000000000000000000000000000001
   changeSceneOnEnd: 1
   nextSceneName: Stage2
+  triggerPlayStoryOnEnd: 0
+  openTabOnEnd: 0
+  tabIndexToOpen: 0
+  marksStageAsComplete: 1

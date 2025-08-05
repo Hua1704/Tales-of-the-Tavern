@@ -101,10 +101,33 @@ public class ConversationPlayer : MonoBehaviour
         isTyping = false;
     }
 
-    private void EndConversation()
+   private void EndConversation()
+{
+    isConversationActive = false;
+    dialogueController.ShowDialogueUI(false);
+
+    if (currentConversation != null && currentConversation.marksStageAsComplete)
     {
-        isConversationActive = false;
-        dialogueController.ShowDialogueUI(false);
-        onConversationEnded?.Invoke();
+        
+        if (!string.IsNullOrEmpty(currentConversation.stageNameToComplete))
+        {
+            
+            if (GameManager.Instance != null)
+            {
+                GameManager.Instance.MarkStageAsComplete(currentConversation.stageNameToComplete);
+                Debug.Log("Stage '" + currentConversation.stageNameToComplete + "' has been marked as complete by a conversation.");
+            }
+            else
+            {
+                Debug.LogError("GameManager.Instance is not found! Cannot mark stage as complete.");
+            }
+        }
+        else
+        {
+            Debug.LogWarning("Conversation is set to mark a stage as complete, but 'Stage Name To Complete' is empty.", currentConversation);
+        }
     }
+
+    onConversationEnded?.Invoke();
+}
 }

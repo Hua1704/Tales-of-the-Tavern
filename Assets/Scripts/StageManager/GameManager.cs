@@ -3,54 +3,66 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; private set; }
-    public GameData CurrentProgress { get; private set; }
 
-    private void Awake()
+    private GameData gameData;
+
+    void Awake()
     {
-        if (Instance != null && Instance != this)
+        // Singleton pattern to ensure only one GameManager exists
+        if (Instance == null)
         {
-            Destroy(this.gameObject);
-            return;
+            Instance = this;
+            DontDestroyOnLoad(gameObject); // Persist across scenes
+            
+            // Initialize and load the game
+            SaveSystem.Init();
+            gameData = SaveSystem.LoadGame();
         }
-        Instance = this;
-        DontDestroyOnLoad(this.gameObject);
-
-        LoadProgress();
-    }
-
-    private void LoadProgress()
-    {
-        CurrentProgress = SaveManager.Load();
-        if (CurrentProgress == null)
+        else
         {
-            Debug.Log("No save file found. Initializing new game progress.");
-            CurrentProgress = new GameData();
+            Destroy(gameObject);
         }
     }
 
-    public void MarkStageAsCompleted(int stageNumber)
+    // --- NPC Flag Methods ---
+    public bool GetNpcFlag(string npcId)
     {
-        if (CurrentProgress.completedStages.Add(stageNumber)) 
+        gameData.npcInteractedFlags.TryGetValue(npcId, out bool hasInteracted);
+        return hasInteracted; // Returns false if the key doesn't exist
+    }
+
+    public void SetNpcFlag(string npcId, bool value)
+    {
+        if (gameData.npcInteractedFlags.ContainsKey(npcId))
         {
-            SaveManager.Save(CurrentProgress);
+            gameData.npcInteractedFlags[npcId] = value;
         }
-    }
-
-    public bool IsStageCompleted(int stageNumber)
-    {
-        return CurrentProgress.completedStages.Contains(stageNumber);
-    }
-
-    public void MarkNpcAsTalkedTo(string npcId)
-    {
-        if (CurrentProgress.talkedToNpcs.Add(npcId))
+        else
         {
-            SaveManager.Save(CurrentProgress);
+            gameData.npcInteractedFlags.Add(npcId, value);
         }
+        // Save after changing a flag
+        SaveSystem.SaveGame(gameData);
     }
 
-    public bool HasNpcBeenTalkedTo(string npcId)
+    // --- Stage Completion Methods ---
+    public bool IsStageComplete(string stageName)
     {
-        return CurrentProgress.talkedToNpcs.Contains(npcId);
+        gameData.stagesCompleted.TryGetValue(stageName, out bool isComplete);
+        return isComplete;
+    }
+
+    public void MarkStageAsComplete(string stageName)
+    {
+        if (gameData.stagesCompleted.ContainsKey(stageName))
+        {
+            gameData.stagesCompleted[stageName] = true;
+        }
+        else
+        {
+            gameData.stagesCompleted.Add(stageName, true);
+        }
+        // Save after completing a stage
+        SaveSystem.SaveGame(gameData);
     }
 }

@@ -1,15 +1,19 @@
+using System.Collections;
 using System.Collections.Generic;
 
 [System.Serializable]
 public class GameData
 {
-    public HashSet<int> completedStages;
-    public HashSet<string> talkedToNpcs;
+    // Dictionary to store which stages are completed. Key: stage name (e.g., "Stage1"), Value: true/false
+    public SerializableDictionary<string, bool> stagesCompleted;
 
-    // Constructor for a new game
+    // Dictionary to store NPC interaction flags. Key: unique NPC ID, Value: true/false
+    public SerializableDictionary<string, bool> npcInteractedFlags;
+
+    // The constructor is called when we create a new game state
     public GameData()
     {
-        completedStages = new HashSet<int>();
-        talkedToNpcs = new HashSet<string>();
+        stagesCompleted = new SerializableDictionary<string, bool>();
+        npcInteractedFlags = new SerializableDictionary<string, bool>();
     }
 }

@@ -20,6 +20,7 @@ public class NPCDialogue : ScriptableObject
     public bool triggerPlayStoryOnEnd;
     public bool openTabOnEnd; 
     public int tabIndexToOpen;
+    public bool marksStageAsComplete;
 
 }
 [System.Serializable]

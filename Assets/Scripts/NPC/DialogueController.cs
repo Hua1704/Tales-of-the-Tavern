@@ -32,7 +32,7 @@ public class DialogueController : MonoBehaviour
         if (playStoryPanel != null)
         {
             playStoryPanel.SetActive(show);
-        }
+        }   
         else
         {
             Debug.LogError("Play Story Panel has not been assigned in the DialogueController Inspector!");
