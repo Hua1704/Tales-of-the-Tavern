@@ -6,6 +6,8 @@ public class ConversationData : ScriptableObject
 {
    
     public DialogueLine[] conversationLines;
+     public bool marksStageAsComplete;
+    public string stageNameToComplete;
 }
 
 

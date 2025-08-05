@@ -9,8 +9,11 @@ using UnityEngine.Video;
 
 public class NPC : MonoBehaviour, IInteractable
 {
-    public NPCDialogue dialogueData;
-
+    public string npcId; 
+    public NPCDialogue firstTimeDialogue;
+    public NPCDialogue subsequentDialogue;
+    private NPCDialogue dialogueData;
+    public bool opensStageMenuOnEnd;
     private int dialogueIndex;
     private bool isDialogueActive, isTyping;
     private DialogueController dialogueController;
@@ -24,8 +27,16 @@ public class NPC : MonoBehaviour, IInteractable
     public string nextStageName; // scene to load after cutscene
 
     private void Start()
-    {
+    {   
         dialogueController = DialogueController.Intstance;
+        if (fadeGroup != null) {
+            fadeGroup.alpha = 0f;
+            fadeGroup.blocksRaycasts = false;
+        }
+          if (string.IsNullOrEmpty(npcId))
+    {
+        Debug.LogError("This NPC has no ID! Please assign a unique ID in the Inspector.", this.gameObject);
+    }
     }
 
     public bool canInteract()
@@ -33,21 +44,31 @@ public class NPC : MonoBehaviour, IInteractable
         return !isDialogueActive;
     }
 
-    public void Interact()
-    {
-        if (dialogueData == null)
+        public void Interact()
         {
-            return;
+            // Check which dialogue to use based on the save file
+            if (GameManager.Instance.GetNpcFlag(npcId))
+            {
+                dialogueData = subsequentDialogue;
+            }
+            else
+            {
+                dialogueData = firstTimeDialogue;
+            }
+
+            if (dialogueData == null)
+            {
+                return;
+            }
+            if (isDialogueActive)
+            {
+                Nextline();
+            }
+            else
+            {
+                StartDialogue();
+            }
         }
-        if (isDialogueActive)
-        {
-            Nextline();
-        }
-        else
-        {
-            StartDialogue();
-        }
-    }
 
     void StartDialogue()
     {
@@ -55,7 +76,7 @@ public class NPC : MonoBehaviour, IInteractable
         dialogueIndex = 0;
         dialogueController.SetNPCInfo(dialogueData.npcName);
         dialogueController.ShowDialogueUI(true);
-        PauseController.SetPause(true);
+        
         DisplayCurrentLine();
     }
 
@@ -155,9 +176,30 @@ public class NPC : MonoBehaviour, IInteractable
         dialogueIndex = 0;
         dialogueController.SetDialogueText("");
         dialogueController.nameText.text = "";
-
-
         PauseController.SetPause(false);
+         if (!GameManager.Instance.GetNpcFlag(npcId))
+    {
+        GameManager.Instance.SetNpcFlag(npcId, true);
+    }
+     if (dialogueData.marksStageAsComplete == true)
+    {
+       GameManager.Instance.MarkStageAsComplete("Stage" + this.stageNumber); 
+       Debug.Log("Stage " + this.stageNumber + " has been marked as complete!");
+    }
+
+
+    if (opensStageMenuOnEnd)
+    {
+        
+        dialogueController.ShowPlayStory(true);
+    }
+     if (dialogueData.triggersCutsceneOnEnd)
+    {
+        // If it does, call your existing cutscene method and STOP here.
+        StartCutsceneAndLoadNextStage();
+        return; // Important: prevents the stage menu from also opening.
+    }
+
     }
 
     // ==================== NEW CUTSCENE + FADE + SCENE LOADING CODE ====================

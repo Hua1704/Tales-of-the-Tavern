@@ -34,3 +34,5 @@ MonoBehaviour:
       now\u2026 they join you in the ritual.\u201D"
   - speaker: {fileID: 11400000, guid: c542b4763a4f2734e9209a49a5729e3c, type: 2}
     line: Step forward, little hero. The offering begins.
+  marksStageAsComplete: 1
+  stageNameToComplete: Stage3
