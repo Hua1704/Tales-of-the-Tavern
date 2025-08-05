@@ -24,6 +24,8 @@ public class DoorTrigger : MonoBehaviour
 
     [Header("Audio")]
     public AudioSource roaringSound;
+    public AudioSource backgroundMusic;  // Reference to the background music AudioSource
+    public float musicFadeDuration = 1f; // Duration for fading out music
 
     [Header("Final Action")]
     [Tooltip("The scene to load after the sequence is complete.")]
@@ -76,6 +78,13 @@ public class DoorTrigger : MonoBehaviour
             yield return FadeTo(1f, fadeDuration);
         }
 
+        // --- Fade out Background Music before cutscene ---
+        if (backgroundMusic != null && backgroundMusic.isPlaying)
+        {
+            yield return StartCoroutine(FadeOutAudio(backgroundMusic, musicFadeDuration));
+            backgroundMusic.Stop();
+        }
+
         // --- Part 3: Play Video (if assigned) ---
         if (cutsceneVideo != null)
         {
@@ -103,11 +112,10 @@ public class DoorTrigger : MonoBehaviour
             cutsceneVideo.Stop();
             yield return FadeTo(1f, fadeDuration);
 
-            
             Time.timeScale = prevTimeScale;
         }
 
- 
+
         if (holdOnBlackAfterSequence > 0f)
         {
             yield return new WaitForSecondsRealtime(holdOnBlackAfterSequence);
@@ -123,7 +131,6 @@ public class DoorTrigger : MonoBehaviour
             Debug.LogError("DoorTrigger: returnSceneName is empty!", this.gameObject);
     }
 
-    // Your FadeTo coroutine is perfect and doesn't need changes.
     private IEnumerator FadeTo(float targetAlpha, float duration)
     {
         if (!fadeGroup) yield break;
@@ -138,5 +145,20 @@ public class DoorTrigger : MonoBehaviour
         }
         fadeGroup.alpha = targetAlpha;
         fadeGroup.blocksRaycasts = targetAlpha > 0.001f;
+    }
+
+    // New helper coroutine to fade out audio volume smoothly
+    private IEnumerator FadeOutAudio(AudioSource audioSource, float duration)
+    {
+        float startVolume = audioSource.volume;
+
+        float t = 0f;
+        while (t < duration)
+        {
+            t += Time.unscaledDeltaTime;
+            audioSource.volume = Mathf.Lerp(startVolume, 0f, t / duration);
+            yield return null;
+        }
+        audioSource.volume = 0f;
     }
 }
