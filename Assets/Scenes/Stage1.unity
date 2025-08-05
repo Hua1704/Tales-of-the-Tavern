@@ -254,6 +254,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueData: {fileID: 11400000, guid: c036a00d913f03a4584de989e228733f, type: 2}
+  stageNumber: 0
 --- !u!61 &268277372
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -397,6 +398,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueData: {fileID: 11400000, guid: c7aa1d15d7d369849acc0404a6d6bff2, type: 2}
+  stageNumber: 0
 --- !u!61 &694386958
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -544,6 +546,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueData: {fileID: 11400000, guid: b75a68e2acdc6144392ec01025354227, type: 2}
+  stageNumber: 0
 --- !u!1001 &857813215
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -715,6 +718,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueData: {fileID: 11400000, guid: 786327d5d66d63148b065852797fc439, type: 2}
+  stageNumber: 0
 --- !u!61 &857813220
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -811,6 +815,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueData: {fileID: 11400000, guid: 034c5d203f83e2c44ac00940f4490730, type: 2}
+  stageNumber: 0
 --- !u!61 &1066707394
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -963,7 +968,7 @@ Transform:
   m_GameObject: {fileID: 1614430202}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 525.0146, y: -21.642689, z: -10}
+  m_LocalPosition: {x: 525.0186, y: -21.642689, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1033,6 +1038,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueData: {fileID: 11400000, guid: c79c2fd3d1dbeda46aa4969035aeaf6b, type: 2}
+  stageNumber: 0
 --- !u!1001 &1868353977
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1087,7 +1093,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8934211826448944593, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.20598961
+      value: 0.21224897
       objectReference: {fileID: 0}
     - target: {fileID: 8934211826448944593, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_LocalPosition.y
