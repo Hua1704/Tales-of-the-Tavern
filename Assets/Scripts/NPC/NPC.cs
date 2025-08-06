@@ -9,7 +9,7 @@ using UnityEngine.Video;
 
 public class NPC : MonoBehaviour, IInteractable
 {
-    public string npcId; 
+    public string npcId;
     public NPCDialogue firstTimeDialogue;
     public NPCDialogue subsequentDialogue;
     private NPCDialogue dialogueData;
@@ -27,16 +27,17 @@ public class NPC : MonoBehaviour, IInteractable
     public string nextStageName; // scene to load after cutscene
 
     private void Start()
-    {   
+    {
         dialogueController = DialogueController.Intstance;
-        if (fadeGroup != null) {
+        if (fadeGroup != null)
+        {
             fadeGroup.alpha = 0f;
             fadeGroup.blocksRaycasts = false;
         }
-          if (string.IsNullOrEmpty(npcId))
-    {
-        Debug.LogError("This NPC has no ID! Please assign a unique ID in the Inspector.", this.gameObject);
-    }
+        if (string.IsNullOrEmpty(npcId))
+        {
+            Debug.LogError("This NPC has no ID! Please assign a unique ID in the Inspector.", this.gameObject);
+        }
     }
 
     public bool canInteract()
@@ -44,49 +45,58 @@ public class NPC : MonoBehaviour, IInteractable
         return !isDialogueActive;
     }
 
-        public void Interact()
-        {
-            // Check which dialogue to use based on the save file
-            if (GameManager.Instance.GetNpcFlag(npcId))
-            {
-                dialogueData = subsequentDialogue;
-            }
-            else
-            {
-                dialogueData = firstTimeDialogue;
-            }
+    public void Interact()
+    {
+        Debug.Log($"NPC {npcId} Interact called. isDialogueActive={isDialogueActive}");
 
-            if (dialogueData == null)
-            {
-                return;
-            }
-            if (isDialogueActive)
-            {
-                Nextline();
-            }
-            else
-            {
-                StartDialogue();
-            }
+        // Check which dialogue to use based on the save file
+        if (GameManager.Instance.GetNpcFlag(npcId))
+        {
+            dialogueData = subsequentDialogue;
+            Debug.Log($"NPC {npcId}: Using subsequent dialogue.");
         }
+        else
+        {
+            dialogueData = firstTimeDialogue;
+            Debug.Log($"NPC {npcId}: Using first time dialogue.");
+        }
+
+        if (dialogueData == null)
+        {
+            Debug.LogWarning($"NPC {npcId} has no dialogue assigned.");
+            return;
+        }
+        if (isDialogueActive)
+        {
+            Nextline();
+        }
+        else
+        {
+            StartDialogue();
+        }
+    }
 
     void StartDialogue()
     {
+        Debug.Log($"NPC {npcId}: Starting dialogue.");
         isDialogueActive = true;
         dialogueIndex = 0;
         dialogueController.SetNPCInfo(dialogueData.npcName);
         dialogueController.ShowDialogueUI(true);
-        
+
         DisplayCurrentLine();
     }
 
     void Nextline()
     {
+        Debug.Log($"NPC {npcId}: Nextline called. Current index: {dialogueIndex}");
+
         if (isTyping)
         {
             StopAllCoroutines();
             dialogueController.SetDialogueText(dialogueData.dialogueLines[dialogueIndex]);
             isTyping = false;
+            Debug.Log($"NPC {npcId}: Stopped typing, showing full line.");
             return; // Just finish the line. The state (dialogueIndex) hasn't changed yet.
         }
 
@@ -95,9 +105,10 @@ public class NPC : MonoBehaviour, IInteractable
         bool choiceWasFound = false;
         foreach (DialogueChoice choice in dialogueData.choices)
         {
-            Debug.Log("Checking choice for dialogue index: " + dialogueIndex + " against choice: " + choice.dialogueIndex);
+            Debug.Log($"NPC {npcId}: Checking choice for dialogue index: {dialogueIndex} against choice: {choice.dialogueIndex}");
             if (choice.dialogueIndex == dialogueIndex)
             {
+                Debug.Log($"NPC {npcId}: Displaying choices for index {dialogueIndex}.");
                 DisplayChoices(choice);
                 choiceWasFound = true;
                 break; // Found the choice for this line, stop searching.
@@ -111,6 +122,7 @@ public class NPC : MonoBehaviour, IInteractable
 
         if (dialogueData.endDialogueLine.Length > dialogueIndex && dialogueData.endDialogueLine[dialogueIndex])
         {
+            Debug.Log($"NPC {npcId}: EndDialogue triggered at index {dialogueIndex}.");
             EndDialogue();
             return;
         }
@@ -123,12 +135,14 @@ public class NPC : MonoBehaviour, IInteractable
         }
         else
         {
+            Debug.Log($"NPC {npcId}: Dialogue lines exhausted at index {dialogueIndex}, calling EndDialogue.");
             EndDialogue();
         }
     }
 
     IEnumerator Typeline()
     {
+        Debug.Log($"NPC {npcId}: Typing line {dialogueIndex}.");
         isTyping = true;
         dialogueController.SetDialogueText("");
         foreach (char letter in dialogueData.dialogueLines[dialogueIndex])
@@ -147,6 +161,7 @@ public class NPC : MonoBehaviour, IInteractable
 
     void DisplayChoices(DialogueChoice choice)
     {
+        Debug.Log($"NPC {npcId}: DisplayChoices called for dialogue index {dialogueIndex}.");
         dialogueController.clearChoices();
         for (int i = 0; i < choice.choices.Length; i++)
         {
@@ -157,6 +172,7 @@ public class NPC : MonoBehaviour, IInteractable
 
     void ChooseDialogueOption(int nextIndex)
     {
+        Debug.Log($"NPC {npcId}: ChooseDialogueOption called with nextIndex {nextIndex}.");
         dialogueIndex = nextIndex;
         dialogueController.clearChoices();
         DisplayCurrentLine();
@@ -170,6 +186,8 @@ public class NPC : MonoBehaviour, IInteractable
 
     public void EndDialogue()
     {
+        Debug.Log($"NPC {npcId}: EndDialogue called.");
+
         StopAllCoroutines();
         isDialogueActive = false;
         dialogueController.ShowDialogueUI(false);
@@ -177,29 +195,26 @@ public class NPC : MonoBehaviour, IInteractable
         dialogueController.SetDialogueText("");
         dialogueController.nameText.text = "";
         PauseController.SetPause(false);
-         if (!GameManager.Instance.GetNpcFlag(npcId))
-    {
-        GameManager.Instance.SetNpcFlag(npcId, true);
-    }
-     if (dialogueData.marksStageAsComplete == true)
-    {
-       GameManager.Instance.MarkStageAsComplete("Stage" + this.stageNumber); 
-       Debug.Log("Stage " + this.stageNumber + " has been marked as complete!");
-    }
+        if (!GameManager.Instance.GetNpcFlag(npcId))
+        {
+            GameManager.Instance.SetNpcFlag(npcId, true);
+        }
+        if (dialogueData.marksStageAsComplete == true)
+        {
+            GameManager.Instance.MarkStageAsComplete("Stage" + this.stageNumber);
+            Debug.Log("Stage " + this.stageNumber + " has been marked as complete!");
+        }
 
-
-    if (opensStageMenuOnEnd)
-    {
-        
-        dialogueController.ShowPlayStory(true);
-    }
-     if (dialogueData.triggersCutsceneOnEnd)
-    {
-        // If it does, call your existing cutscene method and STOP here.
-        StartCutsceneAndLoadNextStage();
-        return; // Important: prevents the stage menu from also opening.
-    }
-
+        if (opensStageMenuOnEnd)
+        {
+            dialogueController.ShowPlayStory(true);
+        }
+        if (dialogueData.triggersCutsceneOnEnd)
+        {
+            Debug.Log("Starting cutscene for NPC " + npcId);
+            StartCutsceneAndLoadNextStage();
+            return; // Important: prevents the stage menu from also opening.
+        }
     }
 
     // ==================== NEW CUTSCENE + FADE + SCENE LOADING CODE ====================
@@ -208,17 +223,20 @@ public class NPC : MonoBehaviour, IInteractable
     {
         if (fadeGroup != null && cutsceneVideo != null && !string.IsNullOrEmpty(nextStageName))
         {
+            Debug.Log("StartCutsceneAndLoadNextStage called.");
             StartCoroutine(PlayCutsceneAndLoadNextStage());
         }
         else
         {
             PauseController.SetPause(false);
-            Debug.LogWarning("Cutscene or fadeGroup or nextStageName missing! Cannot start cutscene sequence.");
+            Debug.LogWarning("Cutscene or fadeGroup or nextStageName missing! Cannot start cutscene sequence for NPC " + npcId);
         }
     }
 
     private IEnumerator PlayCutsceneAndLoadNextStage()
     {
+        Debug.Log("PlayCutsceneAndLoadNextStage coroutine started.");
+
         // Fade to black
         yield return FadeTo(1f, fadeDuration);
 
@@ -241,6 +259,7 @@ public class NPC : MonoBehaviour, IInteractable
         yield return FadeTo(1f, fadeDuration);
 
         // Load next scene
+        Debug.Log("Loading next scene: " + nextStageName);
         SceneManager.LoadScene(nextStageName);
     }
 
