@@ -9,6 +9,7 @@ public class BaseUnit : MonoBehaviour
     [SerializeField] protected int MAX_HEALTH = 5;
     [SerializeField] protected int health = 5;
     protected bool isAlive = true;
+    private bool _isInitialized = false; // Flag to prevent re-initialization
 
     [Header("HealthBar")]
     [SerializeField] protected GameObject healthBarParent;
@@ -24,20 +25,38 @@ public class BaseUnit : MonoBehaviour
 
     public void Start()
     {
-        health = MAX_HEALTH;
-        spriteRenderer = GetComponent<SpriteRenderer>();
-        originalMaterial = spriteRenderer.material;
+        if (!_isInitialized)
+        {
+            InitializeUnit(MAX_HEALTH, MAX_HEALTH);
+        }
     }
+    public virtual void InitializeUnit(int newMaxHealth, int newHealth)
+    {
+        MAX_HEALTH = newMaxHealth;
+        health = newHealth;
+        isAlive = true;
 
+        if (spriteRenderer == null)
+        {
+            spriteRenderer = GetComponent<SpriteRenderer>();
+            originalMaterial = spriteRenderer.material;
+        }
+
+        UpdateHealthBar();
+        _isInitialized = true; // Mark as initialized
+    }
     public void OnTakeDamage(int damage)
     {
+        if (!isAlive) return; // Don't take damage if not alive
+
         health -= damage;
         Flash();
 
         if (health < 1)
         {
-            Die();
             health = 0;
+            isAlive = false; // Set isAlive to false before calling Die()
+            Die();
         }
 
         UpdateHealthBar();
