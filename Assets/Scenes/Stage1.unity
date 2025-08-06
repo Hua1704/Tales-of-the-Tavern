@@ -408,7 +408,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &491257799
 Transform:
   m_ObjectHideFlags: 0
@@ -441,7 +441,7 @@ VideoPlayer:
   m_TargetMaterialRenderer: {fileID: 0}
   m_TargetMaterialProperty: <noninit>
   m_RenderMode: 1
-  m_AspectRatio: 2
+  m_AspectRatio: 5
   m_DataSource: 0
   m_TimeUpdateMode: 2
   m_PlaybackSpeed: 1
@@ -1227,7 +1227,7 @@ Transform:
   m_GameObject: {fileID: 1614430202}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 525.01685, y: -21.642689, z: -10}
+  m_LocalPosition: {x: 524.9214, y: -21.44669, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1317,13 +1317,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 4885639348591151918, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
+      propertyPath: healthBarParent
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4885639348591151918, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
+      propertyPath: healthBarSlider
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8900120696924503050, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 524.882
+      value: 524.81
       objectReference: {fileID: 0}
     - target: {fileID: 8900120696924503050, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -21.806
+      value: -21.61
       objectReference: {fileID: 0}
     - target: {fileID: 8900120696924503050, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1359,11 +1367,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8934211826448944593, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.20949864
+      value: 0.31825474
       objectReference: {fileID: 0}
     - target: {fileID: 8934211826448944593, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.28069583
+      value: 0.46660283
       objectReference: {fileID: 0}
     - target: {fileID: 8934211826448944593, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1371,7 +1379,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 2645528342154384081, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 8198776964059394616, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
+    - {fileID: 240309155911725134, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: 8934211826448944593, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       insertIndex: -1
