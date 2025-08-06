@@ -32,11 +32,11 @@ Material:
     - _LightRadius: 1.5
     - _SmoothEdge: 1
     - _Softness: 0.15
-    - _StartRadius: 1.8
+    - _StartRadius: 1.5
     m_Colors:
     - _Color: {r: 0, g: 0, b: 0, a: 1}
     - _PlayerPos: {r: 0.5, g: 0.5, b: 0, a: 0}
-    - _PlayerWorldPos: {r: -2.2021503, g: 4.357634, b: 0, a: 0}
-    - _StartWorldPos: {r: 5.42, g: 2.47, b: 0, a: 0}
+    - _PlayerWorldPos: {r: 5.857568, g: 0.75662124, b: 0, a: 0}
+    - _StartWorldPos: {r: 5.82, g: 2.55, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

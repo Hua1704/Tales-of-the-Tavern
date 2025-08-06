@@ -352,7 +352,7 @@
  <tileset firstgid="759" name="atlas_16x" tilewidth="16" tileheight="16" tilecount="768" columns="48">
   <image source="../../../../../../Downloads/Super_Retro_World_Interior_pack_week42/atlas_16x.png" width="768" height="256"/>
  </tileset>
- <tileset firstgid="1527" source="../../../../../Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Objects_Props.tsx"/>
+ <tileset firstgid="1527" source="../Tilesets/Objects_Props.tsx"/>
  <layer id="3" name="Floor" width="16" height="24">
   <data encoding="csv">
    <chunk x="-16" y="-16" width="16" height="16">
@@ -828,7 +828,7 @@
 </chunk>
   </data>
  </layer>
- <objectgroup id="27" name="Object Layer 1" visible="0">
+ <objectgroup id="27" name="Object Layer 1">
   <object id="27" x="20.25" y="-118.5" width="30.75" height="21.75"/>
   <object id="28" x="-187.667" y="56.6667" width="27" height="35"/>
   <object id="29" x="-145.667" y="-82.25" width="15.8333" height="19.6667"/>

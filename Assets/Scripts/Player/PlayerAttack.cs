@@ -9,9 +9,14 @@ public class PlayerAttack : MonoBehaviour
     {
         Debug.Log(other.name);
         BaseEnemy enemyUnit = other.GetComponent<BaseEnemy>();
+        BaseEnemy1 enemyUnit1 = other.GetComponent<BaseEnemy1>();
         if (enemyUnit != null)
         {
             enemyUnit.OnTakeDamage(attackDamage);
+        }
+        if(enemyUnit1 != null)
+        {
+            enemyUnit1.OnTakeDamage(attackDamage);
         }
     }
 }
