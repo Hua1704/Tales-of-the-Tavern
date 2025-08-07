@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 public class PlayerController : MonoBehaviour
 {
-    [SerializeField] private float moveSpeed = 1f;
+    [SerializeField] public float moveSpeed = 1f;
 
     private PlayerControls playerControls;
     private Vector2 movement;

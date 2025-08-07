@@ -21,6 +21,7 @@ public class StatsUI : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
+            UpdateAllStats();
             bool isShowing = StatsUICanvas.alpha == 1;
 
             // Toggle visibility

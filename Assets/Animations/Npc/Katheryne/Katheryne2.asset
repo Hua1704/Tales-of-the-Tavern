@@ -21,7 +21,7 @@ MonoBehaviour:
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
-  autoProgressLines: 010101
+  autoProgressLines: 000000
   autoProgressLineDelay: 2
   choices: []
   endDialogueLine: 000001
@@ -30,3 +30,5 @@ MonoBehaviour:
   triggerPlayStoryOnEnd: 0
   openTabOnEnd: 0
   tabIndexToOpen: 0
+  marksStageAsComplete: 0
+  triggersCutsceneOnEnd: 0

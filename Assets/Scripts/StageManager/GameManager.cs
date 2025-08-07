@@ -23,7 +23,16 @@ public class GameManager : MonoBehaviour
             Destroy(gameObject);
         }
     }
+    public string GetCurrentChapter()
+{
+    return gameData.currentChapterId;
+}
 
+public void SetCurrentChapter(string chapterId)
+{
+    gameData.currentChapterId = chapterId;
+    SaveSystem.SaveGame(gameData); // Save immediately when the current chapter changes.
+}
     // --- NPC Flag Methods ---
     public bool GetNpcFlag(string npcId)
     {

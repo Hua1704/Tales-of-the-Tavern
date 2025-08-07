@@ -9,11 +9,13 @@ public class GameData
 
     // Dictionary to store NPC interaction flags. Key: unique NPC ID, Value: true/false
     public SerializableDictionary<string, bool> npcInteractedFlags;
+    public string currentChapterId;
 
     // The constructor is called when we create a new game state
     public GameData()
     {
         stagesCompleted = new SerializableDictionary<string, bool>();
         npcInteractedFlags = new SerializableDictionary<string, bool>();
+        currentChapterId = "";
     }
 }
