@@ -266,7 +266,7 @@ Transform:
   m_GameObject: {fileID: 416948091}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.8035581, y: 0.11766943, z: -8.3493}
+  m_LocalPosition: {x: 1.8082539, y: 0.11766943, z: -8.3493}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -653,7 +653,7 @@ Transform:
   m_GameObject: {fileID: 532416079}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.8035581, y: 0.11766943, z: -8.3493}
+  m_LocalPosition: {x: 1.8082539, y: 0.11766943, z: -8.3493}
   m_LocalScale: {x: 1.3818347, y: 1.273733, z: 1.198469}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2088,6 +2088,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: f7360c1358025bd498e9f97b70ebd435, type: 2}
   - {fileID: 11400000, guid: 071eb761bb8fe434ea82f48f8124d790, type: 2}
   - {fileID: 11400000, guid: ed6955311e4b403458395ae570d8370b, type: 2}
+  numberOfComingSoonScrolls: 2
 --- !u!1 &1369422587 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1123217362483290328, guid: 3ed29a89481a90547925b6fb679c27a8, type: 3}

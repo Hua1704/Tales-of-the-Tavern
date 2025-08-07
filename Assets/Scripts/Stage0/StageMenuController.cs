@@ -3,9 +3,10 @@ using System.Collections.Generic;
 
 public class JourneyMenuController : MonoBehaviour
 {
-    [SerializeField] private Transform container; // The parent object for the scrolls (e.g., a Grid Layout Group)
-    [SerializeField] private GameObject chapterScrollPrefab; // The prefab we just made
-    [SerializeField] private List<ChapterInfo> chaptersInOrder; // Assign all your ChapterInfo assets here in order.
+    [SerializeField] private Transform container; 
+    [SerializeField] private GameObject chapterScrollPrefab; 
+    [SerializeField] private List<ChapterInfo> chaptersInOrder; 
+    [SerializeField] private int numberOfComingSoonScrolls=2;
 
     void OnEnable()
     {
@@ -52,9 +53,14 @@ public class JourneyMenuController : MonoBehaviour
 
             scrollUI.Setup(currentChapter, state);
         }
+          for (int i = 0; i < numberOfComingSoonScrolls; i++)
+        {
+            GameObject scrollGO = Instantiate(chapterScrollPrefab, container);
+            ChapterScrollUI scrollUI = scrollGO.GetComponent<ChapterScrollUI>();
+            
+         
+            scrollUI.SetupForComingSoon();
+        }
     }
-     public void CloseMenu()
-    {
-        gameObject.SetActive(false);
     }
-}
+   
