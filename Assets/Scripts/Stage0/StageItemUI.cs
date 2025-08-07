@@ -56,11 +56,24 @@ public class ChapterScrollUI : MonoBehaviour
                 break;
 
             case ChapterState.Locked:
-                chapterTitleText.text = ""; // Hide the title for locked chapters
+                chapterTitleText.text = ""; 
                 statusText.text = "COMING SOON";
                 statusText.color = lockedColor;
                 playButton.interactable = false;
                 break;
         }
+    }
+        public void SetupForComingSoon()
+    {
+       
+        chapterNumberText.text = "";
+        chapterTitleText.text = "COMING SOON";
+
+        
+        statusText.text = "";
+        statusText.color = lockedColor; 
+
+   
+       
     }
 }

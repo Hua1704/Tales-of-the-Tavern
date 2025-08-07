@@ -2106,6 +2106,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: f7360c1358025bd498e9f97b70ebd435, type: 2}
   - {fileID: 11400000, guid: 071eb761bb8fe434ea82f48f8124d790, type: 2}
   - {fileID: 11400000, guid: ed6955311e4b403458395ae570d8370b, type: 2}
+  numberOfComingSoonScrolls: 2
 --- !u!1 &1369422587 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1123217362483290328, guid: 3ed29a89481a90547925b6fb679c27a8, type: 3}

@@ -42,5 +42,5 @@ MonoBehaviour:
   triggerPlayStoryOnEnd: 0
   openTabOnEnd: 0
   tabIndexToOpen: 0
-  marksStageAsComplete: 0
+  marksStageAsComplete: 1
   triggersCutsceneOnEnd: 1
