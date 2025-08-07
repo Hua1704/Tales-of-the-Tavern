@@ -1,55 +1,60 @@
 using UnityEngine;
+using System.Collections.Generic;
 
-public class StageMenuController : MonoBehaviour
+public class JourneyMenuController : MonoBehaviour
 {
-    [Header("Menu Settings")]
-    [SerializeField] private int totalNumberOfStages; // Set this to how many stages your game has
-    [SerializeField] private GameObject stageItemPrefab; // The prefab for a single stage row
-    [SerializeField] private Transform container; // The parent object for the list items
+    [SerializeField] private Transform container; // The parent object for the scrolls (e.g., a Grid Layout Group)
+    [SerializeField] private GameObject chapterScrollPrefab; // The prefab we just made
+    [SerializeField] private List<ChapterInfo> chaptersInOrder; // Assign all your ChapterInfo assets here in order.
 
-    // OnEnable is called every time the menu is shown.
     void OnEnable()
     {
-        PopulateMenu();
+        PopulateJourney();
     }
 
-    public void PopulateMenu()
+    void PopulateJourney()
     {
-        // 1. Clear any old items from the list to prevent duplicates
         foreach (Transform child in container)
         {
             Destroy(child.gameObject);
         }
 
-      
-        for (int i = 1; i <= totalNumberOfStages; i++)
+        for (int i = 0; i < chaptersInOrder.Count; i++)
         {
-            // 3. Create a new item from the prefab
-            GameObject itemGO = Instantiate(stageItemPrefab, container);
-            StageItemUI itemUI = itemGO.GetComponent<StageItemUI>();
+            ChapterInfo currentChapter = chaptersInOrder[i];
+            GameObject scrollGO = Instantiate(chapterScrollPrefab, container);
+            ChapterScrollUI scrollUI = scrollGO.GetComponent<ChapterScrollUI>();
 
+            // Determine the state of the current chapter
+            ChapterState state;
+            bool isComplete = GameManager.Instance.IsStageComplete(currentChapter.chapterId);
+            bool isCurrent = (GameManager.Instance.GetCurrentChapter() == currentChapter.chapterId);
             
-            if (itemUI == null)
+            // The first chapter is never locked. Subsequent chapters are unlocked if the previous one is complete.
+            bool isLocked = (i > 0) && !GameManager.Instance.IsStageComplete(chaptersInOrder[i - 1].chapterId);
+
+            if (isLocked)
             {
-                Debug.LogError("The 'StageItemPrefab' is missing the 'StageItemUI' script!", stageItemPrefab);
-                continue; 
+                state = ChapterState.Locked;
+            }
+            else if (isComplete)
+            {
+                state = ChapterState.Told;
+            }
+            else if (isCurrent)
+            {
+                state = ChapterState.Telling;
+            }
+            else
+            {
+                state = ChapterState.Untold;
             }
 
-         
-            string currentStageName = "Stage" + i;
-
-            bool isCurrentStageComplete = GameManager.Instance.IsStageComplete(currentStageName);
-            
-          
-            bool isLocked = false; 
-            if (i > 1) 
-            {
-                string previousStageName = "Stage" + (i-1);
-                isLocked = !GameManager.Instance.IsStageComplete(previousStageName);
-            }
-
-           
-            itemUI.Setup(i, isCurrentStageComplete, isLocked);
+            scrollUI.Setup(currentChapter, state);
         }
+    }
+     public void CloseMenu()
+    {
+        gameObject.SetActive(false);
     }
 }
