@@ -26,6 +26,10 @@ public class NPC : MonoBehaviour, IInteractable
     public VideoPlayer cutsceneVideo; // assign in inspector
     public string nextStageName; // scene to load after cutscene
 
+    [Header("Audio")]
+    public AudioSource backgroundMusic; // assign in inspector
+    public float musicFadeDuration = 0.75f;
+
     private void Start()
     {
         dialogueController = DialogueController.Intstance;
@@ -237,6 +241,12 @@ public class NPC : MonoBehaviour, IInteractable
     {
         Debug.Log("PlayCutsceneAndLoadNextStage coroutine started.");
 
+        // Fade out background music in parallel with fade to black
+        if (backgroundMusic != null)
+        {
+            StartCoroutine(FadeOutAudio(backgroundMusic, musicFadeDuration));
+        }
+
         // Fade to black
         yield return FadeTo(1f, fadeDuration);
 
@@ -277,5 +287,19 @@ public class NPC : MonoBehaviour, IInteractable
         }
         fadeGroup.alpha = targetAlpha;
         fadeGroup.blocksRaycasts = targetAlpha > 0.001f;
+    }
+
+    private IEnumerator FadeOutAudio(AudioSource audioSource, float duration)
+    {
+        float startVolume = audioSource.volume;
+        float t = 0f;
+        while (t < duration)
+        {
+            t += Time.unscaledDeltaTime;
+            audioSource.volume = Mathf.Lerp(startVolume, 0f, t / duration);
+            yield return null;
+        }
+        audioSource.volume = 0f;
+        audioSource.Stop();
     }
 }
