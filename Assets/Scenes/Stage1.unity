@@ -1486,78 +1486,6 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 427187075}
   m_SourcePrefab: {fileID: -2695619058785784247, guid: f64a37d56e371f643b32d5b457a33d79, type: 3}
---- !u!1 &857813216 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: -1611500833676710756, guid: f64a37d56e371f643b32d5b457a33d79, type: 3}
-  m_PrefabInstance: {fileID: 857813215}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &857813217
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 857813216}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0c08079f8490a0f47b51d1c42c2dd7b3, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  npcId: Villager1
-  firstTimeDialogue: {fileID: 11400000, guid: 786327d5d66d63148b065852797fc439, type: 2}
-  subsequentDialogue: {fileID: 11400000, guid: 786327d5d66d63148b065852797fc439, type: 2}
-  opensStageMenuOnEnd: 0
-  stageNumber: 0
-  fadeGroup: {fileID: 0}
-  fadeDuration: 0.75
-  cutsceneVideo: {fileID: 0}
-  nextStageName: 
---- !u!61 &857813220
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 857813216}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 1.475, y: 1.585}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 2.95, y: 3.17}
-    newSize: {x: 2.95, y: 3.17}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 2.95, y: 3.17}
-  m_EdgeRadius: 0
 --- !u!1 &1054859164 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3221183541354904750, guid: 3ed29a89481a90547925b6fb679c27a8, type: 3}
@@ -1921,8 +1849,7 @@ Transform:
   m_GameObject: {fileID: 1614430202}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 524.9045, y: -21.44669, z: -10}
-  m_LocalPosition: {x: 525.0068, y: -21.44669, z: -10}
+  m_LocalPosition: {x: 524.90436, y: -21.44669, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2033,6 +1960,10 @@ PrefabInstance:
       value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 4885639348591151918, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4885639348591151918, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: healthBarParent
       value: 
       objectReference: {fileID: 0}
@@ -2098,8 +2029,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8934211826448944593, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.26994976
-      value: 0.40995282
+      value: 0.19658408
       objectReference: {fileID: 0}
     - target: {fileID: 8934211826448944593, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2109,9 +2039,7 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -10
       objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 2645528342154384081, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
-    - {fileID: 4885639348591151918, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
+    m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 8198776964059394616, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
     - {fileID: 240309155911725134, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
