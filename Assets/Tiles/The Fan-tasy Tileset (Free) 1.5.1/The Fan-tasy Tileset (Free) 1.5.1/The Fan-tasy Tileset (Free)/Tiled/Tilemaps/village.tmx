@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="40" height="50" tilewidth="16" tileheight="16" infinite="0" nextlayerid="17" nextobjectid="284">
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="40" height="50" tilewidth="16" tileheight="16" infinite="0" nextlayerid="17" nextobjectid="295">
  <tileset firstgid="1" source="../../../../../Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Atlas_Buildings.tsx"/>
  <tileset firstgid="443" source="../../../../../Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Objects_Buildings.tsx"/>
  <tileset firstgid="449" source="../../../../../Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Objects_Props.tsx"/>
@@ -22,20 +22,20 @@
  <tileset firstgid="5724" name="oldman_sprite_sheet" tilewidth="168" tileheight="213" tilecount="2" columns="2">
   <image source="oldman_sprite_sheet.png" width="337" height="213"/>
  </tileset>
- <tileset firstgid="5726" name="girl_sprite_sheet" tilewidth="295" tileheight="317" tilecount="8" columns="8">
-  <image source="girl_sprite_sheet.png" width="2360" height="317"/>
- </tileset>
- <tileset firstgid="5734" name="oldwoman_sprite_sheet" tilewidth="201" tileheight="308" tilecount="2" columns="2">
+ <tileset firstgid="5726" name="oldwoman_sprite_sheet" tilewidth="201" tileheight="308" tilecount="2" columns="2">
   <image source="oldwoman_sprite_sheet.png" width="402" height="308"/>
  </tileset>
- <tileset firstgid="5736" name="boy" tilewidth="93" tileheight="125" tilecount="6" columns="6">
+ <tileset firstgid="5728" name="boy" tilewidth="93" tileheight="125" tilecount="6" columns="6">
   <image source="boy.png" width="558" height="125"/>
  </tileset>
- <tileset firstgid="5742" name="kid_girl" tilewidth="93" tileheight="126" tilecount="7" columns="7">
+ <tileset firstgid="5734" name="kid_girl" tilewidth="93" tileheight="126" tilecount="7" columns="7">
   <image source="kid_girl.png" width="651" height="126"/>
  </tileset>
- <tileset firstgid="5749" name="Rika" tilewidth="32" tileheight="47" tilecount="16" columns="4">
+ <tileset firstgid="5741" name="Rika" tilewidth="32" tileheight="47" tilecount="16" columns="4">
   <image source="Rika.png" width="128" height="188"/>
+ </tileset>
+ <tileset firstgid="5757" name="girl_sprite_sheet" tilewidth="295" tileheight="268" tilecount="8" columns="8">
+  <image source="girl_sprite_sheet.png" width="2360" height="268"/>
  </tileset>
  <layer id="13" name="Ground" width="40" height="50">
   <data encoding="csv">
@@ -507,7 +507,6 @@
   <object id="185" gid="480" x="224.75" y="47.4166" width="64" height="63"/>
   <object id="186" gid="480" x="308" y="68.1667" width="64" height="63"/>
   <object id="187" gid="480" x="217.25" y="91.25" width="64" height="63"/>
-  <object id="188" gid="480" x="220.417" y="142.667" width="64" height="63"/>
   <object id="191" gid="483" x="-19.5" y="177" width="48" height="93"/>
   <object id="192" gid="482" x="-11.5" y="125" width="52" height="92"/>
   <object id="194" gid="481" x="6.5" y="41" width="46" height="63"/>
@@ -517,10 +516,6 @@
   <object id="201" gid="467" x="86" y="122.5" width="42" height="39"/>
   <object id="205" gid="451" x="112" y="140" width="14" height="16"/>
   <object id="206" gid="451" x="70" y="104" width="14" height="16"/>
-  <object id="210" gid="5692" x="446.909" y="93.8785" width="16" height="16"/>
-  <object id="211" gid="5693" x="462.909" y="93.8785" width="16" height="16"/>
-  <object id="212" gid="5676" x="446.909" y="77.8788" width="16" height="16"/>
-  <object id="213" gid="5677" x="462.909" y="77.8788" width="16" height="16"/>
   <object id="214" gid="464" x="203.5" y="38" width="29" height="32"/>
   <object id="217" gid="463" x="33" y="522" width="30" height="26"/>
   <object id="218" gid="462" x="203" y="62" width="30" height="22"/>
@@ -529,10 +524,7 @@
   <object id="231" gid="471" x="239" y="158.333" width="14" height="14"/>
   <object id="232" gid="463" x="575.939" y="404.545" width="30" height="26"/>
   <object id="233" gid="458" x="546" y="78.3333" width="16" height="14"/>
-  <object id="239" gid="480" x="315" y="116.833" width="64" height="63"/>
   <object id="241" gid="482" x="-12" y="79" width="52" height="92"/>
-  <object id="242" gid="480" x="265" y="129.5" width="64" height="63"/>
-  <object id="266" gid="480" x="360.25" y="106.25" width="64" height="63"/>
   <object id="267" gid="480" x="346.5" y="53.75" width="64" height="63"/>
   <object id="268" gid="480" x="262.75" y="81.25" width="64" height="63"/>
   <object id="269" gid="480" x="325.5" y="17.0833" width="64" height="63"/>
@@ -549,13 +541,27 @@
   <object id="280" gid="475" x="232" y="66.6667" width="28" height="28"/>
   <object id="281" gid="480" x="421.667" y="11.1667" width="64" height="63"/>
   <object id="282" gid="480" x="369.667" y="6" width="64" height="63"/>
+  <object id="188" gid="480" x="220.417" y="142.667" width="64" height="63"/>
+  <object id="242" gid="480" x="265" y="129.5" width="64" height="63"/>
+  <object id="239" gid="480" x="315" y="116.833" width="64" height="63"/>
+  <object id="266" gid="480" x="360.25" y="106.25" width="64" height="63"/>
+  <object id="291" gid="5692" x="430.5" y="110.25" width="16" height="16"/>
+  <object id="292" gid="5693" x="446.5" y="110.25" width="16" height="16"/>
+  <object id="293" gid="5676" x="433.25" y="94.7502" width="16" height="16"/>
+  <object id="294" gid="5677" x="446.5" y="94.2502" width="16" height="16"/>
  </objectgroup>
  <objectgroup id="16" name="Object Layer 2">
-  <object id="256" gid="5724" x="473.515" y="389.727" width="28.962" height="36.7197"/>
-  <object id="257" gid="5727" x="451.841" y="605.742" width="30" height="32.2373"/>
-  <object id="258" gid="5734" x="104.75" y="77.1666" width="18.3966" height="28.1899"/>
-  <object id="263" gid="2147489384" x="304" y="280.667" width="21.016" height="28.2473"/>
-  <object id="264" gid="5742" x="160.833" y="503" width="20.9445" height="28.3763"/>
-  <object id="265" gid="5749" x="432.652" y="50.8587" width="17.25" height="25.3359"/>
+  <object id="256" gid="5724" x="542.923" y="375.546" width="21.5248" height="28.9707"/>
+  <object id="258" gid="5726" x="106.523" y="80.9848" width="16.3966" height="25.1252"/>
+  <object id="263" gid="2147489376" x="276.568" y="281.553" width="16.2727" height="21.8719"/>
+  <object id="264" gid="5734" x="224.651" y="569" width="16.5809" height="22.4643"/>
+  <object id="265" gid="5741" x="499.902" y="61.2181" width="13.75" height="20.1953"/>
+  <object id="286" x="434.682" y="94.0909" width="26.3636" height="15.8182">
+   <polygon points="-1.09091,1.45455 26,1.09091 27.4545,13.2727 12.4545,16.5455 -1.45455,11.8182"/>
+  </object>
+  <object id="287" x="259.068" y="639.091" width="26.3636" height="15.8182">
+   <polygon points="-1.09091,1.45455 26,1.09091 27.4545,13.2727 12.4545,16.5455 -1.45455,11.8182"/>
+  </object>
+  <object id="288" gid="5757" x="439.917" y="593.333" width="23.1157" height="21"/>
  </objectgroup>
 </map>

@@ -129,6 +129,7 @@ GameObject:
   m_Component:
   - component: {fileID: 18474922}
   - component: {fileID: 18474923}
+  - component: {fileID: 18474924}
   m_Layer: 0
   m_Name: Hitbox (1)
   m_TagString: Untagged
@@ -181,13 +182,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.10240088, y: 0.10061954}
   m_Size: {x: 0.03993736, y: 0.1948144}
   m_Direction: 0
+--- !u!114 &18474924
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 18474921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &120798806
 GameObject:
   m_ObjectHideFlags: 0
@@ -198,6 +212,7 @@ GameObject:
   m_Component:
   - component: {fileID: 120798807}
   - component: {fileID: 120798808}
+  - component: {fileID: 120798809}
   m_Layer: 0
   m_Name: Hitbox (1)
   m_TagString: Untagged
@@ -250,13 +265,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.1544985, y: -0.04849314}
   m_Size: {x: 0.056706462, y: 0.19193763}
   m_Direction: 0
+--- !u!114 &120798809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 120798806}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &131540972
 GameObject:
   m_ObjectHideFlags: 0
@@ -267,6 +295,7 @@ GameObject:
   m_Component:
   - component: {fileID: 131540973}
   - component: {fileID: 131540974}
+  - component: {fileID: 131540975}
   m_Layer: 0
   m_Name: Hitbox (4)
   m_TagString: Untagged
@@ -319,13 +348,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.1544985, y: -0.04849314}
   m_Size: {x: 0.056706462, y: 0.19193763}
   m_Direction: 0
+--- !u!114 &131540975
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 131540972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &153152931
 GameObject:
   m_ObjectHideFlags: 0
@@ -336,6 +378,7 @@ GameObject:
   m_Component:
   - component: {fileID: 153152932}
   - component: {fileID: 153152933}
+  - component: {fileID: 153152934}
   m_Layer: 0
   m_Name: Hitbox (5)
   m_TagString: Untagged
@@ -388,13 +431,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.10959245, y: 0.12402462}
   m_Size: {x: 0.031219414, y: 0.14497732}
   m_Direction: 0
+--- !u!114 &153152934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 153152931}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &167507699
 GameObject:
   m_ObjectHideFlags: 0
@@ -405,6 +461,7 @@ GameObject:
   m_Component:
   - component: {fileID: 167507700}
   - component: {fileID: 167507701}
+  - component: {fileID: 167507702}
   m_Layer: 0
   m_Name: Hitbox
   m_TagString: Untagged
@@ -457,13 +514,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.109592445, y: 0.12475375}
   m_Size: {x: 0.031219414, y: 0.14654721}
   m_Direction: 0
+--- !u!114 &167507702
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 167507699}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &184871464
 GameObject:
   m_ObjectHideFlags: 0
@@ -474,6 +544,7 @@ GameObject:
   m_Component:
   - component: {fileID: 184871465}
   - component: {fileID: 184871466}
+  - component: {fileID: 184871467}
   m_Layer: 0
   m_Name: Hitbox (4)
   m_TagString: Untagged
@@ -526,13 +597,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.10959245, y: 0.12402462}
   m_Size: {x: 0.031219414, y: 0.14497732}
   m_Direction: 0
+--- !u!114 &184871467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 184871464}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &199199295
 GameObject:
   m_ObjectHideFlags: 0
@@ -621,6 +705,7 @@ GameObject:
   m_Component:
   - component: {fileID: 207402545}
   - component: {fileID: 207402546}
+  - component: {fileID: 207402547}
   m_Layer: 0
   m_Name: Hitbox (4)
   m_TagString: Untagged
@@ -673,13 +758,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.15449834, y: -0.029231932}
   m_Size: {x: 0.056706462, y: 0.17291476}
   m_Direction: 0
+--- !u!114 &207402547
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 207402544}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &241758275
 GameObject:
   m_ObjectHideFlags: 0
@@ -768,6 +866,7 @@ GameObject:
   m_Component:
   - component: {fileID: 266001449}
   - component: {fileID: 266001450}
+  - component: {fileID: 266001451}
   m_Layer: 0
   m_Name: Hitbox
   m_TagString: Untagged
@@ -820,13 +919,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.15121377, y: -0.045865323}
   m_Size: {x: 0.050136905, y: 0.18668202}
   m_Direction: 0
+--- !u!114 &266001451
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 266001448}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &302250083
 GameObject:
   m_ObjectHideFlags: 0
@@ -837,6 +949,7 @@ GameObject:
   m_Component:
   - component: {fileID: 302250084}
   - component: {fileID: 302250085}
+  - component: {fileID: 302250086}
   m_Layer: 0
   m_Name: Hitbox (3)
   m_TagString: Untagged
@@ -889,13 +1002,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.1544985, y: -0.04849314}
   m_Size: {x: 0.056706462, y: 0.19193763}
   m_Direction: 0
+--- !u!114 &302250086
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 302250083}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &317761859
 GameObject:
   m_ObjectHideFlags: 0
@@ -984,6 +1110,7 @@ GameObject:
   m_Component:
   - component: {fileID: 328524559}
   - component: {fileID: 328524560}
+  - component: {fileID: 328524561}
   m_Layer: 0
   m_Name: Hitbox (2)
   m_TagString: Untagged
@@ -1036,13 +1163,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.10240092, y: 0.07760208}
   m_Size: {x: 0.039937504, y: 0.20271549}
   m_Direction: 0
+--- !u!114 &328524561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328524558}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &328621249
 GameObject:
   m_ObjectHideFlags: 0
@@ -1053,6 +1193,7 @@ GameObject:
   m_Component:
   - component: {fileID: 328621250}
   - component: {fileID: 328621251}
+  - component: {fileID: 328621252}
   m_Layer: 0
   m_Name: Hitbox (2)
   m_TagString: Untagged
@@ -1105,13 +1246,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.10240092, y: 0.07760208}
   m_Size: {x: 0.039937504, y: 0.20271549}
   m_Direction: 0
+--- !u!114 &328621252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 328621249}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &339207877
 GameObject:
   m_ObjectHideFlags: 0
@@ -1122,6 +1276,7 @@ GameObject:
   m_Component:
   - component: {fileID: 339207878}
   - component: {fileID: 339207879}
+  - component: {fileID: 339207880}
   m_Layer: 0
   m_Name: Hitbox (2)
   m_TagString: Untagged
@@ -1174,13 +1329,83 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.1544985, y: -0.04849314}
   m_Size: {x: 0.056706462, y: 0.19193763}
   m_Direction: 0
+--- !u!114 &339207880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 339207877}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
+--- !u!1001 &341795944
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3132237861472213897, guid: 9db0d1d3a80e0c749afdfca960a33410, type: 3}
+      propertyPath: m_Name
+      value: StatsManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 8358318415321432478, guid: 9db0d1d3a80e0c749afdfca960a33410, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 8358318415321432478, guid: 9db0d1d3a80e0c749afdfca960a33410, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 8358318415321432478, guid: 9db0d1d3a80e0c749afdfca960a33410, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8358318415321432478, guid: 9db0d1d3a80e0c749afdfca960a33410, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8358318415321432478, guid: 9db0d1d3a80e0c749afdfca960a33410, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8358318415321432478, guid: 9db0d1d3a80e0c749afdfca960a33410, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8358318415321432478, guid: 9db0d1d3a80e0c749afdfca960a33410, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8358318415321432478, guid: 9db0d1d3a80e0c749afdfca960a33410, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8358318415321432478, guid: 9db0d1d3a80e0c749afdfca960a33410, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8358318415321432478, guid: 9db0d1d3a80e0c749afdfca960a33410, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9db0d1d3a80e0c749afdfca960a33410, type: 3}
 --- !u!1 &375489572 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -8769446485649696286, guid: 66fb3e271c30c23438d94d28d4887a25, type: 3}
@@ -1232,6 +1457,7 @@ GameObject:
   m_Component:
   - component: {fileID: 400269779}
   - component: {fileID: 400269780}
+  - component: {fileID: 400269781}
   m_Layer: 0
   m_Name: Hitbox
   m_TagString: Untagged
@@ -1284,13 +1510,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.1544985, y: -0.04849314}
   m_Size: {x: 0.056706462, y: 0.19193763}
   m_Direction: 0
+--- !u!114 &400269781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 400269778}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &446075818
 GameObject:
   m_ObjectHideFlags: 0
@@ -1381,6 +1620,115 @@ MonoBehaviour:
   targetLeftPivot: {fileID: 700022517}
   targetRightPivot: {fileID: 700022517}
   invisibilityController: {fileID: 0}
+--- !u!1001 &600183342
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 599818344114110079, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_Name
+      value: StatsUICanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 680682561354416664, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2368787419096369168, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5961572757932680474, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6769830857643783564, guid: f465d9f730773a24c9642097c0647668, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f465d9f730773a24c9642097c0647668, type: 3}
 --- !u!1 &614084770
 GameObject:
   m_ObjectHideFlags: 0
@@ -1391,6 +1739,7 @@ GameObject:
   m_Component:
   - component: {fileID: 614084771}
   - component: {fileID: 614084772}
+  - component: {fileID: 614084773}
   m_Layer: 0
   m_Name: Atk2_Up_Hitbox
   m_TagString: Untagged
@@ -1443,7 +1792,7 @@ PolygonCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -1467,6 +1816,19 @@ PolygonCollider2D:
       - {x: 0.066861585, y: -0.2677353}
       - {x: 0.030969221, y: -0.22682239}
   m_UseDelaunayMesh: 0
+--- !u!114 &614084773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 614084770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &620895697
 GameObject:
   m_ObjectHideFlags: 0
@@ -1477,6 +1839,7 @@ GameObject:
   m_Component:
   - component: {fileID: 620895698}
   - component: {fileID: 620895699}
+  - component: {fileID: 620895700}
   m_Layer: 0
   m_Name: Hitbox (1)
   m_TagString: Untagged
@@ -1529,13 +1892,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.1024009, y: 0.08713584}
   m_Size: {x: 0.03993748, y: 0.22178312}
   m_Direction: 0
+--- !u!114 &620895700
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 620895697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &621634791
 GameObject:
   m_ObjectHideFlags: 0
@@ -1685,6 +2061,7 @@ GameObject:
   m_Component:
   - component: {fileID: 727683365}
   - component: {fileID: 727683366}
+  - component: {fileID: 727683367}
   m_Layer: 0
   m_Name: Hitbox (2)
   m_TagString: Untagged
@@ -1737,13 +2114,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.1544985, y: -0.04849314}
   m_Size: {x: 0.056706462, y: 0.19193763}
   m_Direction: 0
+--- !u!114 &727683367
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 727683364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &739223616
 GameObject:
   m_ObjectHideFlags: 0
@@ -1754,6 +2144,7 @@ GameObject:
   m_Component:
   - component: {fileID: 739223617}
   - component: {fileID: 739223618}
+  - component: {fileID: 739223619}
   m_Layer: 0
   m_Name: Hitbox (3)
   m_TagString: Untagged
@@ -1806,13 +2197,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.1544985, y: -0.04849314}
   m_Size: {x: 0.056706462, y: 0.19193763}
   m_Direction: 0
+--- !u!114 &739223619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 739223616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &746454376
 GameObject:
   m_ObjectHideFlags: 0
@@ -1934,6 +2338,7 @@ GameObject:
   m_Component:
   - component: {fileID: 844964646}
   - component: {fileID: 844964647}
+  - component: {fileID: 844964648}
   m_Layer: 0
   m_Name: Hitbox (4)
   m_TagString: Untagged
@@ -1986,13 +2391,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.10959245, y: 0.12402462}
   m_Size: {x: 0.031219414, y: 0.14497732}
   m_Direction: 0
+--- !u!114 &844964648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 844964645}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &847551834
 GameObject:
   m_ObjectHideFlags: 0
@@ -2003,6 +2421,7 @@ GameObject:
   m_Component:
   - component: {fileID: 847551835}
   - component: {fileID: 847551836}
+  - component: {fileID: 847551837}
   m_Layer: 0
   m_Name: Hitbox
   m_TagString: Untagged
@@ -2055,13 +2474,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.15449867, y: -0.053913698}
   m_Size: {x: 0.056706462, y: 0.18109676}
   m_Direction: 0
+--- !u!114 &847551837
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 847551834}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &850481769
 GameObject:
   m_ObjectHideFlags: 0
@@ -2072,6 +2504,7 @@ GameObject:
   m_Component:
   - component: {fileID: 850481770}
   - component: {fileID: 850481771}
+  - component: {fileID: 850481772}
   m_Layer: 0
   m_Name: Hitbox
   m_TagString: Untagged
@@ -2124,13 +2557,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.109592445, y: 0.12475375}
   m_Size: {x: 0.031219414, y: 0.14654721}
   m_Direction: 0
+--- !u!114 &850481772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 850481769}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &936600163
 GameObject:
   m_ObjectHideFlags: 0
@@ -2141,6 +2587,7 @@ GameObject:
   m_Component:
   - component: {fileID: 936600164}
   - component: {fileID: 936600165}
+  - component: {fileID: 936600166}
   m_Layer: 0
   m_Name: Atk2_Down_Hitbox
   m_TagString: Untagged
@@ -2193,7 +2640,7 @@ PolygonCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -2217,6 +2664,19 @@ PolygonCollider2D:
       - {x: 0.066861585, y: -0.2677353}
       - {x: 0.030969221, y: -0.22682239}
   m_UseDelaunayMesh: 0
+--- !u!114 &936600166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 936600163}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &982658090
 GameObject:
   m_ObjectHideFlags: 0
@@ -2227,6 +2687,7 @@ GameObject:
   m_Component:
   - component: {fileID: 982658091}
   - component: {fileID: 982658092}
+  - component: {fileID: 982658093}
   m_Layer: 0
   m_Name: Hitbox (1)
   m_TagString: Untagged
@@ -2279,13 +2740,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.1544985, y: -0.04849314}
   m_Size: {x: 0.056706462, y: 0.19193763}
   m_Direction: 0
+--- !u!114 &982658093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 982658090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &989302486
 GameObject:
   m_ObjectHideFlags: 0
@@ -2296,6 +2770,7 @@ GameObject:
   m_Component:
   - component: {fileID: 989302487}
   - component: {fileID: 989302488}
+  - component: {fileID: 989302489}
   m_Layer: 0
   m_Name: Hitbox (2)
   m_TagString: Untagged
@@ -2348,13 +2823,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.1544985, y: -0.04849314}
   m_Size: {x: 0.056706462, y: 0.19193763}
   m_Direction: 0
+--- !u!114 &989302489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 989302486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1014601155
 GameObject:
   m_ObjectHideFlags: 0
@@ -2365,6 +2853,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1014601156}
   - component: {fileID: 1014601157}
+  - component: {fileID: 1014601158}
   m_Layer: 0
   m_Name: Hitbox (4)
   m_TagString: Untagged
@@ -2417,13 +2906,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.10959245, y: 0.12402462}
   m_Size: {x: 0.031219414, y: 0.14497732}
   m_Direction: 0
+--- !u!114 &1014601158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1014601155}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1044728740
 GameObject:
   m_ObjectHideFlags: 0
@@ -2434,6 +2936,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1044728741}
   - component: {fileID: 1044728742}
+  - component: {fileID: 1044728743}
   m_Layer: 0
   m_Name: Hitbox (3)
   m_TagString: Untagged
@@ -2486,13 +2989,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.102401085, y: 0.06373686}
   m_Size: {x: 0.03993748, y: 0.2304457}
   m_Direction: 0
+--- !u!114 &1044728743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1044728740}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1108742245
 GameObject:
   m_ObjectHideFlags: 0
@@ -2503,6 +3019,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1108742246}
   - component: {fileID: 1108742247}
+  - component: {fileID: 1108742248}
   m_Layer: 0
   m_Name: Hitbox (1)
   m_TagString: Untagged
@@ -2555,13 +3072,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.1024009, y: 0.08713584}
   m_Size: {x: 0.03993748, y: 0.22178312}
   m_Direction: 0
+--- !u!114 &1108742248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1108742245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1119443739
 GameObject:
   m_ObjectHideFlags: 0
@@ -2572,6 +3102,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1119443740}
   - component: {fileID: 1119443741}
+  - component: {fileID: 1119443742}
   m_Layer: 0
   m_Name: Hitbox (4)
   m_TagString: Untagged
@@ -2624,13 +3155,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.1544985, y: -0.04849314}
   m_Size: {x: 0.056706462, y: 0.19193763}
   m_Direction: 0
+--- !u!114 &1119443742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1119443739}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1130429649
 GameObject:
   m_ObjectHideFlags: 0
@@ -2641,6 +3185,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1130429650}
   - component: {fileID: 1130429651}
+  - component: {fileID: 1130429652}
   m_Layer: 0
   m_Name: Hitbox (5)
   m_TagString: Untagged
@@ -2693,13 +3238,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.10959245, y: 0.12402462}
   m_Size: {x: 0.031219414, y: 0.14497732}
   m_Direction: 0
+--- !u!114 &1130429652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1130429649}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1159956934
 GameObject:
   m_ObjectHideFlags: 0
@@ -2747,6 +3305,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1171987896}
   - component: {fileID: 1171987897}
+  - component: {fileID: 1171987898}
   m_Layer: 0
   m_Name: Hitbox (2)
   m_TagString: Untagged
@@ -2799,13 +3358,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.10240092, y: 0.07760208}
   m_Size: {x: 0.039937504, y: 0.20271549}
   m_Direction: 0
+--- !u!114 &1171987898
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1171987895}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1173252499
 GameObject:
   m_ObjectHideFlags: 0
@@ -2816,6 +3388,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1173252500}
   - component: {fileID: 1173252501}
+  - component: {fileID: 1173252502}
   m_Layer: 0
   m_Name: Hitbox (5)
   m_TagString: Untagged
@@ -2868,13 +3441,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.10959245, y: 0.12402462}
   m_Size: {x: 0.031219414, y: 0.14497732}
   m_Direction: 0
+--- !u!114 &1173252502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1173252499}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1198785234
 GameObject:
   m_ObjectHideFlags: 0
@@ -2885,6 +3471,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1198785235}
   - component: {fileID: 1198785236}
+  - component: {fileID: 1198785237}
   m_Layer: 0
   m_Name: Hitbox
   m_TagString: Untagged
@@ -2937,13 +3524,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.1544985, y: -0.04849314}
   m_Size: {x: 0.056706462, y: 0.19193763}
   m_Direction: 0
+--- !u!114 &1198785237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1198785234}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1264668055
 GameObject:
   m_ObjectHideFlags: 0
@@ -2954,6 +3554,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1264668056}
   - component: {fileID: 1264668057}
+  - component: {fileID: 1264668058}
   m_Layer: 0
   m_Name: Hitbox (2)
   m_TagString: Untagged
@@ -3006,13 +3607,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.1544985, y: -0.04849314}
   m_Size: {x: 0.056706462, y: 0.19193763}
   m_Direction: 0
+--- !u!114 &1264668058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1264668055}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1280684473
 GameObject:
   m_ObjectHideFlags: 0
@@ -3023,6 +3637,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1280684474}
   - component: {fileID: 1280684475}
+  - component: {fileID: 1280684476}
   m_Layer: 0
   m_Name: Hitbox (2)
   m_TagString: Untagged
@@ -3075,13 +3690,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.10240092, y: 0.07760208}
   m_Size: {x: 0.039937504, y: 0.20271549}
   m_Direction: 0
+--- !u!114 &1280684476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1280684473}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1001 &1342369606
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3185,6 +3813,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1407364236}
   - component: {fileID: 1407364237}
+  - component: {fileID: 1407364238}
   m_Layer: 0
   m_Name: Hitbox (5)
   m_TagString: Untagged
@@ -3237,13 +3866,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.10959245, y: 0.12402462}
   m_Size: {x: 0.031219414, y: 0.14497732}
   m_Direction: 0
+--- !u!114 &1407364238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1407364235}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1431601923
 GameObject:
   m_ObjectHideFlags: 0
@@ -3254,6 +3896,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1431601924}
   - component: {fileID: 1431601925}
+  - component: {fileID: 1431601926}
   m_Layer: 0
   m_Name: Hitbox (1)
   m_TagString: Untagged
@@ -3306,13 +3949,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.10240088, y: 0.10061954}
   m_Size: {x: 0.03993736, y: 0.1948144}
   m_Direction: 0
+--- !u!114 &1431601926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1431601923}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1451067756
 GameObject:
   m_ObjectHideFlags: 0
@@ -3323,6 +3979,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1451067757}
   - component: {fileID: 1451067758}
+  - component: {fileID: 1451067759}
   m_Layer: 0
   m_Name: Atk2_Right_Hitbox
   m_TagString: Untagged
@@ -3375,7 +4032,7 @@ PolygonCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -3401,6 +4058,19 @@ PolygonCollider2D:
       - {x: 0.05734255, y: -0.27011505}
       - {x: 0.034538995, y: -0.25299996}
   m_UseDelaunayMesh: 0
+--- !u!114 &1451067759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1451067756}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1480974729
 GameObject:
   m_ObjectHideFlags: 0
@@ -3448,6 +4118,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1518774437}
   - component: {fileID: 1518774438}
+  - component: {fileID: 1518774439}
   m_Layer: 0
   m_Name: Hitbox
   m_TagString: Untagged
@@ -3500,13 +4171,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.109592445, y: 0.120125204}
   m_Size: {x: 0.031219414, y: 0.15580438}
   m_Direction: 0
+--- !u!114 &1518774439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1518774436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1532651674
 GameObject:
   m_ObjectHideFlags: 0
@@ -3517,6 +4201,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1532651675}
   - component: {fileID: 1532651676}
+  - component: {fileID: 1532651677}
   m_Layer: 0
   m_Name: Hitbox (4)
   m_TagString: Untagged
@@ -3569,13 +4254,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.15449847, y: -0.039504603}
   m_Size: {x: 0.056706455, y: 0.17396063}
   m_Direction: 0
+--- !u!114 &1532651677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1532651674}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1536669415
 GameObject:
   m_ObjectHideFlags: 0
@@ -3700,6 +4398,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1588070900}
   - component: {fileID: 1588070901}
+  - component: {fileID: 1588070902}
   m_Layer: 0
   m_Name: Hitbox (3)
   m_TagString: Untagged
@@ -3752,13 +4451,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.1544985, y: -0.04849314}
   m_Size: {x: 0.056706462, y: 0.19193763}
   m_Direction: 0
+--- !u!114 &1588070902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1588070899}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1650101654
 GameObject:
   m_ObjectHideFlags: 0
@@ -3769,6 +4481,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1650101655}
   - component: {fileID: 1650101656}
+  - component: {fileID: 1650101657}
   m_Layer: 0
   m_Name: Hitbox (4)
   m_TagString: Untagged
@@ -3821,13 +4534,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.10959245, y: 0.12402462}
   m_Size: {x: 0.031219414, y: 0.14497732}
   m_Direction: 0
+--- !u!114 &1650101657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1650101654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!4 &1664262026 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8316622327669184708, guid: 66fb3e271c30c23438d94d28d4887a25, type: 3}
@@ -3873,6 +4599,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1674875395}
   - component: {fileID: 1674875396}
+  - component: {fileID: 1674875397}
   m_Layer: 0
   m_Name: Hitbox
   m_TagString: Untagged
@@ -3925,13 +4652,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.109592445, y: 0.120125204}
   m_Size: {x: 0.031219414, y: 0.15580438}
   m_Direction: 0
+--- !u!114 &1674875397
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1674875394}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1680388196
 GameObject:
   m_ObjectHideFlags: 0
@@ -3942,6 +4682,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1680388197}
   - component: {fileID: 1680388198}
+  - component: {fileID: 1680388199}
   m_Layer: 0
   m_Name: Hitbox (3)
   m_TagString: Untagged
@@ -3994,13 +4735,56 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.10240092, y: 0.07760208}
   m_Size: {x: 0.039937504, y: 0.20271549}
   m_Direction: 0
+--- !u!114 &1680388199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1680388196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
+--- !u!1 &1765104237 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5339037511261064371, guid: 39f6f7e4a908e9b41bca13e7ac5936d7, type: 3}
+  m_PrefabInstance: {fileID: 6249828707068562766}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1765104238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1765104237}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba28fddf37184de48b69b96c86f53019, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hitboxContainers:
+  - {fileID: 375975892}
+  - {fileID: 746454376}
+  - {fileID: 446075818}
+  - {fileID: 1541266142}
+  - {fileID: 1159956934}
+  - {fileID: 678546488}
+  - {fileID: 1480974729}
+  - {fileID: 2010705335}
+  - {fileID: 936600163}
+  - {fileID: 1852287952}
+  - {fileID: 1451067756}
+  - {fileID: 614084770}
 --- !u!1 &1793302737
 GameObject:
   m_ObjectHideFlags: 0
@@ -4011,6 +4795,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1793302738}
   - component: {fileID: 1793302739}
+  - component: {fileID: 1793302740}
   m_Layer: 0
   m_Name: Hitbox (3)
   m_TagString: Untagged
@@ -4063,13 +4848,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.10240092, y: 0.07760208}
   m_Size: {x: 0.039937504, y: 0.20271549}
   m_Direction: 0
+--- !u!114 &1793302740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1793302737}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1852287952
 GameObject:
   m_ObjectHideFlags: 0
@@ -4080,6 +4878,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1852287953}
   - component: {fileID: 1852287954}
+  - component: {fileID: 1852287955}
   m_Layer: 0
   m_Name: Atk2_Left_Hitbox
   m_TagString: Untagged
@@ -4132,7 +4931,7 @@ PolygonCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -4158,6 +4957,19 @@ PolygonCollider2D:
       - {x: 0.05020314, y: -0.3105713}
       - {x: 0.0131209195, y: -0.2922663}
   m_UseDelaunayMesh: 0
+--- !u!114 &1852287955
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1852287952}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &1977541614
 GameObject:
   m_ObjectHideFlags: 0
@@ -4168,6 +4980,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1977541615}
   - component: {fileID: 1977541616}
+  - component: {fileID: 1977541617}
   m_Layer: 0
   m_Name: Hitbox (3)
   m_TagString: Untagged
@@ -4220,13 +5033,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0.102401085, y: 0.06373686}
   m_Size: {x: 0.03993748, y: 0.2304457}
   m_Direction: 0
+--- !u!114 &1977541617
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1977541614}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &2010705335
 GameObject:
   m_ObjectHideFlags: 0
@@ -4274,6 +5100,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2025163978}
   - component: {fileID: 2025163979}
+  - component: {fileID: 2025163980}
   m_Layer: 0
   m_Name: Hitbox (3)
   m_TagString: Untagged
@@ -4326,13 +5153,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.1544985, y: -0.04849314}
   m_Size: {x: 0.056706462, y: 0.19193763}
   m_Direction: 0
+--- !u!114 &2025163980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2025163977}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &2032317021
 GameObject:
   m_ObjectHideFlags: 0
@@ -4343,6 +5183,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2032317022}
   - component: {fileID: 2032317023}
+  - component: {fileID: 2032317024}
   m_Layer: 0
   m_Name: Hitbox (1)
   m_TagString: Untagged
@@ -4395,13 +5236,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.1544985, y: -0.04849314}
   m_Size: {x: 0.056706462, y: 0.19193763}
   m_Direction: 0
+--- !u!114 &2032317024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2032317021}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1 &2128573711
 GameObject:
   m_ObjectHideFlags: 0
@@ -4412,6 +5266,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2128573712}
   - component: {fileID: 2128573713}
+  - component: {fileID: 2128573714}
   m_Layer: 0
   m_Name: Hitbox (1)
   m_TagString: Untagged
@@ -4464,13 +5319,26 @@ CapsuleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: -0.1544985, y: -0.04849314}
   m_Size: {x: 0.056706462, y: 0.19193763}
   m_Direction: 0
+--- !u!114 &2128573714
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2128573711}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150d5d8a5a8fdd74fa842c554a23efb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 2
 --- !u!1001 &6249828707068562766
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4588,7 +5456,10 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5339037511261064369, guid: 39f6f7e4a908e9b41bca13e7ac5936d7, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2010705336}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5339037511261064371, guid: 39f6f7e4a908e9b41bca13e7ac5936d7, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1765104238}
   m_SourcePrefab: {fileID: 100100000, guid: 39f6f7e4a908e9b41bca13e7ac5936d7, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
@@ -4598,3 +5469,5 @@ SceneRoots:
   - {fileID: 806330728}
   - {fileID: 1342369606}
   - {fileID: 1377931446}
+  - {fileID: 341795944}
+  - {fileID: 600183342}

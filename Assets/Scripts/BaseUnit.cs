@@ -6,8 +6,8 @@ using System;
 public class BaseUnit : MonoBehaviour
 {
     [Header("Health Variables")]
-    [SerializeField] protected int MAX_HEALTH = 5;
-    [SerializeField] protected int health = 5;
+    [SerializeField] public int MAX_HEALTH = 5;
+    [SerializeField] public int health = 5;
     protected bool isAlive = true;
     private bool _isInitialized = false; // Flag to prevent re-initialization
 
