@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class PlayerAttack : MonoBehaviour
 {
-    [SerializeField] private int attackDamage = 1;
+    [SerializeField] public int attackDamage = 1;
 
     private void OnTriggerEnter2D(Collider2D other)
     {

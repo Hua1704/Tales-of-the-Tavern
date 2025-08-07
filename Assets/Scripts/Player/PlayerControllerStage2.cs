@@ -4,8 +4,8 @@ using System.Collections;
 public class PlayerControllerStage2 : MonoBehaviour
 {
     [Header("Movement Speeds")]
-    [SerializeField] private float moveSpeed = 3f;
-    [SerializeField] private float slideSpeed = 5f;
+    [SerializeField] public float moveSpeed = 3f;
+    [SerializeField] public float slideSpeed = 5f;
 
     [Header("Combat")]
     [SerializeField] private GameObject attackUp;
