@@ -12,6 +12,7 @@ public class TutorialManager : MonoBehaviour
     void Start()
     {
         ShowPage(0);
+        PauseGame(isVisible);
     }
 
     void Update()
@@ -20,6 +21,7 @@ public class TutorialManager : MonoBehaviour
         {
             isVisible = !isVisible;
             tutorialCanvas.SetActive(isVisible);
+            PauseGame(isVisible);
         }
 
         if (isVisible && Input.GetKeyDown(KeyCode.RightArrow))
@@ -53,5 +55,10 @@ public class TutorialManager : MonoBehaviour
     {
         if (pageSound != null)
             pageSound.Play();
+    }
+
+    void PauseGame(bool pause)
+    {
+        Time.timeScale = pause ? 0f : 1f;
     }
 }
