@@ -7,6 +7,7 @@ public class GameManager : MonoBehaviour
     private GameData gameData;
     public BaseUnit playerInfo;
     public GameObject gameOverScreen;
+     [SerializeField] private Camera deathCamera;
     void Awake()
     {
         // Singleton pattern to ensure only one GameManager exists
@@ -80,7 +81,9 @@ public class GameManager : MonoBehaviour
         if ((playerInfo.health == 0 || playerInfo == null) && gameOverScreen != null && !gameOverScreen.activeSelf)
         {
             Debug.Log("Game Over");
+            deathCamera.enabled = true;
             gameOverScreen.SetActive(true);
+             
         }
     }
     public void OnPressRetry()
