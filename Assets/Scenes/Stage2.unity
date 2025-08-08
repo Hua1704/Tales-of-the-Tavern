@@ -13663,7 +13663,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1123217362483290328, guid: 3ed29a89481a90547925b6fb679c27a8, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1423992871892238053, guid: 3ed29a89481a90547925b6fb679c27a8, type: 3}
       propertyPath: m_Name
@@ -13671,7 +13671,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1434508128484738308, guid: 3ed29a89481a90547925b6fb679c27a8, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2290493235861177391, guid: 3ed29a89481a90547925b6fb679c27a8, type: 3}
       propertyPath: m_Sprite
