@@ -96,9 +96,11 @@ public class BaseEnemy1 : BaseUnit, IDamageable
     [SerializeField] private int _minCoinDropRate = 0;
     [SerializeField] private int _maxCoinDropRate = 5;
     [SerializeField] private GameObject _dropitem;
+    [SerializeField] private BossManger bossManager;
     protected override void Die()
     {
         base.Die();
+        bossManager.onEnemyDeath();
         spriteRenderer.material = originalMaterial;
         // gameObject.SetActive(false);
         // Direction from player to enemy (opposite of toward player)
@@ -121,6 +123,7 @@ public class BaseEnemy1 : BaseUnit, IDamageable
         // LevelRunStats levelStats = LevelManager.instance.levelRunStats;
         // levelStats.AddKill();
         // levelStats.AddCoins(Random.Range(_minCoinDropRate, _maxCoinDropRate));
+
     }
     private void SpawnChildren()
     {
