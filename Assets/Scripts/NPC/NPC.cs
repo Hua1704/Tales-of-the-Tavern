@@ -225,6 +225,7 @@ public class NPC : MonoBehaviour, IInteractable
             {
                 bossToActivate.SetActive(true);
                 Debug.Log(bossToActivate.name + " has been activated!");
+                MusicManager.Instance.PlayBattleMusic();
             }
             else
             {
