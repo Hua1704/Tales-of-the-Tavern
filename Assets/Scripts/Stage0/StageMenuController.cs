@@ -7,12 +7,13 @@ public class JourneyMenuController : MonoBehaviour
     [SerializeField] private GameObject chapterScrollPrefab; 
     [SerializeField] private List<ChapterInfo> chaptersInOrder; 
     [SerializeField] private int numberOfComingSoonScrolls=2;
+    [SerializeField] private GameObject StagePanel;
 
     void OnEnable()
     {
         PopulateJourney();
     }
-
+    
     void PopulateJourney()
     {
         foreach (Transform child in container)
@@ -53,14 +54,22 @@ public class JourneyMenuController : MonoBehaviour
 
             scrollUI.Setup(currentChapter, state);
         }
-          for (int i = 0; i < numberOfComingSoonScrolls; i++)
+        for (int i = 0; i < numberOfComingSoonScrolls; i++)
         {
             GameObject scrollGO = Instantiate(chapterScrollPrefab, container);
             ChapterScrollUI scrollUI = scrollGO.GetComponent<ChapterScrollUI>();
-            
-         
             scrollUI.SetupForComingSoon();
         }
+    }
+
+    // Call this method from your button's OnClick event in the Inspector
+    public void DisableStageMenu()
+    {
+        StagePanel.SetActive(false);
+    }
+    void disable()
+    {
+        StagePanel.SetActive(false);
     }
     }
    
