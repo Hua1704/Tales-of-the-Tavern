@@ -204,7 +204,15 @@ public class NPC : MonoBehaviour, IInteractable
         dialogueController.SetDialogueText("");
         dialogueController.nameText.text = "";
         PauseController.SetPause(false);
-           if (finishedDialogue != null && finishedDialogue.triggersBossAppearanceOnEnd)
+
+        if (npcId == "witch" && dialogueData.triggersCutsceneOnEnd)
+        {
+            Debug.Log("Witch NPC dialogue ended, triggering cutscene...");
+            StartCutsceneAndLoadNextStage();
+            return;
+        }
+
+        if (finishedDialogue != null && finishedDialogue.triggersBossAppearanceOnEnd)
         {
             
             if (bossToActivate != null)
