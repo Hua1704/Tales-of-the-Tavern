@@ -275,8 +275,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 6ee2e2e4b6e937c4191ee6e91a42280d, type: 3}
-  m_Resource: {fileID: 8300000, guid: 6ee2e2e4b6e937c4191ee6e91a42280d, type: 3}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: e078885c31b9ab648a9686d0f9363734, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -2370,6 +2370,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6246303527169295305, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.000017166138
+      objectReference: {fileID: 0}
     - target: {fileID: 6246303527169297653, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -2418,6 +2422,34 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6246303527169303101, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6246303527169306869, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6246303527169306869, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6246303527169306869, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6246303527169314513, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6246303527169314513, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6246303527169314513, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6246303527169314565, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -2429,6 +2461,10 @@ PrefabInstance:
     - target: {fileID: 6246303527169314565, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchorMin.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6246303527169321845, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.000009536743
       objectReference: {fileID: 0}
     - target: {fileID: 6246303527169329325, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchorMax.x
@@ -2500,6 +2536,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6246303527169379981, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6246303527169379981, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
+      propertyPath: m_AnchorMin.y
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6246303527169380433, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
@@ -5858,6 +5898,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4168772303429215950, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
+      propertyPath: field of view
+      value: 15
+      objectReference: {fileID: 0}
     - target: {fileID: 4758052815053730003, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_Name
       value: Player
@@ -5874,6 +5918,10 @@ PrefabInstance:
       propertyPath: attackDamage
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 8356081978992853949, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
+      propertyPath: m_VideoClip
+      value: 
+      objectReference: {fileID: 32900000, guid: 76fb346dd3fa26b4a89db98e2d7d3a86, type: 3}
     - target: {fileID: 8356081978992853949, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_AspectRatio
       value: 5
