@@ -20,7 +20,7 @@ MonoBehaviour:
   - "Oh, don\u2019t mind them. They were too loud anyway."
   - "Such noise ruins the sanctity of my Lord\u2019s return"
   - "But you\u2026 you're different."
-  - "here\u2019s something about you."
+  - "Here\u2019s something about you."
   - "~Oh ancient one, born of ooze and hunger\u2026"
   - ~Bear witness to this final rite
   - "~I offer you the perfect vessel\u2014"
@@ -53,3 +53,4 @@ MonoBehaviour:
   marksStageAsComplete: 0
   triggersCutsceneOnEnd: 0
   triggersBossAppearanceOnEnd: 1
+  resetsBossOnEnd: 0

@@ -364,6 +364,7 @@ namespace GreatArcStudios
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
             uiEventSystem.firstSelectedGameObject = defualtSelectedMain;
+            Time.timeScale = 1.0f;
         }
         /// <summary>
         /// Method to resume the game, so disable the pause menu and re-enable all other ui elements
