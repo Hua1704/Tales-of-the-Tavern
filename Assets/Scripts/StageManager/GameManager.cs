@@ -1,11 +1,12 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; private set; }
-
     private GameData gameData;
-
+    public BaseUnit playerInfo;
+    public GameObject gameOverScreen;
     void Awake()
     {
         // Singleton pattern to ensure only one GameManager exists
@@ -73,5 +74,20 @@ public void SetCurrentChapter(string chapterId)
         }
         // Save after completing a stage
         SaveSystem.SaveGame(gameData);
+    }
+    private void Update()
+    {
+        if (playerInfo.health == 0 && gameOverScreen!=null && !gameOverScreen.activeSelf)
+        {
+            gameOverScreen.SetActive(true);
+        }
+    }
+    public void OnPressRetry()
+    {
+        SceneManager.LoadScene("Stage0");
+    }
+    public void OnPressMainMenu()
+    {
+        SceneManager.LoadScene("Main Menu");
     }
 }
