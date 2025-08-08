@@ -279,7 +279,7 @@ AudioSource:
   m_Resource: {fileID: 8300000, guid: 469df7d32e028c44cb31380081625d73, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.66
-  m_Pitch: 1.51
+  m_Pitch: 0.7
   Loop: 1
   Mute: 0
   Spatialize: 0
@@ -1274,9 +1274,13 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1031200641414697028, guid: fd7b174da0d187d44ab31eb86447510a, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 260
+      objectReference: {fileID: 0}
     - target: {fileID: 1755441687033725431, guid: fd7b174da0d187d44ab31eb86447510a, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4041975334549019080, guid: fd7b174da0d187d44ab31eb86447510a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1329,6 +1333,10 @@ PrefabInstance:
     - target: {fileID: 8123502455439268816, guid: fd7b174da0d187d44ab31eb86447510a, type: 3}
       propertyPath: m_IgnoreReversedGraphics
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8380308154096046655, guid: fd7b174da0d187d44ab31eb86447510a, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 423
       objectReference: {fileID: 0}
     - target: {fileID: 8499329299487384186, guid: fd7b174da0d187d44ab31eb86447510a, type: 3}
       propertyPath: m_SizeDelta.y
