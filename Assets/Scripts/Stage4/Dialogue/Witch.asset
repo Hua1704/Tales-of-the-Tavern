@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
+  m_Name: Witch
+  m_EditorClassIdentifier: 
+  npcName: The Witch
+  npcPortrait: {fileID: 0}
+  dialogueLines:
+  - Oh, look who made it all the way here. My little hero.
+  - "I must admit\u2026 I didn\u2019t think you'd get this far."
+  - "Oh, don\u2019t mind them. They were too loud anyway."
+  - "Such noise ruins the sanctity of my Lord\u2019s return"
+  - "But you\u2026 you're different."
+  - "here\u2019s something about you."
+  - "~Oh ancient one, born of ooze and hunger\u2026"
+  - ~Bear witness to this final rite
+  - "~I offer you the perfect vessel\u2014"
+  - "~A heart of kindness\u2026"
+  - "~A mind of clarity\u2026"
+  - ~And a soul of courage.
+  - ~Let this sacrifice be worthy of your return.
+  typingSpeed: 0.05
+  voiceLines: []
+  voiceVolume: 1
+  autoProgressLines: 01000000000000000000000000
+  autoProgressLineDelay: 2
+  choices:
+  - dialogueIndex: 1
+    choices:
+    - What did you do to them?
+    - Let them go. Now.
+    nextDialogueIndices: 0200000002000000
+  - dialogueIndex: 5
+    choices:
+    - Enough with the nonsense.
+    - Whatever this is, it's over.
+    nextDialogueIndices: 0600000006000000
+  endDialogueLine: 00000000000000000000000001
+  changeSceneOnEnd: 0
+  nextSceneName: 
+  triggerPlayStoryOnEnd: 0
+  openTabOnEnd: 0
+  tabIndexToOpen: 0
+  marksStageAsComplete: 0
+  triggersCutsceneOnEnd: 0
+  triggersBossAppearanceOnEnd: 1
