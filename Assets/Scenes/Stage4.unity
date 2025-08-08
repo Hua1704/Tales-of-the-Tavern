@@ -275,7 +275,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: e078885c31b9ab648a9686d0f9363734, type: 3}
   m_Resource: {fileID: 8300000, guid: e078885c31b9ab648a9686d0f9363734, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
@@ -2372,7 +2372,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6246303527169295305, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.000017166138
+      value: -0.000036239624
       objectReference: {fileID: 0}
     - target: {fileID: 6246303527169297653, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchorMax.x
@@ -2464,7 +2464,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6246303527169321845, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.000009536743
+      value: 0.00004005432
       objectReference: {fileID: 0}
     - target: {fileID: 6246303527169329325, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchorMax.x
@@ -4089,6 +4089,18 @@ PrefabInstance:
     - target: {fileID: -8316622327669184708, guid: 66fb3e271c30c23438d94d28d4887a25, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5792223288367135811, guid: 66fb3e271c30c23438d94d28d4887a25, type: 3}
+      propertyPath: m_SortingOrder
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: -4869203030829496167, guid: 66fb3e271c30c23438d94d28d4887a25, type: 3}
+      propertyPath: m_SortingOrder
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 8899725282052313236, guid: 66fb3e271c30c23438d94d28d4887a25, type: 3}
+      propertyPath: m_SortingOrder
+      value: 40
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
