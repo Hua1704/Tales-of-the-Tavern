@@ -36,7 +36,7 @@ Material:
     m_Colors:
     - _Color: {r: 0, g: 0, b: 0, a: 1}
     - _PlayerPos: {r: 0.5, g: 0.5, b: 0, a: 0}
-    - _PlayerWorldPos: {r: 6.26, g: 3.13, b: 0, a: 0}
-    - _StartWorldPos: {r: 5.82, g: 2.55, b: 0, a: 0}
+    - _PlayerWorldPos: {r: -2.29, g: 4.350002, b: 0, a: 0}
+    - _StartWorldPos: {r: 6.13, g: 2.71, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
