@@ -29,6 +29,7 @@ public class NPC : MonoBehaviour, IInteractable
     [Header("Audio")]
     public AudioSource backgroundMusic; // assign in inspector
     public float musicFadeDuration = 0.75f;
+    public GameObject bossToActivate;
 
     private void Start()
     {
@@ -191,7 +192,7 @@ public class NPC : MonoBehaviour, IInteractable
     public void EndDialogue()
     {
         Debug.Log($"NPC {npcId}: EndDialogue called.");
-
+        NPCDialogue finishedDialogue = this.dialogueData;
         StopAllCoroutines();
         isDialogueActive = false;
         dialogueController.ShowDialogueUI(false);
@@ -199,6 +200,21 @@ public class NPC : MonoBehaviour, IInteractable
         dialogueController.SetDialogueText("");
         dialogueController.nameText.text = "";
         PauseController.SetPause(false);
+           if (finishedDialogue != null && finishedDialogue.triggersBossAppearanceOnEnd)
+        {
+            
+            if (bossToActivate != null)
+            {
+                bossToActivate.SetActive(true);
+                Debug.Log(bossToActivate.name + " has been activated!");
+            }
+            else
+            {
+                Debug.LogWarning("Dialogue is set to trigger a boss, but 'Boss To Activate' is not assigned on the NPC.", this.gameObject);
+            }
+            
+            return; 
+        }
         if (!GameManager.Instance.GetNpcFlag(npcId))
         {
             GameManager.Instance.SetNpcFlag(npcId, true);
