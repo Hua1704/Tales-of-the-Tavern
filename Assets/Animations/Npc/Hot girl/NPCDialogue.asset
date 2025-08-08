@@ -16,11 +16,11 @@ MonoBehaviour:
   npcPortrait: {fileID: 0}
   dialogueLines:
   - "Oh? You\u2019re talking to me?"
-  - "You\u2019re kind of cute..."
+  - "You\u2019re kind of cute... I like that kind of boy."
   - Hmm... bold. I like that.
   - Still... you're gonna need more than charm to win me over.
   - "Come back in two years. Then maybe I\u2019ll let you take me out."
-  - '"Wink! Wink!"'
+  - Wink!
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
@@ -32,10 +32,6 @@ MonoBehaviour:
     - "W-What? No! I was just passing by\u2026"
     - Of course I am. You caught my eye.
     nextDialogueIndices: 0100000002000000
-  - dialogueIndex: 1
-    choices:
-    - Uhh... thanks? I think?
-    nextDialogueIndices: 04000000
   - dialogueIndex: 1
     choices:
     - Uhh... thanks? I think?
