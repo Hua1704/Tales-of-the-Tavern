@@ -210,9 +210,8 @@ public class NPC : MonoBehaviour, IInteractable
         GameManager.Instance.SetWitchsBossDefeated(false);
         Debug.Log("Boss defeated status has been RESET.");
 
-        return;
     }
-        if (npcId == "witch" && dialogueData.triggersCutsceneOnEnd)
+        if (npcId == "The Witch" && dialogueData.triggersCutsceneOnEnd)
         {
             Debug.Log("Witch NPC dialogue ended, triggering cutscene...");
             StartCutsceneAndLoadNextStage();
