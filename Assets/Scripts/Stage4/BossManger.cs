@@ -9,7 +9,7 @@ public class BossManger : MonoBehaviour
         if (deathcount == 7)
         {
             GameManager.Instance.SetWitchsBossDefeated(true);
-
+            MusicManager.Instance.PlayBackgroundMusic();
         }
     }
     void Start()
