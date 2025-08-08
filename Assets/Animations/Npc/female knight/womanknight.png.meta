@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 04aa5d2718600954d94e97aef84f7431
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1516455572762082609
+    second: womanknight_0
+  - first:
+      213: -3697457744283940775
+    second: womanknight_1
+  - first:
+      213: -6693146082130098519
+    second: womanknight_2
+  - first:
+      213: 4593610377075635577
+    second: womanknight_3
+  - first:
+      213: -3151058937720549713
+    second: womanknight_4
+  - first:
+      213: 3135385919691680484
+    second: womanknight_5
+  - first:
+      213: 6609400686442741047
+    second: womanknight_6
+  - first:
+      213: -2604492163068072439
+    second: womanknight_7
+  - first:
+      213: 5848903431905542486
+    second: womanknight_8
+  - first:
+      213: -4003856369959543914
+    second: womanknight_9
+  - first:
+      213: -6608936936257755563
+    second: womanknight_10
+  - first:
+      213: 9211233169045352023
+    second: womanknight_11
+  - first:
+      213: -8731501607349823783
+    second: womanknight_12
+  - first:
+      213: -6861026059864285344
+    second: womanknight_13
+  - first:
+      213: 88421246004838263
+    second: womanknight_14
+  - first:
+      213: 6848915423016456043
+    second: womanknight_15
+  - first:
+      213: -6497692361602528682
+    second: womanknight_16
+  - first:
+      213: 2164308434575036703
+    second: womanknight_17
+  - first:
+      213: 7844502191789086424
+    second: womanknight_18
+  - first:
+      213: -6846916475892796137
+    second: womanknight_19
+  - first:
+      213: 562146399138444685
+    second: womanknight_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: womanknight_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 140
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d35241f488b0510800000000000000
+      internalID: 1516455572762082609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 140
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95840f385cdffacc0800000000000000
+      internalID: -3697457744283940775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 140
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a686d0a91b2d13a0800000000000000
+      internalID: -6693146082130098519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 140
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975342acc48cfbf30800000000000000
+      internalID: 4593610377075635577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 140
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faec8d657903544d0800000000000000
+      internalID: -3151058937720549713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 140
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaebf8c1e0238b20800000000000000
+      internalID: 3135385919691680484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 140
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d74adf7ee49bb50800000000000000
+      internalID: 6609400686442741047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 75
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ee9084d2cfadbd0800000000000000
+      internalID: -2604492163068072439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 75
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6510b48beaa7b2150800000000000000
+      internalID: 5848903431905542486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 75
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b50e848d17f68c0800000000000000
+      internalID: -4003856369959543914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 75
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556e5634fd65844a0800000000000000
+      internalID: -6608936936257755563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 75
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e6e3893cfd4df70800000000000000
+      internalID: 9211233169045352023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 75
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d65922bc8973d680800000000000000
+      internalID: -8731501607349823783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_13
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 75
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f571b562db8c0a0800000000000000
+      internalID: -6861026059864285344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 10
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f37be97a22a3100800000000000000
+      internalID: 88421246004838263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 10
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f07954a4c3c0f50800000000000000
+      internalID: 6848915423016456043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 10
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a89ee293f83d5a0800000000000000
+      internalID: -6497692361602528682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 10
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f111a33ed0b290e10800000000000000
+      internalID: 2164308434575036703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 10
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d69c557e254ddc60800000000000000
+      internalID: 7844502191789086424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 10
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715f3afddbddaf0a0800000000000000
+      internalID: -6846916475892796137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: womanknight_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 10
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d857960fb252dc700800000000000000
+      internalID: 562146399138444685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      womanknight_0: 1516455572762082609
+      womanknight_1: -3697457744283940775
+      womanknight_10: -6608936936257755563
+      womanknight_11: 9211233169045352023
+      womanknight_12: -8731501607349823783
+      womanknight_13: -6861026059864285344
+      womanknight_14: 88421246004838263
+      womanknight_15: 6848915423016456043
+      womanknight_16: -6497692361602528682
+      womanknight_17: 2164308434575036703
+      womanknight_18: 7844502191789086424
+      womanknight_19: -6846916475892796137
+      womanknight_2: -6693146082130098519
+      womanknight_20: 562146399138444685
+      womanknight_3: 4593610377075635577
+      womanknight_4: -3151058937720549713
+      womanknight_5: 3135385919691680484
+      womanknight_6: 6609400686442741047
+      womanknight_7: -2604492163068072439
+      womanknight_8: 5848903431905542486
+      womanknight_9: -4003856369959543914
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
