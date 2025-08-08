@@ -49,7 +49,6 @@ public class ChapterScrollUI : MonoBehaviour
                 statusText.color = untoldColor;
                 playButton.interactable = true;
                 playButton.onClick.AddListener(() => {
-                    // When we start an untold chapter, we set it as the current one.
                     GameManager.Instance.SetCurrentChapter(chapterInfo.chapterId);
                     SceneManager.LoadScene(chapterInfo.sceneToLoad);
                 });
@@ -57,9 +56,9 @@ public class ChapterScrollUI : MonoBehaviour
 
             case ChapterState.Locked:
                 chapterTitleText.text = ""; 
-                statusText.text = "COMING SOON";
+                statusText.text = "LOCKED";
                 statusText.color = lockedColor;
-                playButton.interactable = false;
+               
                 break;
         }
     }

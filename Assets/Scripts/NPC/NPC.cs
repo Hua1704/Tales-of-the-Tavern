@@ -252,7 +252,7 @@ public class NPC : MonoBehaviour, IInteractable
         {
             Debug.Log("Starting cutscene for NPC " + npcId);
             StartCutsceneAndLoadNextStage();
-            return; // Important: prevents the stage menu from also opening.
+            return; 
         }
  
     }
