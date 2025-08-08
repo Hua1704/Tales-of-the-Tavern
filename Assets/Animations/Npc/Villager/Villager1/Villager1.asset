@@ -15,8 +15,7 @@ MonoBehaviour:
   npcName: Villager1
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - "Oh? You\u2019re not from around here, are you?  What brings you to our quiet
-    village?"
+  - "You\u2019re not from around here, are you?  What brings you to our quiet village?"
   - "Ah\u2026 them. They only moved in a few weeks ago, so not many people know much
     about them"
   - "I saw Rika once\u2026 such a sweet little girl. Always holding her mother\u2019s
@@ -32,6 +31,15 @@ MonoBehaviour:
   choices:
   - dialogueIndex: 0
     choices:
-    - "I\u2019m looking for a mother and her child Rika. Heard they live around here\xE0"
+    - "I\u2019m looking for a mother and her child Rika. Heard they live around here."
     nextDialogueIndices: 01000000
   endDialogueLine: 0000000001
+  changeSceneOnEnd: 0
+  nextSceneName: 
+  triggerPlayStoryOnEnd: 0
+  openTabOnEnd: 0
+  tabIndexToOpen: 0
+  marksStageAsComplete: 0
+  triggersCutsceneOnEnd: 0
+  triggersBossAppearanceOnEnd: 0
+  resetsBossOnEnd: 0
