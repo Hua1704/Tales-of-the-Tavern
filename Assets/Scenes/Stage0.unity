@@ -131,6 +131,7 @@ GameObject:
   - component: {fileID: 3399908}
   - component: {fileID: 3399907}
   - component: {fileID: 3399906}
+  - component: {fileID: 3399910}
   m_Layer: 0
   m_Name: Archer_Idle_0
   m_TagString: Untagged
@@ -276,6 +277,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3399910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3399905}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cea72527b75930b41988d8e37b86eede, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!224 &16063247 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 5504211735473654736, guid: 3ed29a89481a90547925b6fb679c27a8, type: 3}
@@ -294,6 +307,7 @@ GameObject:
   - component: {fileID: 108648323}
   - component: {fileID: 108648322}
   - component: {fileID: 108648321}
+  - component: {fileID: 108648326}
   m_Layer: 0
   m_Name: wizard
   m_TagString: Untagged
@@ -464,6 +478,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &108648326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 108648320}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cea72527b75930b41988d8e37b86eede, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &267989873 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7229554429891435665, guid: 472f896477522e74ba8636e683cb0607, type: 3}
@@ -479,6 +505,23 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5657711222435690699, guid: 472f896477522e74ba8636e683cb0607, type: 3}
   m_PrefabInstance: {fileID: 1886591790}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &377125925 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -2777692151505303358, guid: f224a1faf0341a44590b676a12d7ff68, type: 3}
+  m_PrefabInstance: {fileID: 1481862666}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &377125931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 377125925}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cea72527b75930b41988d8e37b86eede, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &403785522 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4758052815053730003, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
@@ -520,6 +563,18 @@ MonoBehaviour:
   healthBarSlider: {fileID: 267989873}
   flashMaterial: {fileID: 2100000, guid: 4beb055f07aaff244873dec698d0363e, type: 3}
   duration: 0.1
+--- !u!114 &403785552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 403785522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cea72527b75930b41988d8e37b86eede, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &416948091
 GameObject:
   m_ObjectHideFlags: 0
@@ -639,6 +694,7 @@ GameObject:
   - component: {fileID: 433672557}
   - component: {fileID: 433672556}
   - component: {fileID: 433672555}
+  - component: {fileID: 433672559}
   m_Layer: 0
   m_Name: Female Knight
   m_TagString: Untagged
@@ -787,6 +843,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &433672559
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 433672554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cea72527b75930b41988d8e37b86eede, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &452551894
 GameObject:
   m_ObjectHideFlags: 0
@@ -1218,6 +1286,7 @@ GameObject:
   - component: {fileID: 569510274}
   - component: {fileID: 569510273}
   - component: {fileID: 569510272}
+  - component: {fileID: 569510276}
   m_Layer: 0
   m_Name: hottie
   m_TagString: Untagged
@@ -1366,6 +1435,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &569510276
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 569510271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cea72527b75930b41988d8e37b86eede, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &597183943
 GameObject:
   m_ObjectHideFlags: 0
@@ -1882,6 +1963,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 4758052815053730003, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       insertIndex: -1
       addedObject: {fileID: 403785545}
+    - targetCorrespondingSourceObject: {fileID: 4758052815053730003, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 403785552}
   m_SourcePrefab: {fileID: 100100000, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
 --- !u!1 &739843800
 GameObject:
@@ -2969,6 +3053,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5945793233251234739, guid: f224a1faf0341a44590b676a12d7ff68, type: 3}
+      propertyPath: m_SortingOrder
+      value: 35
+      objectReference: {fileID: 0}
     - target: {fileID: 6071018411355846530, guid: f224a1faf0341a44590b676a12d7ff68, type: 3}
       propertyPath: m_Name
       value: tavernfinal
@@ -2976,7 +3064,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: -2777692151505303358, guid: f224a1faf0341a44590b676a12d7ff68, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 377125931}
   m_SourcePrefab: {fileID: -2695619058785784247, guid: f224a1faf0341a44590b676a12d7ff68, type: 3}
 --- !u!1001 &1551739913
 PrefabInstance:
@@ -3048,6 +3139,7 @@ GameObject:
   - component: {fileID: 1575394998}
   - component: {fileID: 1575394997}
   - component: {fileID: 1575395001}
+  - component: {fileID: 1575395002}
   m_Layer: 0
   m_Name: Warrior_Idle_0
   m_TagString: Untagged
@@ -3218,6 +3310,18 @@ MonoBehaviour:
   backgroundMusic: {fileID: 0}
   musicFadeDuration: 0.75
   bossToActivate: {fileID: 0}
+--- !u!114 &1575395002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1575394996}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cea72527b75930b41988d8e37b86eede, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1759761491
 GameObject:
   m_ObjectHideFlags: 0
@@ -3232,6 +3336,7 @@ GameObject:
   - component: {fileID: 1759761492}
   - component: {fileID: 1759761497}
   - component: {fileID: 1759761496}
+  - component: {fileID: 1759761498}
   m_Layer: 0
   m_Name: Monk
   m_TagString: Untagged
@@ -3427,6 +3532,18 @@ MonoBehaviour:
   backgroundMusic: {fileID: 0}
   musicFadeDuration: 0.75
   bossToActivate: {fileID: 0}
+--- !u!114 &1759761498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759761491}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cea72527b75930b41988d8e37b86eede, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1886591790
 PrefabInstance:
   m_ObjectHideFlags: 0
