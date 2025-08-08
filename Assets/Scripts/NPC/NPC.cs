@@ -214,7 +214,7 @@ public class NPC : MonoBehaviour, IInteractable
 
         if (finishedDialogue != null && finishedDialogue.triggersBossAppearanceOnEnd)
         {
-            
+
             if (bossToActivate != null)
             {
                 bossToActivate.SetActive(true);
@@ -224,8 +224,8 @@ public class NPC : MonoBehaviour, IInteractable
             {
                 Debug.LogWarning("Dialogue is set to trigger a boss, but 'Boss To Activate' is not assigned on the NPC.", this.gameObject);
             }
-            
-            return; 
+
+            return;
         }
         if (!GameManager.Instance.GetNpcFlag(npcId))
         {
@@ -247,6 +247,26 @@ public class NPC : MonoBehaviour, IInteractable
             StartCutsceneAndLoadNextStage();
             return; // Important: prevents the stage menu from also opening.
         }
+             if (finishedDialogue != null && finishedDialogue.resetsBossOnEnd)
+    {
+       
+        GameManager.Instance.SetWitchsBossDefeated(false);
+        Debug.Log("Boss defeated status has been RESET.");
+
+       
+        if (bossToActivate != null)
+        {
+            bossToActivate.SetActive(true);
+            Debug.Log(bossToActivate.name + " has been reactivated for another fight!");
+        }
+        else
+        {
+            Debug.LogWarning("Dialogue is set to reset a boss, but 'Boss To Activate' is not assigned on the NPC.", this.gameObject);
+        }
+        
+        // After resetting, we are done.
+        return;
+    }
     }
 
     // ==================== NEW CUTSCENE + FADE + SCENE LOADING CODE ====================

@@ -330,7 +330,7 @@ MonoBehaviour:
   npcId: wizard
   firstTimeDialogue: {fileID: 11400000, guid: 7b52cb873fa47b94e9901f3cb48fbb0c, type: 2}
   subsequentDialogue: {fileID: 11400000, guid: 7b52cb873fa47b94e9901f3cb48fbb0c, type: 2}
-  postBossDialogue: {fileID: 0}
+  postBossDialogue: {fileID: 11400000, guid: 7b52cb873fa47b94e9901f3cb48fbb0c, type: 2}
   opensStageMenuOnEnd: 0
   stageNumber: 0
   fadeGroup: {fileID: 0}
@@ -717,7 +717,7 @@ MonoBehaviour:
   npcId: Female Knight
   firstTimeDialogue: {fileID: 11400000, guid: f4fe70089c05d974d8256ad5427f5642, type: 2}
   subsequentDialogue: {fileID: 11400000, guid: f4fe70089c05d974d8256ad5427f5642, type: 2}
-  postBossDialogue: {fileID: 0}
+  postBossDialogue: {fileID: 11400000, guid: f4fe70089c05d974d8256ad5427f5642, type: 2}
   opensStageMenuOnEnd: 0
   stageNumber: 0
   fadeGroup: {fileID: 0}
@@ -1355,7 +1355,7 @@ MonoBehaviour:
   npcId: hottie
   firstTimeDialogue: {fileID: 11400000, guid: 5ea7db43c2e085a4ea04446d51dc1ab7, type: 2}
   subsequentDialogue: {fileID: 11400000, guid: 5ea7db43c2e085a4ea04446d51dc1ab7, type: 2}
-  postBossDialogue: {fileID: 0}
+  postBossDialogue: {fileID: 11400000, guid: 5ea7db43c2e085a4ea04446d51dc1ab7, type: 2}
   opensStageMenuOnEnd: 0
   stageNumber: 0
   fadeGroup: {fileID: 0}
@@ -3300,7 +3300,7 @@ MonoBehaviour:
   npcId: Warrior
   firstTimeDialogue: {fileID: 11400000, guid: 440685e4c2aa4ef498d51e4873f6b2ba, type: 2}
   subsequentDialogue: {fileID: 11400000, guid: 440685e4c2aa4ef498d51e4873f6b2ba, type: 2}
-  postBossDialogue: {fileID: 0}
+  postBossDialogue: {fileID: 11400000, guid: 440685e4c2aa4ef498d51e4873f6b2ba, type: 2}
   opensStageMenuOnEnd: 0
   stageNumber: 0
   fadeGroup: {fileID: 0}
@@ -3522,7 +3522,7 @@ MonoBehaviour:
   npcId: warrior
   firstTimeDialogue: {fileID: 11400000, guid: a468e681624897a4882be9759483545a, type: 2}
   subsequentDialogue: {fileID: 11400000, guid: a468e681624897a4882be9759483545a, type: 2}
-  postBossDialogue: {fileID: 0}
+  postBossDialogue: {fileID: 11400000, guid: a468e681624897a4882be9759483545a, type: 2}
   opensStageMenuOnEnd: 0
   stageNumber: 0
   fadeGroup: {fileID: 0}
