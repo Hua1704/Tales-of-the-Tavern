@@ -210,6 +210,7 @@ MonoBehaviour:
   npcId: Rika
   firstTimeDialogue: {fileID: 11400000, guid: c036a00d913f03a4584de989e228733f, type: 2}
   subsequentDialogue: {fileID: 11400000, guid: c036a00d913f03a4584de989e228733f, type: 2}
+  postBossDialogue: {fileID: 11400000, guid: c036a00d913f03a4584de989e228733f, type: 2}
   opensStageMenuOnEnd: 0
   stageNumber: 1
   fadeGroup: {fileID: 179133903}
@@ -612,6 +613,7 @@ MonoBehaviour:
   npcId: Villager1
   firstTimeDialogue: {fileID: 11400000, guid: 786327d5d66d63148b065852797fc439, type: 2}
   subsequentDialogue: {fileID: 11400000, guid: 786327d5d66d63148b065852797fc439, type: 2}
+  postBossDialogue: {fileID: 11400000, guid: 786327d5d66d63148b065852797fc439, type: 2}
   opensStageMenuOnEnd: 0
   stageNumber: 0
   fadeGroup: {fileID: 0}
@@ -762,7 +764,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: f894b3fcffcfc5b43aac6f6ee6dbf14c, type: 3}
   m_Resource: {fileID: 8300000, guid: f894b3fcffcfc5b43aac6f6ee6dbf14c, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.3
@@ -1059,6 +1061,7 @@ MonoBehaviour:
   npcId: Villager4
   firstTimeDialogue: {fileID: 11400000, guid: c7aa1d15d7d369849acc0404a6d6bff2, type: 2}
   subsequentDialogue: {fileID: 11400000, guid: c7aa1d15d7d369849acc0404a6d6bff2, type: 2}
+  postBossDialogue: {fileID: 11400000, guid: c7aa1d15d7d369849acc0404a6d6bff2, type: 2}
   opensStageMenuOnEnd: 0
   stageNumber: 0
   fadeGroup: {fileID: 0}
@@ -1227,6 +1230,7 @@ MonoBehaviour:
   npcId: Villager2
   firstTimeDialogue: {fileID: 11400000, guid: b75a68e2acdc6144392ec01025354227, type: 2}
   subsequentDialogue: {fileID: 11400000, guid: b75a68e2acdc6144392ec01025354227, type: 2}
+  postBossDialogue: {fileID: 11400000, guid: b75a68e2acdc6144392ec01025354227, type: 2}
   opensStageMenuOnEnd: 0
   stageNumber: 0
   fadeGroup: {fileID: 0}
@@ -1426,6 +1430,7 @@ MonoBehaviour:
   npcId: Villager5
   firstTimeDialogue: {fileID: 11400000, guid: 034c5d203f83e2c44ac00940f4490730, type: 2}
   subsequentDialogue: {fileID: 11400000, guid: 034c5d203f83e2c44ac00940f4490730, type: 2}
+  postBossDialogue: {fileID: 11400000, guid: 034c5d203f83e2c44ac00940f4490730, type: 2}
   opensStageMenuOnEnd: 0
   stageNumber: 0
   fadeGroup: {fileID: 0}
@@ -1510,6 +1515,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f14a76f593cd05a4398d7d41a5934bf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerInfo: {fileID: 1868353987}
+  gameOverScreen: {fileID: 0}
 --- !u!4 &1086509179
 Transform:
   m_ObjectHideFlags: 0
@@ -1603,37 +1610,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
---- !u!224 &1355304744 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 7691462915493196939, guid: 3ed29a89481a90547925b6fb679c27a8, type: 3}
-  m_PrefabInstance: {fileID: 239905334}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1355304748
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1054859164}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Padding:
-    m_Left: 0
-    m_Right: 0
-    m_Top: 0
-    m_Bottom: 0
-  m_ChildAlignment: 7
-  m_Spacing: 0
-  m_ChildForceExpandWidth: 1
-  m_ChildForceExpandHeight: 1
-  m_ChildControlWidth: 0
-  m_ChildControlHeight: 0
-  m_ChildScaleWidth: 0
-  m_ChildScaleHeight: 0
-  m_ReverseArrangement: 1
 --- !u!1 &1473229279
 GameObject:
   m_ObjectHideFlags: 0
@@ -1663,7 +1639,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 34670ba301fb3e946b8d1d7d11c2e98f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tutorialCanvas: {fileID: 1786336241}
+  tutorialCanvas: {fileID: 0}
   tutorialPages: []
   pageSound: {fileID: 0}
 --- !u!4 &1473229281
@@ -1782,8 +1758,7 @@ Transform:
   m_GameObject: {fileID: 1614430202}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 524.94366, y: -21.44669, z: -10}
-  m_LocalPosition: {x: 524.9533, y: -21.44669, z: -10}
+  m_LocalPosition: {x: 524.9229, y: -21.44669, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1855,6 +1830,7 @@ MonoBehaviour:
   npcId: Villager3
   firstTimeDialogue: {fileID: 11400000, guid: c79c2fd3d1dbeda46aa4969035aeaf6b, type: 2}
   subsequentDialogue: {fileID: 11400000, guid: c79c2fd3d1dbeda46aa4969035aeaf6b, type: 2}
+  postBossDialogue: {fileID: 11400000, guid: c79c2fd3d1dbeda46aa4969035aeaf6b, type: 2}
   opensStageMenuOnEnd: 0
   stageNumber: 0
   fadeGroup: {fileID: 0}
@@ -1970,7 +1946,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8934211826448944593, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.29856366
+      value: 0.23523968
       objectReference: {fileID: 0}
     - target: {fileID: 8934211826448944593, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_LocalPosition.y
@@ -2023,6 +1999,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 8900120696924503050, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
   m_PrefabInstance: {fileID: 1868353977}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1868353987 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4885639348591151918, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
+  m_PrefabInstance: {fileID: 1868353977}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1868353978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caecb53928df094478a588bcc95e8333, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1959144153 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3446890525220542062, guid: f64a37d56e371f643b32d5b457a33d79, type: 3}
@@ -2267,5 +2254,4 @@ SceneRoots:
   - {fileID: 343694383}
   - {fileID: 412015025}
   - {fileID: 544869781}
-  - {fileID: 1786336240}
   - {fileID: 1473229281}

@@ -8149,7 +8149,7 @@ MonoBehaviour:
   npcId: Mother
   firstTimeDialogue: {fileID: 11400000, guid: 20dcbd1c7b924da40a048dc733cc1f69, type: 2}
   subsequentDialogue: {fileID: 11400000, guid: 20dcbd1c7b924da40a048dc733cc1f69, type: 2}
-  postBossDialogue: {fileID: 0}
+  postBossDialogue: {fileID: 11400000, guid: 20dcbd1c7b924da40a048dc733cc1f69, type: 2}
   opensStageMenuOnEnd: 0
   stageNumber: 2
   fadeGroup: {fileID: 1509885784}

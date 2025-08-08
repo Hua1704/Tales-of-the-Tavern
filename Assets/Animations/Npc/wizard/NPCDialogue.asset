@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
+  m_Name: NPCDialogue
+  m_EditorClassIdentifier: 
+  npcName: Weird Wizard
+  npcPortrait: {fileID: 0}
+  dialogueLines:
+  - Want my potions?
+  - Come back in a century. I might be in the mood.
+  typingSpeed: 0.1
+  voiceLines: []
+  voiceVolume: 1
+  autoProgressLines: 0101
+  autoProgressLineDelay: 2
+  choices: []
+  endDialogueLine: 
+  changeSceneOnEnd: 0
+  nextSceneName: 
+  triggerPlayStoryOnEnd: 0
+  openTabOnEnd: 0
+  tabIndexToOpen: 0
+  marksStageAsComplete: 0
+  triggersCutsceneOnEnd: 0
+  triggersBossAppearanceOnEnd: 0
