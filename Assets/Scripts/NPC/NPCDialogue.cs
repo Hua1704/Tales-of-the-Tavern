@@ -23,7 +23,7 @@ public class NPCDialogue : ScriptableObject
     public bool marksStageAsComplete;
     public bool triggersCutsceneOnEnd;
     public bool triggersBossAppearanceOnEnd; 
-    
+    public bool resetsBossOnEnd;
 
 }
 [System.Serializable]
