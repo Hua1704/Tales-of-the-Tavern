@@ -12,6 +12,7 @@ public class NPC : MonoBehaviour, IInteractable
     public string npcId;
     public NPCDialogue firstTimeDialogue;
     public NPCDialogue subsequentDialogue;
+    public NPCDialogue postBossDialogue;
     private NPCDialogue dialogueData;
     public bool opensStageMenuOnEnd;
     private int dialogueIndex;
@@ -53,9 +54,12 @@ public class NPC : MonoBehaviour, IInteractable
     public void Interact()
     {
         Debug.Log($"NPC {npcId} Interact called. isDialogueActive={isDialogueActive}");
-
+           if (GameManager.Instance.IsWitchsBossDefeated())
+            {
+                dialogueData = postBossDialogue;
+            }
         // Check which dialogue to use based on the save file
-        if (GameManager.Instance.GetNpcFlag(npcId))
+        else if (GameManager.Instance.GetNpcFlag(npcId))
         {
             dialogueData = subsequentDialogue;
             Debug.Log($"NPC {npcId}: Using subsequent dialogue.");

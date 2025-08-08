@@ -281,7 +281,7 @@ Transform:
   m_GameObject: {fileID: 416948091}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.8158346, y: 0.11766943, z: -8.3493}
+  m_LocalPosition: {x: 1.7863655, y: 0.11766943, z: -8.3493}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -668,7 +668,8 @@ Transform:
   m_GameObject: {fileID: 532416079}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.8158346, y: 0.11766943, z: -8.3493}
+  m_LocalPosition: {x: 1.8233275, y: 0.11766943, z: -8.3493}
+  m_LocalPosition: {x: 1.7863655, y: 0.11766943, z: -8.3493}
   m_LocalScale: {x: 1.3818347, y: 1.273733, z: 1.198469}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1005,6 +1006,7 @@ MonoBehaviour:
   nextStageName: 
   backgroundMusic: {fileID: 0}
   musicFadeDuration: 0.75
+  bossToActivate: {fileID: 0}
 --- !u!212 &642465178
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1227,6 +1229,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f14a76f593cd05a4398d7d41a5934bf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerInfo: {fileID: 0}
+  gameOverScreen: {fileID: 0}
 --- !u!4 &739843802
 Transform:
   m_ObjectHideFlags: 0
@@ -1354,7 +1358,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 11, y: 11}
+  m_AnchoredPosition: {x: -29, y: 23}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &920051528
@@ -1377,7 +1381,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: YOUR JOURNEY
+  m_text: 'YOUR
+
+    JOURNEY'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1410,8 +1416,8 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
-  m_HorizontalAlignment: 1
+  m_fontStyle: 3
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -1491,7 +1497,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 67.121544, y: -81.65106}
+  m_AnchoredPosition: {x: 0, y: -81}
   m_SizeDelta: {x: 424.1939, y: 127.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &937209961
@@ -1582,7 +1588,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1123217362483290328, guid: 3ed29a89481a90547925b6fb679c27a8, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1423992871892238053, guid: 3ed29a89481a90547925b6fb679c27a8, type: 3}
       propertyPath: m_Name
@@ -1912,7 +1918,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1308782512}
         m_TargetAssemblyTypeName: JourneyMenuController, Assembly-CSharp
-        m_MethodName: CloseMenu
+        m_MethodName: DisableStageMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2141,6 +2147,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 071eb761bb8fe434ea82f48f8124d790, type: 2}
   - {fileID: 11400000, guid: ed6955311e4b403458395ae570d8370b, type: 2}
   numberOfComingSoonScrolls: 2
+  StagePanel: {fileID: 1308782508}
 --- !u!1 &1369422587 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1123217362483290328, guid: 3ed29a89481a90547925b6fb679c27a8, type: 3}

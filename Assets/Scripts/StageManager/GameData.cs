@@ -10,6 +10,8 @@ public class GameData
     // Dictionary to store NPC interaction flags. Key: unique NPC ID, Value: true/false
     public SerializableDictionary<string, bool> npcInteractedFlags;
     public string currentChapterId;
+    public bool isWitchsBossDefeated; // Defaults to false
+
 
     // The constructor is called when we create a new game state
     public GameData()
@@ -17,5 +19,6 @@ public class GameData
         stagesCompleted = new SerializableDictionary<string, bool>();
         npcInteractedFlags = new SerializableDictionary<string, bool>();
         currentChapterId = "";
+        isWitchsBossDefeated = false;
     }
 }

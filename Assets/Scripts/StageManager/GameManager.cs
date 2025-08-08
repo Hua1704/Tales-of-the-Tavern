@@ -14,7 +14,7 @@ public class GameManager : MonoBehaviour
         {
             Instance = this;
             DontDestroyOnLoad(gameObject); // Persist across scenes
-            
+
             // Initialize and load the game
             SaveSystem.Init();
             gameData = SaveSystem.LoadGame();
@@ -25,15 +25,15 @@ public class GameManager : MonoBehaviour
         }
     }
     public string GetCurrentChapter()
-{
-    return gameData.currentChapterId;
-}
+    {
+        return gameData.currentChapterId;
+    }
 
-public void SetCurrentChapter(string chapterId)
-{
-    gameData.currentChapterId = chapterId;
-    SaveSystem.SaveGame(gameData); // Save immediately when the current chapter changes.
-}
+    public void SetCurrentChapter(string chapterId)
+    {
+        gameData.currentChapterId = chapterId;
+        SaveSystem.SaveGame(gameData); // Save immediately when the current chapter changes.
+    }
     // --- NPC Flag Methods ---
     public bool GetNpcFlag(string npcId)
     {
@@ -77,8 +77,9 @@ public void SetCurrentChapter(string chapterId)
     }
     private void Update()
     {
-        if (playerInfo.health == 0 && gameOverScreen!=null && !gameOverScreen.activeSelf)
+        if ((playerInfo.health == 0 || playerInfo == null) && gameOverScreen != null && !gameOverScreen.activeSelf)
         {
+            Debug.Log("Game Over");
             gameOverScreen.SetActive(true);
         }
     }
@@ -89,5 +90,23 @@ public void SetCurrentChapter(string chapterId)
     public void OnPressMainMenu()
     {
         SceneManager.LoadScene("Main Menu");
+    }
+    public void SetWitchsBossDefeated(bool status)
+    {
+        if (gameData != null)
+        {
+            gameData.isWitchsBossDefeated = status;
+            SaveSystem.SaveGame(gameData); // Save the progress immediately
+            Debug.Log("Witch's Boss Defeated status saved!");
+        }
+    }
+
+    public bool IsWitchsBossDefeated()
+    {
+        if (gameData != null)
+        {
+            return gameData.isWitchsBossDefeated;
+        }
+        return false; 
     }
 }

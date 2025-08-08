@@ -12,16 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
   m_Name: Witch1
   m_EditorClassIdentifier: 
-  npcName: 
+  npcName: The witch
   npcPortrait: {fileID: 0}
-  dialogueLines: []
+  dialogueLines:
+  - "Well, well\u2026 you\u2019re full of surprises."
+  - No matter.
+  - My Lord... deserves a better story.
+  - "Next time, dear hero\u2026"
+  - The play will be so much better.
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
   autoProgressLines: 
   autoProgressLineDelay: 2
   choices: []
-  endDialogueLine: 
+  endDialogueLine: 0000000001
   changeSceneOnEnd: 0
   nextSceneName: 
   triggerPlayStoryOnEnd: 0
@@ -29,3 +34,4 @@ MonoBehaviour:
   tabIndexToOpen: 0
   marksStageAsComplete: 0
   triggersCutsceneOnEnd: 0
+  triggersBossAppearanceOnEnd: 0
