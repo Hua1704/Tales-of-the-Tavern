@@ -22,7 +22,6 @@ public class BaseUnit : MonoBehaviour
     protected Material originalMaterial;
     protected Coroutine flashRoutine;
 
-
     public void Start()
     {
         if (!_isInitialized)

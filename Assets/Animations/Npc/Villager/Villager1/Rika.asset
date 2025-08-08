@@ -28,8 +28,9 @@ MonoBehaviour:
   - "\u201CIf morning comes and I\u2019m still gone, seek a kind adventurer\u2026
     one whose heart is pure and willing to help those in need.\u201D"
   - "I didn\u2019t know how to reach the tavern, so\u2026 I wrote a letter. I didn\u2019t
-    even know if it would work. But then\u2026 this big black bird appeared out of
-    nowhere. It just\u2026 took the letter and flew away."
+    even know if it would work."
+  - "But then\u2026 this big black bird appeared out of nowhere. It just\u2026 took
+    the letter and flew away."
   - "Yes\u2026 I\u2019ve been standing in front of our house all morning, hoping
     Mama would come back."
   - "Or\u2026 that someone would come to help."
@@ -39,7 +40,7 @@ MonoBehaviour:
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
-  autoProgressLines: 01000001000001010100000101000101
+  autoProgressLines: 0100000100000101010001000101000101
   autoProgressLineDelay: 2
   choices:
   - dialogueIndex: 1
@@ -51,16 +52,16 @@ MonoBehaviour:
     choices:
     - What happened? Do you remember where she went?
     nextDialogueIndices: 06000000
-  - dialogueIndex: 10
+  - dialogueIndex: 11
     choices:
     - "That must be the letter I received\u2026 You\u2019ve been waiting here ever
       since?"
-    nextDialogueIndices: 0b000000
-  - dialogueIndex: 13
+    nextDialogueIndices: 0c000000
+  - dialogueIndex: 14
     choices:
     - "I\u2019ll find your mother, Rika. You can count on me."
     - Guess I showed up just in time, huh?
-    nextDialogueIndices: 0e0000000e000000
+    nextDialogueIndices: 0f0000000f000000
   endDialogueLine: 00000000000000000000000000000001
   changeSceneOnEnd: 1
   nextSceneName: Stage2
@@ -69,3 +70,5 @@ MonoBehaviour:
   tabIndexToOpen: 0
   marksStageAsComplete: 1
   triggersCutsceneOnEnd: 1
+  triggersBossAppearanceOnEnd: 0
+  resetsBossOnEnd: 0
