@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="40" height="60" tilewidth="16" tileheight="16" infinite="0" nextlayerid="9" nextobjectid="386">
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="40" height="60" tilewidth="16" tileheight="16" infinite="0" nextlayerid="9" nextobjectid="404">
  <tileset firstgid="1" name="Abandoned" tilewidth="63" tileheight="81" tilecount="1" columns="1">
   <image source="Abandoned.png" width="63" height="81"/>
  </tileset>
- <tileset firstgid="2" source="../../../../../Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Objects_Trees.tsx"/>
+ <tileset firstgid="2" source="../Tilesets/Objects_Trees.tsx"/>
  <tileset firstgid="13" name="TilesetFloor" tilewidth="16" tileheight="16" tilecount="572" columns="22">
   <image source="TilesetFloor.png" width="352" height="417"/>
  </tileset>
- <tileset firstgid="585" source="../../../../../Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Tileset_Ground.tsx"/>
- <tileset firstgid="717" source="../../../../../Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Tileset_RockSlope.tsx"/>
- <tileset firstgid="4813" source="../../../../../Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Tileset_RockSlope_Simple.tsx"/>
- <tileset firstgid="4867" source="../../../../../Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Tileset_Water.tsx"/>
- <tileset firstgid="5179" source="../../../../../Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Animation_Flowers_Red.tsx"/>
- <tileset firstgid="5275" source="../../../../../Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Animation_Flowers_White.tsx"/>
- <tileset firstgid="5371" source="../../../../../Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Objects_Rocks.tsx"/>
- <tileset firstgid="5376" source="../../../../../Downloads/The Fan-tasy Tileset (Free) 1.5.1/The Fan-tasy Tileset (Free)/Tiled/Tilesets/Objects_Props.tsx"/>
+ <tileset firstgid="585" source="../Tilesets/Tileset_Ground.tsx"/>
+ <tileset firstgid="717" source="../Tilesets/Tileset_RockSlope.tsx"/>
+ <tileset firstgid="4813" source="../Tilesets/Tileset_RockSlope_Simple.tsx"/>
+ <tileset firstgid="4867" source="../Tilesets/Tileset_Water.tsx"/>
+ <tileset firstgid="5179" source="../Tilesets/Animation_Flowers_Red.tsx"/>
+ <tileset firstgid="5275" source="../Tilesets/Animation_Flowers_White.tsx"/>
+ <tileset firstgid="5371" source="../Tilesets/Objects_Rocks.tsx"/>
+ <tileset firstgid="5376" source="../Tilesets/Objects_Props.tsx"/>
  <tileset firstgid="5395" name="frog" tilewidth="16" tileheight="16" tilecount="2" columns="2">
   <image source="frog.png" width="32" height="16"/>
  </tileset>
@@ -565,16 +565,11 @@
   <object id="350" x="504.375" y="336" width="12.875" height="10">
    <ellipse/>
   </object>
-  <object id="352" x="160.5" y="512.5" width="15.75" height="15.75"/>
   <object id="353" x="112.5" y="480.5" width="15.5" height="15.25"/>
-  <object id="354" x="111" y="560" width="17.25" height="16.5"/>
-  <object id="355" x="128.5" y="576.25" width="15" height="15.75"/>
-  <object id="356" x="176.5" y="608.25" width="16" height="16.5"/>
-  <object id="357" x="192" y="625" width="15.75" height="15"/>
+  <object id="356" x="176.5" y="608.25" width="16" height="16.5">
+   <polygon points="5.49457,1.6413 9.54891,1.61413 13.5571,3.86141 13.6264,10.7242 15.5958,11.6121 15.6522,15.7609 -0.521739,15.7609 -0.521739,11.788 1.58152,10.6168 1.51359,3.86821"/>
+  </object>
   <object id="358" x="208.5" y="640.5" width="15.5" height="15"/>
-  <object id="359" x="209" y="560.75" width="15" height="14.75"/>
-  <object id="360" x="256.5" y="528.5" width="15.25" height="15"/>
-  <object id="361" x="239.25" y="480.25" width="17.25" height="16"/>
   <object id="362" x="288" y="592.25" width="16.5" height="15.25"/>
   <object id="363" x="288.75" y="655.5" width="15" height="16"/>
   <object id="364" x="416.5" y="527.75" width="15.25" height="16.5"/>
@@ -586,7 +581,6 @@
   <object id="372" x="336.667" y="560.333" width="15" height="15.3333"/>
   <object id="373" x="401.333" y="576" width="14.3333" height="15.6667"/>
   <object id="374" x="496.333" y="608.667" width="15.3333" height="15.3333"/>
-  <object id="375" x="352.667" y="623.667" width="15.3333" height="16.6667"/>
   <object id="376" x="464.667" y="767.667" width="15" height="31.6667"/>
   <object id="377" x="512.333" y="785" width="15.6667" height="14.6667"/>
   <object id="378" x="481" y="735.667" width="14.3333" height="15.3333"/>
@@ -597,5 +591,36 @@
   <object id="383" x="417.333" y="639.333" width="15.3333" height="17"/>
   <object id="384" x="463.333" y="671.667" width="16.6667" height="17"/>
   <object id="385" x="496" y="687.333" width="16" height="17"/>
+  <object id="386" x="352.375" y="624.344" width="16" height="16.5">
+   <polygon points="5.49457,1.6413 9.54891,1.61413 13.5571,3.86141 13.6264,10.7242 15.5958,11.6121 15.6522,15.7609 -0.521739,15.7609 -0.521739,11.788 1.58152,10.6168 1.51359,3.86821"/>
+  </object>
+  <object id="387" x="208.5" y="560.313" width="16" height="16.5">
+   <polygon points="5.49457,1.6413 9.54891,1.61413 13.5571,3.86141 13.6264,10.7242 15.5958,11.6121 15.6522,15.7609 -0.521739,15.7609 -0.521739,11.788 1.58152,10.6168 1.51359,3.86821"/>
+  </object>
+  <object id="388" x="128.636" y="576.659" width="16" height="16.5">
+   <polygon points="5.49457,1.6413 9.54891,1.61413 13.5571,3.86141 13.6264,10.7242 15.5958,11.6121 15.6522,15.7609 -0.521739,15.7609 -0.521739,11.788 1.58152,10.6168 1.51359,3.86821"/>
+  </object>
+  <object id="389" x="112.625" y="560.375" width="16" height="16.5">
+   <polygon points="5.49457,1.6413 9.54891,1.61413 13.5571,3.86141 13.6264,10.7242 15.5958,11.6121 15.6522,15.7609 -0.521739,15.7609 -0.521739,11.788 1.58152,10.6168 1.51359,3.86821"/>
+  </object>
+  <object id="390" x="160.25" y="512.375" width="16" height="16.5">
+   <polygon points="5.49457,1.6413 9.54891,1.61413 13.5571,3.86141 13.6264,10.7242 15.5958,11.6121 15.6522,15.7609 -0.521739,15.7609 -0.521739,11.788 1.58152,10.6168 1.51359,3.86821"/>
+  </object>
+  <object id="391" x="240.75" y="480.5" width="16" height="16.5">
+   <polygon points="5.49457,1.6413 9.54891,1.61413 13.5571,3.86141 13.6264,10.7242 15.5958,11.6121 15.6522,15.7609 -0.521739,15.7609 -0.521739,11.788 1.58152,10.6168 1.51359,3.86821"/>
+  </object>
+  <object id="392" x="256.25" y="528.5" width="16" height="16.5">
+   <polygon points="5.49457,1.6413 9.54891,1.61413 13.5571,3.86141 13.6264,10.7242 15.5958,11.6121 15.6522,15.7609 -0.521739,15.7609 -0.521739,11.788 1.58152,10.6168 1.51359,3.86821"/>
+  </object>
+  <object id="393" x="192.667" y="624.144" width="16" height="16.5">
+   <polygon points="5.49457,1.6413 9.54891,1.61413 13.5571,3.86141 13.6264,10.7242 15.5958,11.6121 15.6522,15.7609 -0.521739,15.7609 -0.521739,11.788 1.58152,10.6168 1.51359,3.86821"/>
+  </object>
+  <object id="395" x="337.5" y="879.5" width="191.5" height="19.5"/>
+  <object id="397" x="80" y="880" width="256" height="16"/>
+  <object id="399" x="355.75" y="819.417" width="40.6667" height="58.8333"/>
+  <object id="400" x="464.917" y="800.583" width="96.1667" height="79.3333"/>
+  <object id="401" x="338.417" y="848.583" width="45.1667" height="26.8333"/>
+  <object id="402" x="371.917" y="801.583" width="59.6667" height="26.8333"/>
+  <object id="403" x="110.5" y="127" width="80.5" height="73"/>
  </objectgroup>
 </map>
