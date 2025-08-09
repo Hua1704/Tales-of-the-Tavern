@@ -2474,7 +2474,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6246303527169295305, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.000017166138
+      value: -0.000032424927
       objectReference: {fileID: 0}
     - target: {fileID: 6246303527169297653, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchorMax.x
@@ -2566,7 +2566,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6246303527169321845, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.000005722046
+      value: -0.00002861023
       objectReference: {fileID: 0}
     - target: {fileID: 6246303527169329325, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchorMax.x
@@ -2877,6 +2877,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2185016455705338309, guid: 10b63e3415e56c349bdacf67dec611e7, type: 3}
+      propertyPath: fadeDuration
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 2185016455705338309, guid: 10b63e3415e56c349bdacf67dec611e7, type: 3}
+      propertyPath: backgroundMusic
+      value: 
+      objectReference: {fileID: 632518213}
     - target: {fileID: 5853058947671373624, guid: 10b63e3415e56c349bdacf67dec611e7, type: 3}
       propertyPath: m_SizeDelta.x
       value: 0
@@ -6394,7 +6402,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1023522082142903598, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: attackDamage
-      value: 5
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2645528342154384081, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: moveSpeed
@@ -6402,11 +6410,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3225027976031727042, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: attackDamage
-      value: 5
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3695726485492520969, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: attackDamage
-      value: 5
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4112629037956126564, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_Enabled
@@ -6430,7 +6438,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6485847846810430454, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: attackDamage
-      value: 5
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 8356081978992853949, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_VideoClip
