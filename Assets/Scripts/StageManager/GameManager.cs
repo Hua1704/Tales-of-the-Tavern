@@ -19,6 +19,7 @@ public class GameManager : MonoBehaviour
             // Initialize and load the game
             SaveSystem.Init();
             gameData = SaveSystem.LoadGame();
+            
         }
         else
         {
@@ -78,6 +79,12 @@ public class GameManager : MonoBehaviour
     }
     private void Update()
     {
+        if(playerInfo == null && gameOverScreen == null)
+        {
+            playerInfo = GameObject.FindGameObjectWithTag("Player").GetComponent<BaseUnit>();
+            gameOverScreen = GameObject.Find("GameOver").GetComponentInChildren<BoxCollider2D>(true).gameObject;
+            deathCamera = gameOverScreen.GetComponentInChildren<Camera>(true);
+        }
         if ((playerInfo.health == 0 || playerInfo == null) && gameOverScreen != null && !gameOverScreen.activeSelf)
         {
             Debug.Log("Game Over");

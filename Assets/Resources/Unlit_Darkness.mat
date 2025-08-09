@@ -29,14 +29,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _LightRadius: 1.5
+    - _LightRadius: -1000
     - _SmoothEdge: 1
     - _Softness: 0.15
     - _StartRadius: 1.5
     m_Colors:
     - _Color: {r: 0, g: 0, b: 0, a: 1}
     - _PlayerPos: {r: 0.5, g: 0.5, b: 0, a: 0}
-    - _PlayerWorldPos: {r: 4.122508, g: 0.07476196, b: 0, a: 0}
+    - _PlayerWorldPos: {r: 6.11, g: 2.95, b: 0, a: 0}
     - _StartWorldPos: {r: 6.13, g: 2.71, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

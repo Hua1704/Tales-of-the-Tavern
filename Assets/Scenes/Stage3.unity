@@ -837,7 +837,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6246303527169295305, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.000032424927
+      value: -0.00001335144
       objectReference: {fileID: 0}
     - target: {fileID: 6246303527169297653, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchorMax.x
@@ -929,7 +929,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6246303527169321845, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.000020980835
+      value: 0.00004386902
       objectReference: {fileID: 0}
     - target: {fileID: 6246303527169329325, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchorMax.x
@@ -6012,6 +6012,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: FadedCanvas
       objectReference: {fileID: 0}
+    - target: {fileID: 20564163244063577, guid: 6f4911eada04ac34690fcc294583fb8e, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 557971701107822331, guid: 6f4911eada04ac34690fcc294583fb8e, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -6090,6 +6094,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 557971701107822331, guid: 6f4911eada04ac34690fcc294583fb8e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3339530370013586588, guid: 6f4911eada04ac34690fcc294583fb8e, type: 3}
+      propertyPath: m_BlocksRaycasts
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -6227,7 +6235,6 @@ SceneRoots:
   - {fileID: 996505188}
   - {fileID: 245253929}
   - {fileID: 1743689809}
-  - {fileID: 908257872007608362}
   - {fileID: 1392426038}
   - {fileID: 35729361}
   - {fileID: 772880914}
@@ -6238,3 +6245,4 @@ SceneRoots:
   - {fileID: 2000707816}
   - {fileID: 123101492}
   - {fileID: 783765408}
+  - {fileID: 908257872007608362}
