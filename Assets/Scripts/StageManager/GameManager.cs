@@ -7,6 +7,7 @@ public class GameManager : MonoBehaviour
     private GameData gameData;
     public BaseUnit playerInfo;
     public GameObject gameOverScreen;
+     [SerializeField] private Camera deathCamera;
     void Awake()
     {
         // Singleton pattern to ensure only one GameManager exists
@@ -18,6 +19,7 @@ public class GameManager : MonoBehaviour
             // Initialize and load the game
             SaveSystem.Init();
             gameData = SaveSystem.LoadGame();
+            
         }
         else
         {
@@ -77,10 +79,27 @@ public class GameManager : MonoBehaviour
     }
     private void Update()
     {
+        if(playerInfo == null && gameOverScreen == null)
+        {
+            playerInfo = GameObject.FindGameObjectWithTag("Player").GetComponent<BaseUnit>();
+            GameObject gameOver = GameObject.Find("GameOver");
+            if ( gameOver!=null)
+            {
+                gameOverScreen = gameOver.GetComponentInChildren<BoxCollider2D>(true).gameObject;
+                deathCamera = gameOverScreen.GetComponentInChildren<Camera>(true);
+            }
+            else
+            {
+                gameOverScreen = null;
+            }
+            
+        }
         if ((playerInfo.health == 0 || playerInfo == null) && gameOverScreen != null && !gameOverScreen.activeSelf)
         {
             Debug.Log("Game Over");
+            deathCamera.enabled = true;
             gameOverScreen.SetActive(true);
+             
         }
     }
     public void OnPressRetry()

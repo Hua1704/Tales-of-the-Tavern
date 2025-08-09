@@ -86,13 +86,14 @@ public class NPC : MonoBehaviour, IInteractable
     }
 
     void StartDialogue()
-    {
+    {   
+        Pause.Instance.SetPause(true);
         Debug.Log($"NPC {npcId}: Starting dialogue.");
         isDialogueActive = true;
         dialogueIndex = 0;
         dialogueController.SetNPCInfo(dialogueData.npcName);
         dialogueController.ShowDialogueUI(true);
-
+        
         DisplayCurrentLine();
     }
 
@@ -157,13 +158,13 @@ public class NPC : MonoBehaviour, IInteractable
         foreach (char letter in dialogueData.dialogueLines[dialogueIndex])
         {
             dialogueController.SetDialogueText(dialogueController.dialogueText.text + letter);
-            yield return new WaitForSeconds(dialogueData.typingSpeed);
+             yield return new WaitForSecondsRealtime(dialogueData.typingSpeed);
         }
         isTyping = false;
 
         if (dialogueData.autoProgressLines.Length > dialogueIndex && dialogueData.autoProgressLines[dialogueIndex])
         {
-            yield return new WaitForSeconds(dialogueData.autoProgressLineDelay);
+             yield return new WaitForSecondsRealtime(dialogueData.autoProgressLineDelay);
             Nextline();
         }
     }
@@ -203,14 +204,15 @@ public class NPC : MonoBehaviour, IInteractable
         dialogueIndex = 0;
         dialogueController.SetDialogueText("");
         dialogueController.nameText.text = "";
-        PauseController.SetPause(false);
+        Pause.Instance.SetPause(false);
+        
             if (finishedDialogue != null && finishedDialogue.resetsBossOnEnd)
-    {
-       
-        GameManager.Instance.SetWitchsBossDefeated(false);
-        Debug.Log("Boss defeated status has been RESET.");
+        {
 
-    }
+            GameManager.Instance.SetWitchsBossDefeated(false);
+            Debug.Log("Boss defeated status has been RESET.");
+
+        }
         if (npcId == "The Witch" && dialogueData.triggersCutsceneOnEnd)
         {
             Debug.Log("Witch NPC dialogue ended, triggering cutscene...");
