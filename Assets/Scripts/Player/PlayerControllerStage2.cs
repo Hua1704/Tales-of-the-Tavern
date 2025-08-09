@@ -29,6 +29,7 @@ public class PlayerControllerStage2 : MonoBehaviour
     private Vector2 slideDirection;
     private float lastAttackTime=0f;
     private float attackCooldown = 0.35f;
+    private AudioSource pickupSound;
     private void Awake()
     {
         playerControls = new PlayerControls();
@@ -37,6 +38,7 @@ public class PlayerControllerStage2 : MonoBehaviour
         mySpriteRenderer = GetComponent<SpriteRenderer>();
         playerCollider = GetComponent<Collider2D>(); // Get our own collider
         playerInfo=GetComponent<BaseUnit>();
+        pickupSound = GetComponent<AudioSource>();
     }
 
     private void OnEnable()
@@ -171,6 +173,10 @@ public class PlayerControllerStage2 : MonoBehaviour
         else if(other.gameObject.CompareTag("Heal")){
             playerInfo.OnHeal(1);
             Destroy(other.gameObject);
+            if (pickupSound != null)
+            {
+                pickupSound.PlayOneShot(pickupSound.clip);
+            }
         }
     }
 
