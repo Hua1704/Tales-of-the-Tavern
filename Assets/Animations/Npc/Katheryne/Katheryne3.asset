@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
+  m_Name: Katheryne3
+  m_EditorClassIdentifier: 
+  npcName: Katheryne
+  npcPortrait: {fileID: 0}
+  dialogueLines:
+  - Tell me... do you believe in the words of a child?
+  - "This morning, a letter arrived\u2014no sender, no knock. Just a slip of paper
+    left beneath the door. "
+  - "The handwriting was shaky\u2026 small. A name at the bottom: Rika."
+  - "She wrote that her mother had gone into the forest to gather herbs\u2026 and
+    never came back."
+  - "I\u2019ll be honest with you\u2014this isn\u2019t the kind of job that comes
+    with coin or glory. There\u2019s no bounty posted, no reward promised. Just a
+    child\u2019s plea."
+  - "Still... something about that letter\u2014it stayed with me. Like her words
+    were heavier than the paper they were written on."
+  - And there are rumors, you know. Strange, unexplainable things in those woods
+    lately.
+  - "This time\u2026 it might be more than just a child\u2019s imagination."
+  typingSpeed: 0.05
+  voiceLines: []
+  voiceVolume: 1
+  autoProgressLines: 
+  autoProgressLineDelay: 2
+  choices:
+  - dialogueIndex: 7
+    choices:
+    - A hero like me can not let her down.
+    - Well, I guess my nap can wait.
+    nextDialogues:
+    - {fileID: 11400000, guid: b10ab27b77f12284287afe71a4766b22, type: 2}
+    - {fileID: 11400000, guid: b10ab27b77f12284287afe71a4766b22, type: 2}
+  endDialogueLine: 
+  changeSceneOnEnd: 0
+  nextSceneName: 
+  triggerPlayStoryOnEnd: 0
+  openTabOnEnd: 0
+  tabIndexToOpen: 0
+  marksStageAsComplete: 0
+  triggersCutsceneOnEnd: 0
+  triggersBossAppearanceOnEnd: 0
+  resetsBossOnEnd: 0
+  opensStageMenuOnEnd: 0

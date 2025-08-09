@@ -10,26 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
-  m_Name: NPCDialogue
+  m_Name: Villager4 1
   m_EditorClassIdentifier: 
-  npcName: Hot girl
+  npcName: Kid2
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - "Oh? You\u2019re talking to me?"
+  - "I knew it! One time I asked, and she just grinned and said: \u201CFollow the
+    path with the most pine trees! You\u2019ll find it!\u201D"
+  - I tried it once, but I got distracted by squirrels... good luck though!
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
-  autoProgressLines: 01
+  autoProgressLines: 
   autoProgressLineDelay: 2
-  choices:
-  - dialogueIndex: 0
-    choices:
-    - "W-What? No! I was just passing by\u2026"
-    - Of course I am. You caught my eye.
-    nextDialogues:
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-  endDialogueLine: 
+  choices: []
+  endDialogueLine: 0001
   changeSceneOnEnd: 0
   nextSceneName: 
   triggerPlayStoryOnEnd: 0

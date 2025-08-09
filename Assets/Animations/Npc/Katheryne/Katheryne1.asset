@@ -10,25 +10,27 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
-  m_Name: NPCDialogue
+  m_Name: Katheryne1
   m_EditorClassIdentifier: 
-  npcName: Hot girl
+  npcName: Katheryne
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - "Oh? You\u2019re talking to me?"
+  - 'This is the place where adventurers gather after long days of hunting monsters,
+    unearthing ruins, or running from angry mobs. '
+  - "A little peace, a lot of stories, and sometimes\u2026 a new adventure."
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
-  autoProgressLines: 01
+  autoProgressLines: 
   autoProgressLineDelay: 2
   choices:
-  - dialogueIndex: 0
+  - dialogueIndex: 1
     choices:
-    - "W-What? No! I was just passing by\u2026"
-    - Of course I am. You caught my eye.
+    - I can't wait anymore.
+    - Do we get Primogems after a quest?
     nextDialogues:
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
+    - {fileID: 11400000, guid: da911330d69ead94d9b416ce7c576ea2, type: 2}
+    - {fileID: 11400000, guid: da911330d69ead94d9b416ce7c576ea2, type: 2}
   endDialogueLine: 
   changeSceneOnEnd: 0
   nextSceneName: 

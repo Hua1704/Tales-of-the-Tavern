@@ -17,60 +17,27 @@ MonoBehaviour:
   dialogueLines:
   - 'Ah, welcome to the "Untold Tales" Tavern. You must be new around here. '
   - This is your first time?
-  - This is the place where adventurers gather after long days of hunting monsters,
-    unearthing ruins, or running from angry mobs.
-  - "A little peace, a lot of stories, and sometimes\u2026 a new adventure."
-  - "There\u2019s always someone in need... if you\u2019re still up for the adventure."
-  - Tell me... do you believe in the words of a child?
-  - This morning, a little girl named Rika came by, holding a wrinkled letter close
-    to her chest.
-  - "She said her mother went into the forest to search for herbs\u2026 but never
-    returned."
-  - "I\u2019ll be honest with you\u2014this request doesn\u2019t come with a proper
-    reward. No gold, no bounty. Just... a plea."
-  - Lately, strange things have been happening in those woods. More than just stories
-    this time.
-  - "Still, there was something in the Rika\u2019s eyes... something I couldn\u2019t
-    ignore."
-  - And there are rumors, you know. Strange, unexplainable things in those woods
-    lately.
-  - "This time\u2026 it might be more than just a child\u2019s imagination. "
-  - "Thank you! Then it\u2019s time you met Rika for yourself."
-  - See you again!
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
-  autoProgressLines: 010001010001010101010001010001
+  autoProgressLines: 0001
   autoProgressLineDelay: 1
   choices:
   - dialogueIndex: 1
     choices:
     - Yeah. The name alone pulled me in.
     - Is this where the tutorial starts?
-    nextDialogueIndices: 0200000002000000
-  - dialogueIndex: 3
-    choices:
-    - I can't wait anymore.
-    - Do we get Primogems after a quest?
-    nextDialogueIndices: 0400000004000000
-  - dialogueIndex: 3
-    choices:
-    - I can't wait anymore.
-    - Do we get Primogems after a quest?
-    nextDialogueIndices: 0400000004000000
-  - dialogueIndex: 4
-    choices:
-    - Show me the requests.
-    - Not right now
-    nextDialogueIndices: 050000000e000000
-  - dialogueIndex: 12
-    choices:
-    - A hero like me can not let her down.
-    - Well, I guess my nap can wait.
-    nextDialogueIndices: 0d0000000d000000
-  endDialogueLine: 000000000000000000000000000100
+    nextDialogues:
+    - {fileID: 11400000, guid: ca0fe486d3fe6e84f93ce2ff360f4860, type: 2}
+    - {fileID: 11400000, guid: ca0fe486d3fe6e84f93ce2ff360f4860, type: 2}
+  endDialogueLine: 0001
   changeSceneOnEnd: 0
   nextSceneName: 
   triggerPlayStoryOnEnd: 0
   openTabOnEnd: 1
-  tabIndexToOpen: 1
+  tabIndexToOpen: 0
+  marksStageAsComplete: 0
+  triggersCutsceneOnEnd: 0
+  triggersBossAppearanceOnEnd: 0
+  resetsBossOnEnd: 0
+  opensStageMenuOnEnd: 0

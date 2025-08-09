@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
+  m_Name: Rika 2
+  m_EditorClassIdentifier: 
+  npcName: Rika
+  npcPortrait: {fileID: 0}
+  dialogueLines:
+  - She told me she was going into the forest to find herbs for my cough.
+  - "But she never came back\u2026"
+  - 'Then I remembered what Mama told me before she left:'
+  - "\u201CIf morning comes and I\u2019m still gone, seek a kind adventurer\u2026
+    one whose heart is pure and willing to help those in need.\u201D"
+  - "I didn\u2019t know how to reach the tavern, so\u2026 I wrote a letter. I didn\u2019t
+    even know if it would work."
+  - "But then\u2026 this big black bird appeared out of nowhere. It just\u2026 took
+    the letter and flew away."
+  typingSpeed: 0.05
+  voiceLines: []
+  voiceVolume: 1
+  autoProgressLines: 
+  autoProgressLineDelay: 2
+  choices:
+  - dialogueIndex: 5
+    choices:
+    - "That must be the letter I received\u2026 You\u2019ve been waiting here ever
+      since?"
+    nextDialogues:
+    - {fileID: 11400000, guid: 4fd6eedf133884a4597d5b5cb48a2687, type: 2}
+  endDialogueLine: 000000000001
+  changeSceneOnEnd: 0
+  nextSceneName: 
+  triggerPlayStoryOnEnd: 0
+  openTabOnEnd: 0
+  tabIndexToOpen: 0
+  marksStageAsComplete: 0
+  triggersCutsceneOnEnd: 0
+  triggersBossAppearanceOnEnd: 0
+  resetsBossOnEnd: 0
+  opensStageMenuOnEnd: 0

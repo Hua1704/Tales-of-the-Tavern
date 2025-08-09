@@ -10,26 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
-  m_Name: NPCDialogue
+  m_Name: Villager1
   m_EditorClassIdentifier: 
-  npcName: Hot girl
+  npcName: Villager1
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - "Oh? You\u2019re talking to me?"
+  - "You\u2019re not from around here, are you?  What brings you to our quiet village?"
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
-  autoProgressLines: 01
-  autoProgressLineDelay: 2
+  autoProgressLines: 0001010100
+  autoProgressLineDelay: 1.5
   choices:
   - dialogueIndex: 0
     choices:
-    - "W-What? No! I was just passing by\u2026"
-    - Of course I am. You caught my eye.
+    - "I\u2019m looking for a mother and her child Rika. Heard they live around here."
     nextDialogues:
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-  endDialogueLine: 
+    - {fileID: 11400000, guid: 47620bcddf5309a46b8c567e635240dd, type: 2}
+  endDialogueLine: 0000000001
   changeSceneOnEnd: 0
   nextSceneName: 
   triggerPlayStoryOnEnd: 0

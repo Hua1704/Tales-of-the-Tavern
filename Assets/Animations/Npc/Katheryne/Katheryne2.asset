@@ -15,15 +15,20 @@ MonoBehaviour:
   npcName: Katheryne
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - Gay
-  - Gay
-  - Gay
+  - "There\u2019s always someone in need... if you\u2019re still up for the adventure."
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
   autoProgressLines: 000000
   autoProgressLineDelay: 2
-  choices: []
+  choices:
+  - dialogueIndex: 0
+    choices:
+    - 'Not right now. '
+    - Show me the requests.
+    nextDialogues:
+    - {fileID: 11400000, guid: 3a9a39363d3b39c4f83bb6e4cf3ea15c, type: 2}
+    - {fileID: 11400000, guid: e5fd6da9cc53d7c4aab661f0ae03e597, type: 2}
   endDialogueLine: 000001
   changeSceneOnEnd: 0
   nextSceneName: 
@@ -32,3 +37,6 @@ MonoBehaviour:
   tabIndexToOpen: 0
   marksStageAsComplete: 0
   triggersCutsceneOnEnd: 0
+  triggersBossAppearanceOnEnd: 0
+  resetsBossOnEnd: 0
+  opensStageMenuOnEnd: 0

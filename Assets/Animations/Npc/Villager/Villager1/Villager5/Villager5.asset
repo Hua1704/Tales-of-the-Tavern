@@ -10,26 +10,31 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
-  m_Name: Villager2
+  m_Name: Villager5
   m_EditorClassIdentifier: 
-  npcName: Old Man
+  npcName: Old Lady
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - "Huh? You\u2019re asking about them?"
-  - "Not really. They don\u2019t come out much."
-  - "Once, I tried talking to the mother\u2026 but she looked startled then rushed
-    off toward the west."
-  - Weird vibe, honestly. Some folks around here even joke she might be a witch or
-    something.
-  - "You know how rumors are in small villages\u2026"
+  - " Hmm\u2026 a mother and her child, you say?"
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
-  autoProgressLines: 00
+  autoProgressLines: 01
   autoProgressLineDelay: 2
   choices:
   - dialogueIndex: 0
     choices:
-    - Do you know where they live?
-    nextDialogueIndices: 01000000
-  endDialogueLine: 0000000001
+    - Do you know where they might have gone?
+    nextDialogues:
+    - {fileID: 11400000, guid: 219a4092c5c9121488d96b126697afd1, type: 2}
+  endDialogueLine: 01
+  changeSceneOnEnd: 0
+  nextSceneName: 
+  triggerPlayStoryOnEnd: 0
+  openTabOnEnd: 0
+  tabIndexToOpen: 0
+  marksStageAsComplete: 0
+  triggersCutsceneOnEnd: 0
+  triggersBossAppearanceOnEnd: 0
+  resetsBossOnEnd: 0
+  opensStageMenuOnEnd: 0

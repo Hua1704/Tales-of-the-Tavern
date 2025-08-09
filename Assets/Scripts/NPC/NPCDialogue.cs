@@ -18,12 +18,13 @@ public class NPCDialogue : ScriptableObject
     public bool changeSceneOnEnd;
     public string nextSceneName;
     public bool triggerPlayStoryOnEnd;
-    public bool openTabOnEnd; 
+    public bool openTabOnEnd;
     public int tabIndexToOpen;
     public bool marksStageAsComplete;
     public bool triggersCutsceneOnEnd;
-    public bool triggersBossAppearanceOnEnd; 
+    public bool triggersBossAppearanceOnEnd;
     public bool resetsBossOnEnd;
+    public bool opensStageMenuOnEnd; 
 
 }
 [System.Serializable]
@@ -31,5 +32,6 @@ public class DialogueChoice
 {
     public int dialogueIndex;
     public string[] choices;
-    public int[] nextDialogueIndices; // Index of the dialogue line that this choice corresponds to
+   
+     public NPCDialogue[] nextDialogues; 
 }

@@ -10,26 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
-  m_Name: NPCDialogue
+  m_Name: NPCDialogue 2
   m_EditorClassIdentifier: 
   npcName: Hot girl
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - "Oh? You\u2019re talking to me?"
+  - Hmm... bold. I like that.
+  - Still... you're gonna need more than charm to win me over.
+  - "Come back in two years. Then maybe I\u2019ll let you take me out."
+  - Wink!
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
-  autoProgressLines: 01
+  autoProgressLines: 000001010101
   autoProgressLineDelay: 2
-  choices:
-  - dialogueIndex: 0
-    choices:
-    - "W-What? No! I was just passing by\u2026"
-    - Of course I am. You caught my eye.
-    nextDialogues:
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-  endDialogueLine: 
+  choices: []
+  endDialogueLine: 00000001
   changeSceneOnEnd: 0
   nextSceneName: 
   triggerPlayStoryOnEnd: 0

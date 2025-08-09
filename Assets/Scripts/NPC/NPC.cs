@@ -53,48 +53,50 @@ public class NPC : MonoBehaviour, IInteractable
 
     public void Interact()
     {
-        Debug.Log($"NPC {npcId} Interact called. isDialogueActive={isDialogueActive}");
-           if (GameManager.Instance.IsWitchsBossDefeated())
-            {
-                dialogueData = postBossDialogue;
-            }
-        // Check which dialogue to use based on the save file
-        else if (GameManager.Instance.GetNpcFlag(npcId))
-        {
-            dialogueData = subsequentDialogue;
-            Debug.Log($"NPC {npcId}: Using subsequent dialogue.");
-        }
-        else
-        {
-            dialogueData = firstTimeDialogue;
-            Debug.Log($"NPC {npcId}: Using first time dialogue.");
-        }
-
-        if (dialogueData == null)
-        {
-            Debug.LogWarning($"NPC {npcId} has no dialogue assigned.");
-            return;
-        }
-        if (isDialogueActive)
-        {
-            Nextline();
-        }
-        else
-        {
-            StartDialogue();
-        }
+           if (isDialogueActive)
+    {
+        // If a conversation is already running, just advance the line.
+        // DO NOT re-evaluate which dialogue to start.
+        Nextline();
+    }
+    else
+    {
+        // If no conversation is active, start a new one.
+        StartDialogue();
+    }
     }
 
     void StartDialogue()
-    {   
-        Pause.Instance.SetPause(true);
-        Debug.Log($"NPC {npcId}: Starting dialogue.");
-        isDialogueActive = true;
-        dialogueIndex = 0;
-        dialogueController.SetNPCInfo(dialogueData.npcName);
-        dialogueController.ShowDialogueUI(true);
-        
-        DisplayCurrentLine();
+    {
+        if (GameManager.Instance.IsWitchsBossDefeated())
+    {
+        dialogueData = postBossDialogue;
+    }
+    // 2. If not, fall back to the original check: Have we talked to this NPC before?
+    else if (GameManager.Instance.GetNpcFlag(npcId))
+    {
+        dialogueData = subsequentDialogue;
+    }
+    // 3. If none of the above, it must be the very first interaction.
+    else
+    {
+        dialogueData = firstTimeDialogue;
+    }
+
+    // Safety check
+    if (dialogueData == null)
+    {
+        Debug.LogWarning($"NPC {npcId} has no appropriate dialogue for the current game state.", this.gameObject);
+        return;
+    }
+
+    // Now, perform the setup.
+    Pause.Instance.SetPause(true);
+    isDialogueActive = true;
+    dialogueIndex = 0;
+    dialogueController.SetNPCInfo(dialogueData.npcName);
+    dialogueController.ShowDialogueUI(true);
+    DisplayCurrentLine();
     }
 
     void Nextline()
@@ -158,33 +160,54 @@ public class NPC : MonoBehaviour, IInteractable
         foreach (char letter in dialogueData.dialogueLines[dialogueIndex])
         {
             dialogueController.SetDialogueText(dialogueController.dialogueText.text + letter);
-             yield return new WaitForSecondsRealtime(dialogueData.typingSpeed);
+            yield return new WaitForSecondsRealtime(dialogueData.typingSpeed);
         }
         isTyping = false;
 
         if (dialogueData.autoProgressLines.Length > dialogueIndex && dialogueData.autoProgressLines[dialogueIndex])
         {
-             yield return new WaitForSecondsRealtime(dialogueData.autoProgressLineDelay);
+            yield return new WaitForSecondsRealtime(dialogueData.autoProgressLineDelay);
             Nextline();
         }
     }
 
     void DisplayChoices(DialogueChoice choice)
     {
-        Debug.Log($"NPC {npcId}: DisplayChoices called for dialogue index {dialogueIndex}.");
         dialogueController.clearChoices();
         for (int i = 0; i < choice.choices.Length; i++)
         {
-            int nextIndex = choice.nextDialogueIndices[i];
-            dialogueController.CreateChoiceButton(choice.choices[i], () => ChooseDialogueOption(nextIndex));
+
+            NPCDialogue nextDialoguePath = choice.nextDialogues[i];
+
+
+            dialogueController.CreateChoiceButton(choice.choices[i], () => ChooseDialogueOption(nextDialoguePath));
         }
     }
 
-    void ChooseDialogueOption(int nextIndex)
+    void ChooseDialogueOption(NPCDialogue nextDialogue)
     {
-        Debug.Log($"NPC {npcId}: ChooseDialogueOption called with nextIndex {nextIndex}.");
-        dialogueIndex = nextIndex;
         dialogueController.clearChoices();
+
+
+        if (nextDialogue == null)
+        {
+            Debug.LogWarning("The chosen dialogue path is not assigned. Ending conversation.");
+            EndDialogue(); // End the conversation cleanly.
+            return;
+        }
+
+
+        this.dialogueData = nextDialogue;
+
+
+        StartChainedDialogue();
+    }
+    void StartChainedDialogue()
+    {
+        isDialogueActive = true;
+        dialogueIndex = 0;
+        dialogueController.SetNPCInfo(dialogueData.npcName);
+        dialogueController.ShowDialogueUI(true);
         DisplayCurrentLine();
     }
 
@@ -205,8 +228,8 @@ public class NPC : MonoBehaviour, IInteractable
         dialogueController.SetDialogueText("");
         dialogueController.nameText.text = "";
         Pause.Instance.SetPause(false);
-        
-            if (finishedDialogue != null && finishedDialogue.resetsBossOnEnd)
+
+        if (finishedDialogue != null && finishedDialogue.resetsBossOnEnd)
         {
 
             GameManager.Instance.SetWitchsBossDefeated(false);
@@ -246,7 +269,7 @@ public class NPC : MonoBehaviour, IInteractable
             Debug.Log("Stage " + this.stageNumber + " has been marked as complete!");
         }
 
-        if (opensStageMenuOnEnd)
+        if (finishedDialogue != null && finishedDialogue.opensStageMenuOnEnd)
         {
             dialogueController.ShowPlayStory(true);
         }
@@ -254,9 +277,9 @@ public class NPC : MonoBehaviour, IInteractable
         {
             Debug.Log("Starting cutscene for NPC " + npcId);
             StartCutsceneAndLoadNextStage();
-            return; 
+            return;
         }
- 
+
     }
 
     // ==================== NEW CUTSCENE + FADE + SCENE LOADING CODE ====================

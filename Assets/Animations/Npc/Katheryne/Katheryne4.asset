@@ -10,23 +10,26 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
-  m_Name: Villager4
+  m_Name: Katheryne4
   m_EditorClassIdentifier: 
-  npcName: Kid2
+  npcName: Katheryne
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - " Hey hey! You\u2019re looking for someone?"
-  - "I knew it! One time I asked, and she just grinned and said: \u201CFollow the
-    path with the most pine trees! You\u2019ll find it!\u201D"
-  - I tried it once, but I got distracted by squirrels... good luck though!
+  - "Thank you! Then it\u2019s time you met Rika for yourself."
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
-  autoProgressLines: 00010101
+  autoProgressLines: 
   autoProgressLineDelay: 2
-  choices:
-  - dialogueIndex: 0
-    choices:
-    - ' Do you know where Rika lives?'
-    nextDialogueIndices: 01000000
+  choices: []
   endDialogueLine: 
+  changeSceneOnEnd: 0
+  nextSceneName: 
+  triggerPlayStoryOnEnd: 0
+  openTabOnEnd: 1
+  tabIndexToOpen: 0
+  marksStageAsComplete: 0
+  triggersCutsceneOnEnd: 0
+  triggersBossAppearanceOnEnd: 0
+  resetsBossOnEnd: 0
+  opensStageMenuOnEnd: 1
