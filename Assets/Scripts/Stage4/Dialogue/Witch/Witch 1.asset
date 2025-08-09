@@ -10,26 +10,29 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
-  m_Name: NPCDialogue
+  m_Name: Witch 1
   m_EditorClassIdentifier: 
-  npcName: Hot girl
+  npcName: The Witch
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - "Oh? You\u2019re talking to me?"
+  - "Oh, don\u2019t mind them. They were too loud anyway."
+  - "Such noise ruins the sanctity of my Lord\u2019s return"
+  - "But you\u2026 you're different."
+  - "There\u2019s something about you."
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
-  autoProgressLines: 01
+  autoProgressLines: 01000000000000000000000000
   autoProgressLineDelay: 2
   choices:
-  - dialogueIndex: 0
+  - dialogueIndex: 3
     choices:
-    - "W-What? No! I was just passing by\u2026"
-    - Of course I am. You caught my eye.
+    - Enough with the nonsense.
+    - Whatever this is, it's over.
     nextDialogues:
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-  endDialogueLine: 
+    - {fileID: 11400000, guid: c82a1ca6e21b58c4f8ef523565665f82, type: 2}
+    - {fileID: 11400000, guid: c82a1ca6e21b58c4f8ef523565665f82, type: 2}
+  endDialogueLine: 00000000000000000000000001
   changeSceneOnEnd: 0
   nextSceneName: 
   triggerPlayStoryOnEnd: 0

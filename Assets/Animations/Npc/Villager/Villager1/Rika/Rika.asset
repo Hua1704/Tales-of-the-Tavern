@@ -10,26 +10,27 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
-  m_Name: NPCDialogue
+  m_Name: Rika
   m_EditorClassIdentifier: 
-  npcName: Hot girl
+  npcName: Rika
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - "Oh? You\u2019re talking to me?"
+  - "Ah\u2014! \u2026Y-you\u2019re\u2026 you\u2019re not from the village, are you? "
+  - "You\u2026 you came to help me, didn\u2019t you?"
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
-  autoProgressLines: 01
+  autoProgressLines: 
   autoProgressLineDelay: 2
   choices:
-  - dialogueIndex: 0
+  - dialogueIndex: 1
     choices:
-    - "W-What? No! I was just passing by\u2026"
-    - Of course I am. You caught my eye.
+    - "Are you Rika? I\u2019ve been looking for you."
+    - "Calm down\u2026 what\u2019s going on here?"
     nextDialogues:
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-  endDialogueLine: 
+    - {fileID: 11400000, guid: 6f567be8856b52b45bb1a4817ce286f1, type: 2}
+    - {fileID: 11400000, guid: 6f567be8856b52b45bb1a4817ce286f1, type: 2}
+  endDialogueLine: 0001
   changeSceneOnEnd: 0
   nextSceneName: 
   triggerPlayStoryOnEnd: 0

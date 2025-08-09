@@ -10,26 +10,24 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
-  m_Name: NPCDialogue
+  m_Name: Villager2 1
   m_EditorClassIdentifier: 
-  npcName: Hot girl
+  npcName: Old Man
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - "Oh? You\u2019re talking to me?"
+  - "Not really. They don\u2019t come out much."
+  - "Once, I tried talking to the mother\u2026 but she looked startled then rushed
+    off toward the west."
+  - Weird vibe, honestly. Some folks around here even joke she might be a witch or
+    something.
+  - "You know how rumors are in small villages\u2026"
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
-  autoProgressLines: 01
-  autoProgressLineDelay: 2
-  choices:
-  - dialogueIndex: 0
-    choices:
-    - "W-What? No! I was just passing by\u2026"
-    - Of course I am. You caught my eye.
-    nextDialogues:
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-  endDialogueLine: 
+  autoProgressLines: 00
+  autoProgressLineDelay: 0
+  choices: []
+  endDialogueLine: 00000001
   changeSceneOnEnd: 0
   nextSceneName: 
   triggerPlayStoryOnEnd: 0

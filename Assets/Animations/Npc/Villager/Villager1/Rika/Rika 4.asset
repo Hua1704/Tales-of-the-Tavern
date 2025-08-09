@@ -10,24 +10,27 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
-  m_Name: Villager3
+  m_Name: Rika 4
   m_EditorClassIdentifier: 
-  npcName: Kid 1
+  npcName: Rika
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - ' Hi! Are you an adventurer?'
-  - ' Oh! She is my new friend!'
-  - "She told me her mom never lets her play in front of their house\u2014she says
-    it\u2019s too dangerous\u2026"
-  - "There\u2019s a river there, I think. I can't even swim yet, so\u2026 makes sense?"
+  - "\u2026Thank you."
+  - "Please\u2026 bring Mama back. I miss her so much."
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
   autoProgressLines: 
   autoProgressLineDelay: 2
-  choices:
-  - dialogueIndex: 0
-    choices:
-    - Do you know a little girl named Rika?
-    nextDialogueIndices: 01000000
-  endDialogueLine: 00000001
+  choices: []
+  endDialogueLine: 0001
+  changeSceneOnEnd: 1
+  nextSceneName: Stage2
+  triggerPlayStoryOnEnd: 0
+  openTabOnEnd: 0
+  tabIndexToOpen: 0
+  marksStageAsComplete: 1
+  triggersCutsceneOnEnd: 1
+  triggersBossAppearanceOnEnd: 0
+  resetsBossOnEnd: 0
+  opensStageMenuOnEnd: 0

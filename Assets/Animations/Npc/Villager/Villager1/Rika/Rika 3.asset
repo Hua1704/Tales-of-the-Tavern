@@ -10,25 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
-  m_Name: NPCDialogue
+  m_Name: Rika 3
   m_EditorClassIdentifier: 
-  npcName: Hot girl
+  npcName: Rika
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - "Oh? You\u2019re talking to me?"
+  - "Yes\u2026 I\u2019ve been standing in front of our house all morning, hoping
+    Mama would come back."
+  - "Or\u2026 that someone would come to help."
+  - "And now\u2026 you\u2019re here."
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
-  autoProgressLines: 01
+  autoProgressLines: 
   autoProgressLineDelay: 2
   choices:
-  - dialogueIndex: 0
+  - dialogueIndex: 2
     choices:
-    - "W-What? No! I was just passing by\u2026"
-    - Of course I am. You caught my eye.
+    - "I\u2019ll find your mother, Rika. You can count on me."
+    - Guess I showed up just in time, huh?
     nextDialogues:
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
+    - {fileID: 11400000, guid: ab14d33228ebf954b9f184a2867cd688, type: 2}
+    - {fileID: 11400000, guid: ab14d33228ebf954b9f184a2867cd688, type: 2}
   endDialogueLine: 
   changeSceneOnEnd: 0
   nextSceneName: 

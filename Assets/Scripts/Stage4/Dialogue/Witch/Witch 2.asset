@@ -10,26 +10,25 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
-  m_Name: NPCDialogue
+  m_Name: Witch 2
   m_EditorClassIdentifier: 
-  npcName: Hot girl
+  npcName: The Witch
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - "Oh? You\u2019re talking to me?"
+  - "~Oh ancient one, born of ooze and hunger\u2026"
+  - ~Bear witness to this final rite
+  - "~I offer you the perfect vessel\u2014"
+  - "~A heart of kindness\u2026"
+  - "~A mind of clarity\u2026"
+  - ~And a soul of courage.
+  - ~Let this sacrifice be worthy of your return.
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
-  autoProgressLines: 01
+  autoProgressLines: 01000000000000000000000000
   autoProgressLineDelay: 2
-  choices:
-  - dialogueIndex: 0
-    choices:
-    - "W-What? No! I was just passing by\u2026"
-    - Of course I am. You caught my eye.
-    nextDialogues:
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-  endDialogueLine: 
+  choices: []
+  endDialogueLine: 00000000000001
   changeSceneOnEnd: 0
   nextSceneName: 
   triggerPlayStoryOnEnd: 0
@@ -37,6 +36,6 @@ MonoBehaviour:
   tabIndexToOpen: 0
   marksStageAsComplete: 0
   triggersCutsceneOnEnd: 0
-  triggersBossAppearanceOnEnd: 0
+  triggersBossAppearanceOnEnd: 1
   resetsBossOnEnd: 0
   opensStageMenuOnEnd: 0

@@ -10,25 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
-  m_Name: NPCDialogue
+  m_Name: NPCDialogue 1
   m_EditorClassIdentifier: 
   npcName: Hot girl
   npcPortrait: {fileID: 0}
   dialogueLines:
-  - "Oh? You\u2019re talking to me?"
+  - "You\u2019re kind of cute... I like that kind of boy."
   typingSpeed: 0.05
   voiceLines: []
   voiceVolume: 1
-  autoProgressLines: 01
+  autoProgressLines: 000001010101
   autoProgressLineDelay: 2
   choices:
   - dialogueIndex: 0
     choices:
-    - "W-What? No! I was just passing by\u2026"
-    - Of course I am. You caught my eye.
+    - Uhh... thanks? I think?
     nextDialogues:
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
-    - {fileID: 11400000, guid: 394ee88e76ea43043b176a82254fd49a, type: 2}
+    - {fileID: 11400000, guid: 8553104c57e19eb42a888cafcaea4590, type: 2}
   endDialogueLine: 
   changeSceneOnEnd: 0
   nextSceneName: 
