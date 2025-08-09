@@ -312,7 +312,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 469df7d32e028c44cb31380081625d73, type: 3}
   m_Resource: {fileID: 8300000, guid: 469df7d32e028c44cb31380081625d73, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.66
@@ -3802,7 +3802,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: d4ebd6c934415ea47960e54039e2b771, type: 3}
   m_Resource: {fileID: 8300000, guid: d4ebd6c934415ea47960e54039e2b771, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.68
@@ -5957,7 +5957,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 98725ff7373a50a48a2fce0389d8f2c1, type: 3}
   m_Resource: {fileID: 8300000, guid: 98725ff7373a50a48a2fce0389d8f2c1, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
@@ -6410,11 +6410,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3225027976031727042, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: attackDamage
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3695726485492520969, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: attackDamage
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4112629037956126564, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_Enabled
@@ -6430,7 +6430,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4885639348591151918, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: health
-      value: 1
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4885639348591151918, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: MAX_HEALTH
@@ -6438,7 +6438,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6485847846810430454, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: attackDamage
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8356081978992853949, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_VideoClip
