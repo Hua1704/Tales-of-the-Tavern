@@ -1,10 +1,10 @@
 # Tales of the Tavern game
 
 ### Student info
-22125012 - Pham Quoc Buu 
-22125025 - Huynh Huu Hau
-22125093 - Tran Nhat Thanh
-22125106 - Trang Dang Duc Tin
+- 22125012 - Pham Quoc Buu 
+- 22125025 - Huynh Huu Hau
+- 22125093 - Tran Nhat Thanh
+- 22125106 - Trang Dang Duc Tin
 ### Description
 
 Tales of the Tavern is a 2d top down game with pixel art style in which you, the player, will  be playing as a knight to complete a quest by passing through various trials.
@@ -28,8 +28,6 @@ Unity 6000.1.14f1
 - A* Pathfinding Algorithm implemented for enemy AI. 
 
 - Dialogue system for storytelling aspect
-
-- Object Pool implemented for bullets.
 
 - Singleton Pattern is used for Game Manager Scripts.
 - Advanced UI system
