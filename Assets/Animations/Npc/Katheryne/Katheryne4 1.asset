@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ad468775ebea114f840be67f7d7821d, type: 3}
+  m_Name: Katheryne4 1
+  m_EditorClassIdentifier: 
+  npcName: Katheryne
+  npcPortrait: {fileID: 0}
+  dialogueLines:
+  - " Whenever you\u2019re set, just choose your path. Rika\u2019s fate won\u2019t
+    wait forever."
+  typingSpeed: 0.05
+  voiceLines: []
+  voiceVolume: 1
+  autoProgressLines: 
+  autoProgressLineDelay: 2
+  choices: []
+  endDialogueLine: 
+  changeSceneOnEnd: 0
+  nextSceneName: 
+  triggerPlayStoryOnEnd: 0
+  openTabOnEnd: 1
+  tabIndexToOpen: 0
+  marksStageAsComplete: 0
+  triggersCutsceneOnEnd: 0
+  triggersBossAppearanceOnEnd: 0
+  resetsBossOnEnd: 0
+  opensStageMenuOnEnd: 1
