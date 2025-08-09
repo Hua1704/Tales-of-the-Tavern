@@ -82,8 +82,17 @@ public class GameManager : MonoBehaviour
         if(playerInfo == null && gameOverScreen == null)
         {
             playerInfo = GameObject.FindGameObjectWithTag("Player").GetComponent<BaseUnit>();
-            gameOverScreen = GameObject.Find("GameOver").GetComponentInChildren<BoxCollider2D>(true).gameObject;
-            deathCamera = gameOverScreen.GetComponentInChildren<Camera>(true);
+            GameObject gameOver = GameObject.Find("GameOver");
+            if ( gameOver!=null)
+            {
+                gameOverScreen = gameOver.GetComponentInChildren<BoxCollider2D>(true).gameObject;
+                deathCamera = gameOverScreen.GetComponentInChildren<Camera>(true);
+            }
+            else
+            {
+                gameOverScreen = null;
+            }
+            
         }
         if ((playerInfo.health == 0 || playerInfo == null) && gameOverScreen != null && !gameOverScreen.activeSelf)
         {
