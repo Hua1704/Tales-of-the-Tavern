@@ -312,7 +312,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 469df7d32e028c44cb31380081625d73, type: 3}
   m_Resource: {fileID: 8300000, guid: 469df7d32e028c44cb31380081625d73, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.66
@@ -2474,7 +2474,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6246303527169295305, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -0.000017166138
+      value: -0.0000705719
       objectReference: {fileID: 0}
     - target: {fileID: 6246303527169297653, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchorMax.x
@@ -2566,7 +2566,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6246303527169321845, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0.000005722046
+      value: -0.000005722046
       objectReference: {fileID: 0}
     - target: {fileID: 6246303527169329325, guid: 0be992b7b60c8b7418f3e627a575e919, type: 3}
       propertyPath: m_AnchorMax.x
@@ -3794,7 +3794,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: d4ebd6c934415ea47960e54039e2b771, type: 3}
   m_Resource: {fileID: 8300000, guid: d4ebd6c934415ea47960e54039e2b771, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.68
@@ -5949,7 +5949,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 98725ff7373a50a48a2fce0389d8f2c1, type: 3}
   m_Resource: {fileID: 8300000, guid: 98725ff7373a50a48a2fce0389d8f2c1, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
@@ -6394,7 +6394,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1023522082142903598, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: attackDamage
-      value: 5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2645528342154384081, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: moveSpeed
@@ -6402,11 +6402,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3225027976031727042, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: attackDamage
-      value: 5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3695726485492520969, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: attackDamage
-      value: 5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4112629037956126564, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_Enabled
@@ -6422,7 +6422,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4885639348591151918, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: health
-      value: 1
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4885639348591151918, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: MAX_HEALTH
@@ -6430,7 +6430,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6485847846810430454, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: attackDamage
-      value: 5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8356081978992853949, guid: 0914a7c0724f5a34b9f62103914b6e95, type: 3}
       propertyPath: m_VideoClip
