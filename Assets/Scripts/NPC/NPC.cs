@@ -12,6 +12,8 @@ public class NPC : MonoBehaviour, IInteractable
     private int dialogueIndex;
     private bool isDialogueActive, isTyping;
     private DialogueController dialogueController;
+ 
+    public int stageNumber; 
     private void Start()
     {
         dialogueController = DialogueController.Intstance;
@@ -147,8 +149,8 @@ void Nextline()
     dialogueController.SetDialogueText("");
     dialogueController.nameText.text = "";
 
-    // --- NEW LOGIC HIERARCHY ---
-
+    
+   
     // ACTION 1: Open a specific tab in a menu?
     if (dialogueData.openTabOnEnd)
     {
@@ -156,7 +158,7 @@ void Nextline()
         TabController.Instance.OpenMenuAndActivateTab(dialogueData.tabIndexToOpen);
         // The game remains paused while the menu is open.
     }
-
+     
     else if (dialogueData.changeSceneOnEnd)
     {
         if (!string.IsNullOrEmpty(dialogueData.nextSceneName))
