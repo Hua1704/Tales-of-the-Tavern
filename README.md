@@ -7,7 +7,10 @@
 - 22125106 - Trang Dang Duc Tin
 ### Description
 
-Tales of the Tavern is a 2d top down game with pixel art style in which you, the player, will  be playing as a knight to complete a quest by passing through various trials.
+Tales of the Tavern is a 2D top-down game with pixel art style in which you, the player, will be playing as a knight to complete a quest by passing through various trials.
+
+[![Tales of the Tavern Trailer](https://img.youtube.com/vi/3J9PEztvVFQ/0.jpg)](https://www.youtube.com/watch?v=3J9PEztvVFQ)
+*(Click into image to watch gameplay trailer)*
 
   
   
